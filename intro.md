@@ -6,8 +6,7 @@ subtitle: A brief introduction between UI & UX
 
 ### UI: User Interface
 
-UI can be thought of as a tool for creating a product’s layout. UI consists of the following:
-
+UI can be thought of as a tool for creating a product’s layout. UI consists of the following:  
 - The navigation and components that allow the user to interact with the system
 - The messages and information communicated to the user
 
@@ -15,9 +14,9 @@ Because UI is the most tactile, visceral, and visible method for interacting wit
 
 UI designers oversee the design of each screen and page, and they ensure that the interface clearly communicates the most effective path of interaction with the system.
 
-In games, the UI covers two areas: 
-
+In games, the UI covers two areas:   
 - **Front-end (FE) menus:** FE is about information architecture and enabling players to navigate the structure of the content outside the core, moment-to-moment gameplay. The menus should let users access all features of the game within a consistent, coherent design that thematically binds all menu systems together. From the Title screen to End Credits, the FE should keep players immersed in the product.
+
 - **Heads-up display (HUD):** HUD design is about interactions that consist of context-based messages and that must be instant and recognizable to the player. Messages must not create clutter or distract the player's view. Relevant information should be surfaced to the game’s actions, in addition to providing clear indication of the state of each action. Urgency is key, and the HUD should guide the player from core gameplay mechanics to long-term progression.
 
 _Deliverables_: Wireframes, Static and Motion Mockups
