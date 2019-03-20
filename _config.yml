@@ -23,7 +23,7 @@ description: proof of working template - first attempt
 
 # List of links in the navigation bar
 navbar-links:
-  Intro: "aboutme"
+  Intro: "intro"
   Topics:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
