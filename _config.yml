@@ -49,13 +49,13 @@ avatar: "/img/icon_gameux.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#e8e8e8"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#f2f2f2"
 link-col: "#ff7500"
 hover-col: "#e36812"
-footer-col: "#F5F5F5"
+footer-col: "#e8e8e8"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
