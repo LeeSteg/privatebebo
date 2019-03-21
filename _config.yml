@@ -24,13 +24,18 @@ description: proof of working template - first attempt
 # List of links in the navigation bar
 navbar-links:
   Intro: "intro"
-  Topics:
+  Fundamentals:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - The Basics: "https://pages.github.com/"
-  Designers: "http://deanattali.com"
-  Tag Search: "tags"
+  Topics:
+    - Topic One: "https://pages.github.com/"
+    - Topic Two: "https://pages.github.com/"
+    - Topic Three: "https://pages.github.com/"
+    - Topic Four: "https://pages.github.com/"
+# Designers: "http://deanattali.com"
+  ToC: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
