@@ -13,6 +13,12 @@ Why is this important? Players want the UI to be responsive to context and as co
 
 ![Design Not Linear](img/Design_Not_Linear.gif)
 
+![Design Not Linear2]("img/Design_Not_Linear.gif")
+
+![Design Not Linear3](BeboMalaka.github.io/img/Design_Not_Linear.gif)
+
+![Design Not Linear4](https://github.com/BeboMalaka/BeboMalaka.github.io/img/Design_Not_Linear.gif)
+
 The **DOs** of the design process:
 
 - Make the UI legible at a distance greater than 6 feet.
