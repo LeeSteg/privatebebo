@@ -13,9 +13,9 @@ Why is this important? Players want the UI to be responsive to context and as co
 
 ![Design is not Linear](img/Design_Not_Linear.gif)
 
-![Design is not Linear2]("img/Design_Not_Linear.gif")
+![Design is not Linear2](BeboMalaka.github.io/img/Design_Not_Linear.gif)
 
-![Design is not Linear3](BeboMalaka.github.io/img/Design_Not_Linear.gif)
+![Design is not Linear3]( BeboMalaka.github.io/img/Design_Not_Linear.gif )
 
 ![Design is not Linear4](https://github.com/BeboMalaka/BeboMalaka.github.io/img/Design_Not_Linear.gif)
 
