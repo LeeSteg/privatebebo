@@ -25,14 +25,19 @@ The **DON'Ts** of the design process:
 - Do not display vital information in a small font or outside the safe action zone.
 - Do not show too much information. You want the players to play the game, not the UI.
 - Do not rely on color alone to convey different states.
-<br>
-<br>
+
+
 UI is used to support contextual information and actions in the game. Without good Art Direction, you might end up with information displayed inconsistently and with many elements competing for the player’s attention:
 
-![Design clutter](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_No.jpg)
+![Design clutter](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_No.jpg) 
+
+<img src="Design_HUD_No.jpg" width="200"/>
+
 
 Design your UI components such that there is no need to explicitely display “YOUR HEALTH IS LOW!”
+
 ![Low Health](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNo.jpg )
 
 Next-generation effects might not always improve the design. Instead, ensure that the elements are subtle and work together.
+
 ![Effects are not the answer](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg )
