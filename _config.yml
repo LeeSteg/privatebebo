@@ -27,7 +27,7 @@ navbar-links:
   Fundamentals:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - Getting Started: "intro"
+    - Getting Started: "GettingStarted"
     - Terminology: "https://pages.github.com/"
     - Knowledge: "https://pages.github.com/"
     - The Process: "https://pages.github.com/"
