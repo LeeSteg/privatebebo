@@ -5,7 +5,7 @@ subtitle: Does it look or feel good?
 tags: [XX, layout, new]
 ---
 
-### Art Direction: _“Does it feel good?”_ 
+### Art Direction: _“Does it feel good?”_  
 Art Direction is the use of art and design to create an emotional connection with the player. Art Direction comprises the overall concept and guidelines that the design must follow to ensure the game elicits an emotional response from the player.
 Art Direction adds a level of humanity and substance to the design, and it helps tell a story to the targeted market or community. 
 <br>
