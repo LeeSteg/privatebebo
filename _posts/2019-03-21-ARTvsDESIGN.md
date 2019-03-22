@@ -10,7 +10,7 @@ Art Direction is the use of art and design to create an emotional connection wit
 Art Direction adds a level of humanity and substance to the design, and it helps tell a story to the targeted market or community. 
 <br>
 <br>
-> “Art direction is the why. It’s the concept and decisions that wrap itself around the entire product.”   - [Jarrod Riddle](ttp://www.lifeislottery.com/), Senior Art Director, Big Spaceship
+> “Art direction is the why. It’s the concept and decisions that wrap itself around the entire product.”   - [Jarrod Riddle](www.lifeislottery.com), Senior Art Director, Big Spaceship
 
 <br>
 
@@ -24,4 +24,4 @@ Art Direction adds a level of humanity and substance to the design, and it helps
 - Are the composition and layout balanced?
 <br>
 <br>
-> “Design is the how. It’s the foundation of all communication, the process and production of typography, color, scale, and placement.”    - [Jarrod Riddle](ttp://www.lifeislottery.com/), _Senior Art Director, Big Spaceship_
+> “Design is the how. It’s the foundation of all communication, the process and production of typography, color, scale, and placement.”    - [Jarrod Riddle](www.lifeislottery.com), _Senior Art Director, Big Spaceship_
