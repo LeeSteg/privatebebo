@@ -43,3 +43,4 @@ Next-generation effects might not always improve the design. Instead, ensure tha
 
 <img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg" width="500">
 
+
