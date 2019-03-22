@@ -29,18 +29,15 @@ The **DON'Ts** of the design process:
 
 UI is used to support contextual information and actions in the game. Without good Art Direction, you might end up with information displayed inconsistently and with many elements competing for the player’s attention:
 
-![Design clutter](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_No.jpg) 
-
+<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_No.jpg" width="640">
 
 Design your UI components such that there is no need to explicitely display “YOUR HEALTH IS LOW!”
 
-![Low Health](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNo.jpg)
+<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNo.jpg" width="640">
 
 
 Next-generation effects might not always improve the design. Instead, ensure that the elements are subtle and work together.
 
-![Effects are not the answer](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg)
-
-<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg" width="500">
+<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg" width="640">
 
 
