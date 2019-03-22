@@ -14,8 +14,7 @@ Art Direction adds a level of humanity and substance to the design, and it helps
 
 <br>
 
-## Cognitive design: _“Does it look good?”_
- Cognitive Design focuses on the technical execution of topics through the use of color, composition, and legibility. It validates the functionally and implements the visual elements specified by Art Direction.  
+### Cognitive design: _“Does it look good?”_  Cognitive Design focuses on the technical execution of topics through the use of color, composition, and legibility. It validates the functionally and implements the visual elements specified by Art Direction.  
  
  Design is the _technical execution_ of the connection between the message and audience. It answers the practical questions about the content, such as:
 - Do the colors match? 
