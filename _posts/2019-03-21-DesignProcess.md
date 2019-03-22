@@ -31,12 +31,11 @@ UI is used to support contextual information and actions in the game. Without go
 
 ![Design clutter](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_No.jpg) 
 
-<img src="Design_HUD_No.jpg" width="200"/>
-
 
 Design your UI components such that there is no need to explicitely display “YOUR HEALTH IS LOW!”
 
 ![Low Health](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNo.jpg )
+
 
 Next-generation effects might not always improve the design. Instead, ensure that the elements are subtle and work together.
 
