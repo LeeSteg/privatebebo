@@ -34,11 +34,10 @@ UI is used to support contextual information and actions in the game. Without go
 
 Design your UI components such that there is no need to explicitely display “YOUR HEALTH IS LOW!”
 
-![Low Health](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNo.jpg )
+![Low Health](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNo.jpg)
 
 
 Next-generation effects might not always improve the design. Instead, ensure that the elements are subtle and work together.
 
-![Effects are not the answer](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg )
+![Effects are not the answer](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg)
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
