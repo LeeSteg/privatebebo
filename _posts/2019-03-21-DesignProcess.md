@@ -11,6 +11,8 @@ To simplify the Design Process, begin by looking at the Art Direction and Cognit
 
 Why is this important? Players want the UI to be responsive to context and as comprehensive as possible. It’s a balancing act between form and function.
 
+![Design is not Linear1](img/Design_Not_Linear.gif)
+
 ![Design is not Linear2](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_Not_Linear.gif)
 
 The **DOs** of the design process:
