@@ -41,3 +41,5 @@ Next-generation effects might not always improve the design. Instead, ensure tha
 
 ![Effects are not the answer](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg)
 
+<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg" width="200">
+
