@@ -2,7 +2,7 @@
 layout: post
 title: Design Process
 subtitle: Design is not Linear
-tags: [Design, Getting Started]
+tags: [Getting Started, Design]
 ---
 
 Although a good design might look simple and easy to use and even replicate, the design process itself was probably far from linear. In fact, Design Process is usually messy and involves multiple iterations and refinements, and some ideas get tossed out completely.
