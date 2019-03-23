@@ -2,7 +2,7 @@
 layout: post
 title: Design for the Senses
 subtitle: Touch  Sound  Sight
-tags: [Getting Started, design]
+tags: [Getting Started, Design]
 ---
 
 The best games are most immersive because they make use of the most senses.  
