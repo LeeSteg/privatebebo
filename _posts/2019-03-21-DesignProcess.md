@@ -11,7 +11,7 @@ To simplify the Design Process, begin by looking at the Art Direction and Cognit
 
 Why is this important? Players want the UI to be responsive to context and as comprehensive as possible. It’s a balancing act between form and function.
 
-![Design is not Linear](https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_Not_Linear.gif)
+![Design is not Linear](/img/Design_Not_Linear.gif)
 
 The **DOs** of the design process:
 
@@ -29,15 +29,13 @@ The **DON'Ts** of the design process:
 
 UI is used to support contextual information and actions in the game. Without good Art Direction, you might end up with information displayed inconsistently and with many elements competing for the player’s attention:
 
-<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_No.jpg" width="640">
+![Design No](/img/Design_HUD_No.jpg)
 
 Design your UI components such that there is no need to explicitely display “YOUR HEALTH IS LOW!”
 
-<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNo.jpg" width="640">
-
+![Design NoNo](/img/Design_HUD_NoNo.jpg)
 
 Next-generation effects might not always improve the design. Instead, ensure that the elements are subtle and work together.
 
-<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Design_HUD_NoNoNo.jpg" width="640">
-
+![Effects are not the answer](/img/Design_HUD_NoNoNo.jpg)
 
