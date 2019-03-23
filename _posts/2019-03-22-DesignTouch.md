@@ -9,8 +9,6 @@ tags: [Getting Started, design]
 The best games are most immersive because they make use of the most senses.  
 The more senses you want to design for, and the more immersive experience you want to create, the more planning you have to do. Because using the senses of taste and smell in games is not mainstream yet, we’ll focus on the other three senses: touch, sound, and sight.
 
-<img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Sense_Touch.png" width="250">
-
 ![Touch](/img/Sense_Touch.png)
 
 ## Touch
@@ -29,7 +27,7 @@ The controller’s layout can make or break the players’ experiences with a ga
 Console games have been around for decades, so a number of interactions have become standard and are even expected by players today.
 
 ### Microsoft's Xbox One
-![Xbox One controller](blob/master/img/Xbox_Controller.jpg)
+![Xbox One controller](/img/Xbox_Controller.jpg)
 
 Menu navigation controls of the Xbox One controller
 - **A**: enter, select, confirm
@@ -51,7 +49,7 @@ Menu navigation controls of the Xbox One controller
  
 ### Sony's Playstation Controller
 
-![PS4 controller](blob/master/img/PS4_Controller.jpg)
+![PS4 controller](/img/PS4_Controller.jpg)
 
 The layouts of the PlayStation and Xbox controllers are very similar. One major exception is the touchpad, which was introduced in PlayStation 4 and offers additional opportunities for input.  
 Menu navigation controls of the PS4 controller
@@ -75,7 +73,7 @@ Menu navigation controls of the PS4 controller
 
 ### Nintendo's Switch Controller
 
-![Switch controller](blob/master/img/Switch_Controller.jpg)
+![Switch controller](/img/Switch_Controller.jpg)
 
 The Switch controller is similar to the Xbox and PlayStation controllers but can also be split into two controllers that have similar but limited layouts.  
 Menu navigation controls of the Switch controller
@@ -99,7 +97,7 @@ Menu navigation controls of the Switch controller
 
 ### Microsoft's Xbox Adaptive Controller
 
-![Xbox Adaptive controller](blob/master/img/Xbox_Adaptive_Controller.jpg)
+![Xbox Adaptive controller](/img/Xbox_Adaptive_Controller.jpg)
 
 Designed primarily to meet the needs of gamers with limited mobility, the Xbox Adaptive Controller is a unified hub for devices and is designed to make gaming more accessible. It works with a range of external devices (such as switches, buttons, mounts, and joysticks) to create a customizable controller experience unique to a player.
 
