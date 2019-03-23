@@ -159,8 +159,6 @@ The following are some of the common mouse and keyboard input designs adapted fo
 | | _Aim, Accelerate_ | Left Trigger |
 | | _Shoot, Brake_ | Right Trigger |
 
-<br>
-
 {: .box-warning}
 **Tip:** Use the face buttons to test your core gameplay action. Use the shoulder and trigger buttons to modify actions. Use the D-Pad to select modes and abilities. 
 
