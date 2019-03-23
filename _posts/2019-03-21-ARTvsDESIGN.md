@@ -2,7 +2,7 @@
 layout: post
 title: Art vs Design
 subtitle: Does it look or feel good?
-tags: [Art, Design, Getting Started]
+tags: [Getting Started, Art, Design]
 ---
 
 ### Art Direction: _“Does it feel good?”_  
