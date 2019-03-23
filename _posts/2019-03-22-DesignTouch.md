@@ -2,7 +2,6 @@
 layout: post
 title: Design for the Senses
 subtitle: Touch  Sound  Sight
-bigimg: /img/Design_Common_Senses_long.png
 tags: [Getting Started, design]
 ---
 
