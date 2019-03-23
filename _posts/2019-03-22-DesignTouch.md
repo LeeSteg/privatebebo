@@ -11,6 +11,8 @@ The more senses you want to design for, and the more immersive experience you wa
 
 <img src="https://github.com/BeboMalaka/BeboMalaka.github.io/blob/master/img/Sense_Touch.png" width="250">
 
+![Touch](/img/Sense_Touch.png)
+
 ## Touch
 Most console games use a controller that has a set number of buttons and analog joysticks. Because interaction through these elements isn’t as fast or precise as through a mouse or direct touch, you should understand the limitations of your controller device.
 
