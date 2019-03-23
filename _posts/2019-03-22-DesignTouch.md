@@ -162,3 +162,30 @@ The following are some of the common mouse and keyboard input designs adapted fo
 {: .box-warning}
 **Tip:** Use the face buttons to test your core gameplay action. Use the shoulder and trigger buttons to modify actions. Use the D-Pad to select modes and abilities. 
 
+<br>
+
+## Sound
+Up to 50% of UX comes from sound, yet many games do not utilize sound as effectively as they could. Watching a favorite movie without sound would quickly convince you that the impact is not quite the same.
+
+Sound design for a game is often an afterthought and implemented at the very end of production, with minimal resources and budget dedicated for proper sound production. Instead, sound design should be taken as seriously as any other element in production.
+
+Use sound when it is most impactful to gameplay, such as setting a mood or drawing attention to important information on the screen. 
+
+<br>
+
+Here are a few examples:
+- A player uses the frontend menu to enter a Microsoft Store page. 
+Rather than having the user transition through all the elements without sound, use a bell or a subtle ring at the end of each transition, and highlight new items for sale. Not only would the sound draw attention to a new item on the screen, but it would also teach the user that the sound of a bell means a new feature is available in the store.
+- A player uses the HUD to look down the scope of a gun. 
+To increase the feeling of tension, trigger a heartbeat sound while the player is trying to focus on a target. In a sports game such as basketball, trigger the same heartbeat sound while the player is about to take that critical last shot, with seconds remaining in the game.
+
+The sound effects illustrated in these examples do not stop gameplay; in fact, they make the experience much more immersive.
+
+<br>
+
+## Sight
+Sight is the sense that video games exploit most extensively. Visuals set the mood and help tell a story. Take advantage of the composition theory to come up with imagery that can help you get ahead of your competition.
+
+
+{: .box-warning}
+**Tip:** Do not overload the player with information and visuals.
