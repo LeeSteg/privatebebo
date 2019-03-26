@@ -43,7 +43,7 @@ FE menus are ubiquitous and provide players with a vast array of customization s
 ### WCG: Wide Color Gamut
 WCG is the range of colors that can be rendered on HDR (High Dynamic Range) television screens, monitors, and phones. A typical SDR (Standard Dynamic Range) television or monitor has a color depth of 8 bits and 16.7 million (256 x 256 x 256) colors available. On the other hand, a typical WCG device has a color depth of 10 bits and 1.07 billion (1024 x 1024 x 1024) colors available. Thus, WCG produces a far richer, smoother quality of color, and this enhances the realism and accuracy.
 
-![SDR HDR comparison](/img/SDR_HDR_Comparison.png)
+![SDR HDR comparison](/img/SDR_HDR_comparison.png)
 
 {: .box-warning}
 **TIP:** Certain color gradients cause banding. You can reduce the banding artifact by adding other graphical elements or by adding a subtle noise filter.
