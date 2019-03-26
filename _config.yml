@@ -37,7 +37,7 @@ navbar-links:
     - Visuals: "Visuals/index.html"
     - Focus States: "FocusStates/index.html"
     - Color: "Color/index.html"
-    - UI Representation: "UIRepresentation/index.html"
+    - UI Representation: "UIRep/index.html"
   Topics:
     - Accessibility: "Accessibility/index.html"
     - HDR: "HDR/index.html"
