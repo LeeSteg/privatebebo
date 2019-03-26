@@ -34,6 +34,7 @@ FE menus are ubiquitous and provide players with a vast array of customization s
 - Broadcasting a game
 
 <br>
+
 {: .box-warning}
 **TIP:** Before designing any menus, first design the FE menu flow. At a high level, the FE menu shows the screens and components necessary to build out the menus for the game. Working out all the scenarios first and getting team consensus will give the engineering game design, UX design, and sound departments a better understanding of how to budget resources and time against the deliverables.
 
@@ -42,7 +43,7 @@ FE menus are ubiquitous and provide players with a vast array of customization s
 ### WCG: Wide Color Gamut
 WCG is the range of colors that can be rendered on HDR (High Dynamic Range) television screens, monitors, and phones. A typical SDR (Standard Dynamic Range) television or monitor has a color depth of 8 bits and 16.7 million (256 x 256 x 256) colors available. On the other hand, a typical WCG device has a color depth of 10 bits and 1.07 billion (1024 x 1024 x 1024) colors available. Thus, WCG produces a far richer, smoother quality of color, and this enhances the realism and accuracy.
 
-![SDR HDR comparison](img/SDR_HDR_Comparison.jpg)
+![SDR HDR comparison](img/SDR_HDR_Comparison.png)
 
 {: .box-warning}
 **TIP:** Certain color gradients cause banding. You can reduce the banding artifact by adding other graphical elements or by adding a subtle noise filter.
