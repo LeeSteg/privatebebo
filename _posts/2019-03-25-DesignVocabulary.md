@@ -21,6 +21,8 @@ The following are some of the popular HUD components used in console games:
 - Contextual gameplay prompts
 - Pop-up windows
 
+<br>
+
 ### Frontend (FE) menus
 FE menus are ubiquitous and provide players with a vast array of customization settings:
 - Guiding the player into a game
@@ -32,8 +34,6 @@ FE menus are ubiquitous and provide players with a vast array of customization s
 - Upgrading and making in-game purchases
 - Inviting friends to play
 - Broadcasting a game
-
-<br>
 
 {: .box-warning}
 **TIP:** Before designing any menus, first design the FE menu flow. At a high level, the FE menu shows the screens and components necessary to build out the menus for the game. Working out all the scenarios first and getting team consensus will give the engineering game design, UX design, and sound departments a better understanding of how to budget resources and time against the deliverables.
@@ -71,6 +71,8 @@ The standard spec for sRGB is 80 nits, but modern SDR TVs and monitors can rende
 ![HDR Forza screenshot](/img/Forza7_SDR.png)
 
 _Forza 7 SDR screenshot:_ Bright and dark areas lack detail in SDR mode.
+
+<br>
 
 ![SDR Forza screenshot](/img/Forza7_HDR.jpg)
 
