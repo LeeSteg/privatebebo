@@ -1,3 +1,11 @@
+---
+layout: post
+title: Design Vocabulary
+subtitle: Terms and topics to know
+tags: [Getting Started, Art, Design]
+---
+
+
 ## Vocabulary
 ### HUD
 The heads-up display, or HUD, is an in-game UI used extensively in core gameplay. The information communicated through the HUD varies according to the genre and game. Although certain HUD components are expected in some game genres, a game designer might decide to replace them with in-game solutions.
@@ -58,7 +66,7 @@ The standard spec for sRGB is 80 nits, but modern SDR TVs and monitors can rende
 
 **NOTE:** The images below have been modified for viewing on an SDR monitor, to showcase the difference between SDR and HDR. 
 
-![HDR Forza screenshot](img/Forza7_SDR.jpg)
+![HDR Forza screenshot](img/Forza7_SDR.png)
 
 _Forza 7 SDR screenshot:_ Bright and dark areas lack detail in SDR mode.
 
