@@ -34,7 +34,7 @@ FE menus are ubiquitous and provide players with a vast array of customization s
 - Broadcasting a game
 
 <br>
-
+{: .box-warning}
 **TIP:** Before designing any menus, first design the FE menu flow. At a high level, the FE menu shows the screens and components necessary to build out the menus for the game. Working out all the scenarios first and getting team consensus will give the engineering game design, UX design, and sound departments a better understanding of how to budget resources and time against the deliverables.
 
 <br>
@@ -44,6 +44,7 @@ WCG is the range of colors that can be rendered on HDR (High Dynamic Range) tele
 
 ![SDR HDR comparison](img/SDR_HDR_Comparison.jpg)
 
+{: .box-warning}
 **TIP:** Certain color gradients cause banding. You can reduce the banding artifact by adding other graphical elements or by adding a subtle noise filter.
 
 <br>
@@ -59,6 +60,7 @@ The standard spec for sRGB is 80 nits, but modern SDR TVs and monitors can rende
 
 ![NIT output](img/HDR_Devices.jpg)
 
+{: .box-warning}
 **TIP:** Using too many bright objects in HDR might fatigue players’ vision and cause them to stop playing. To make the most of HDR, use it sparingly in areas such as focus states, damage indicators, location beacons, attention focus effects, notifications, and moment of celebration.
 
 <br>
