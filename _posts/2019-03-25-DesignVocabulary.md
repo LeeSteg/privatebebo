@@ -43,7 +43,7 @@ FE menus are ubiquitous and provide players with a vast array of customization s
 ### WCG: Wide Color Gamut
 WCG is the range of colors that can be rendered on HDR (High Dynamic Range) television screens, monitors, and phones. A typical SDR (Standard Dynamic Range) television or monitor has a color depth of 8 bits and 16.7 million (256 x 256 x 256) colors available. On the other hand, a typical WCG device has a color depth of 10 bits and 1.07 billion (1024 x 1024 x 1024) colors available. Thus, WCG produces a far richer, smoother quality of color, and this enhances the realism and accuracy.
 
-![SDR HDR comparison](img/SDR_HDR_Comparison.png)
+![SDR HDR comparison](/img/SDR_HDR_Comparison.png)
 
 {: .box-warning}
 **TIP:** Certain color gradients cause banding. You can reduce the banding artifact by adding other graphical elements or by adding a subtle noise filter.
@@ -59,7 +59,7 @@ In the past, UI designers had to be concerned only with RGB colors. With HDR, th
 
 The standard spec for sRGB is 80 nits, but modern SDR TVs and monitors can render up to 120–300 nits. Smart phones can render up to 550 nits, to ensure they are readable in sunlight. HDR TVs can render up to 1000 nits, with even higher numbers coming in the near future.
 
-![NIT output](img/HDR_Devices.jpg)
+![NIT output](/img/HDR_Devices.jpg)
 
 {: .box-warning}
 **TIP:** Using too many bright objects in HDR might fatigue players’ vision and cause them to stop playing. To make the most of HDR, use it sparingly in areas such as focus states, damage indicators, location beacons, attention focus effects, notifications, and moment of celebration.
@@ -68,10 +68,10 @@ The standard spec for sRGB is 80 nits, but modern SDR TVs and monitors can rende
 
 **NOTE:** The images below have been modified for viewing on an SDR monitor, to showcase the difference between SDR and HDR. 
 
-![HDR Forza screenshot](img/Forza7_SDR.png)
+![HDR Forza screenshot](/img/Forza7_SDR.png)
 
 _Forza 7 SDR screenshot:_ Bright and dark areas lack detail in SDR mode.
 
-![SDR Forza screenshot](img/Forza7_HDR.jpg)
+![SDR Forza screenshot](/img/Forza7_HDR.jpg)
 
 _Forza 7 HDR screenshot:_ Notice the detail in the sunset, the clouds, and the shadow under the car’s grill. The subtle details make the image more visually dynamic and add to the artfulness of the scene.
