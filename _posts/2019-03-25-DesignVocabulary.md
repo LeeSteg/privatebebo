@@ -2,11 +2,10 @@
 layout: post
 title: Design Vocabulary
 subtitle: Terms and topics to know
-tags: [Getting Started, Art, Design]
+tags: [Vocabulary]
 ---
 
 
-## Vocabulary
 ### HUD
 The heads-up display, or HUD, is an in-game UI used extensively in core gameplay. The information communicated through the HUD varies according to the genre and game. Although certain HUD components are expected in some game genres, a game designer might decide to replace them with in-game solutions.
 
