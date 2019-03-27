@@ -11,3 +11,6 @@ The brain perceives visual information in the following sequence of events:
 2.	Next, the brain interprets color. This is when the brain would perceive an emotion or a brand association. 
 3.	Finally, the brain considers the form. Language and content are some example of form, and the brain takes the longest to process these elements.
 ![Shape Color Form](/img/Shape_Perception.png)
+
+<br>
+<br>
