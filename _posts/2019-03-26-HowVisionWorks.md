@@ -6,7 +6,7 @@ tags: [Knowledge]
 ---
 
 
-## The basics of vision
+## The Basics of Vision
 Light enters the eye and hits the retina. At the back of the retina we have a concentrated pit of rods and cones:  
 ![Eye Illustration](/img/Eye_Illustration.jpg)
 
