@@ -12,7 +12,7 @@ The brain perceives visual information in the following sequence of events:
 3.	Finally, the brain considers the form. Language and content are some example of form, and the brain takes the longest to process these elements.
 ![Shape Color Form](/img/Shape_Perception.png)
 
-<br>
-
 {: .box-warning}
 **TIP:** Understanding how the brain perceives visual information might help speed up the design process. First, use bold shapes to quickly block out the HUD, menu, and icon designs. Next, add color to emphasize content. Finally, after you have locked down the layout, start designing the details.
+
+<br>
