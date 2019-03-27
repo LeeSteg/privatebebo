@@ -69,11 +69,9 @@ The standard spec for sRGB is 80 nits, but modern SDR TVs and monitors can rende
 **NOTE:** The images below have been modified for viewing on an SDR monitor, to showcase the difference between SDR and HDR. 
 
 ![HDR Forza screenshot](/img/Forza7_SDR.png)
-
 _Forza 7 SDR screenshot:_ Bright and dark areas lack detail in SDR mode.
 
 <br>
 
 ![SDR Forza screenshot](/img/Forza7_HDR.jpg)
-
 _Forza 7 HDR screenshot:_ Notice the detail in the sunset, the clouds, and the shadow under the car’s grill. The subtle details make the image more visually dynamic and add to the artfulness of the scene.
