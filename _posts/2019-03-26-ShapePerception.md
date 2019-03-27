@@ -13,4 +13,3 @@ The brain perceives visual information in the following sequence of events:
 ![Shape Color Form](/img/Shape_Perception.png)
 
 <br>
-<br>
