@@ -19,7 +19,6 @@ Our own biology tells us clearly how to optimally distribute color in our design
 ![Focus and Periphery area](/img/Focus_Layout.jpg)
 
 <br>
-<br>
 
-This information is particularly important in HUD design. To keep the players in the game, we want to put the most important information in the center and secondary information on the periphery.  
 ![Critical and Secondary information](/img/Information_Layout.jpg)
+This information is particularly important in HUD design. To keep the players in the game, we want to put the most important information in the center and secondary information on the periphery.
