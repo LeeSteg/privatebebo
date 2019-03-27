@@ -13,3 +13,6 @@ The brain perceives visual information in the following sequence of events:
 ![Shape Color Form](/img/Shape_Perception.png)
 
 <br>
+
+{: .box-warning}
+**TIP:** Understanding how the brain perceives visual information might help speed up the design process. First, use bold shapes to quickly block out the HUD, menu, and icon designs. Next, add color to emphasize content. Finally, after you have locked down the layout, start designing the details.
