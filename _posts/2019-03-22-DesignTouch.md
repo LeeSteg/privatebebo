@@ -8,7 +8,7 @@ tags: [Getting Started, Design]
 The best games are most immersive because they make use of the most senses.  
 The more senses you want to design for, and the more immersive experience you want to create, the more planning you have to do. Because using the senses of taste and smell in games is not mainstream yet, we’ll focus on the other three senses: touch, sound, and sight.
 
-![Touch](/img/Design_Common_Senses_long.png)
+![Touch](/privatebebomalaka/img/Design_Common_Senses_long.png)
 
 ## Touch
 Most console games use a controller that has a set number of buttons and analog joysticks. Because interaction through these elements isn’t as fast or precise as through a mouse or direct touch, you should understand the limitations of your controller device.
@@ -26,7 +26,7 @@ The controller’s layout can make or break the players’ experiences with a ga
 Console games have been around for decades, so a number of interactions have become standard and are even expected by players today.
 
 ### Microsoft's Xbox One
-![Xbox One controller](/img/Xbox_Controller.jpg)
+![Xbox One controller](/privatebebomalaka/img/Xbox_Controller.jpg)
 
 Menu navigation controls of the Xbox One controller
 - **A**: enter, select, confirm
@@ -48,7 +48,7 @@ Menu navigation controls of the Xbox One controller
  
 ### Sony's Playstation Controller
 
-![PS4 controller](/img/PS4_Controller.jpg)
+![PS4 controller](/privatebebomalaka/img/PS4_Controller.jpg)
 
 The layouts of the PlayStation and Xbox controllers are very similar. One major exception is the touchpad, which was introduced in PlayStation 4 and offers additional opportunities for input.  
 Menu navigation controls of the PS4 controller
@@ -72,7 +72,7 @@ Menu navigation controls of the PS4 controller
 
 ### Nintendo's Switch Controller
 
-![Switch controller](/img/Switch_Controller.jpg)
+![Switch controller](/privatebebomalaka/img/Switch_Controller.jpg)
 
 The Switch controller is similar to the Xbox and PlayStation controllers but can also be split into two controllers that have similar but limited layouts.  
 Menu navigation controls of the Switch controller
@@ -96,7 +96,7 @@ Menu navigation controls of the Switch controller
 
 ### Microsoft's Xbox Adaptive Controller
 
-![Xbox Adaptive controller](/img/Xbox_Adaptive_Controller.jpg)
+![Xbox Adaptive controller](/privatebebomalaka/img/Xbox_Adaptive_Controller.jpg)
 
 Designed primarily to meet the needs of gamers with limited mobility, the Xbox Adaptive Controller is a unified hub for devices and is designed to make gaming more accessible. It works with a range of external devices (such as switches, buttons, mounts, and joysticks) to create a customizable controller experience unique to a player.
 
@@ -131,7 +131,7 @@ Different layouts of controllers have been designed to suit different genres of 
 ### Mouse and keyboard
 Interaction through the mouse is similar to interaction through touch, in that the user can perform any action with pinpoint accuracy, on any part of the screen. The keyboard is a powerful tool in its own way, because it offers a wide variety of button and key inputs—and an even greater variety of combinations—for communication and navigation.
 
-![Mouse & Keyboard](/img/Mouse_Keyboard.jpg)
+![Mouse & Keyboard](/privatebebomalaka/img/Mouse_Keyboard.jpg)
 
 <br> 
 
