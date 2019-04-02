@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Layout of the HUD
+title: HUD Design
 subtitle: Genre-specific examples
 tags: [HUD, Design, Knowledge]
 categories: [HUD]
