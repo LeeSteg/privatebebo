@@ -7,9 +7,9 @@ categories: [Layout]
 ---
 
 ## Alignment and anchoring
-In the diagram below, the example on the left is aligned inconsistently and looks janky; navigating around such a layout can be challenging. The example on the right is left-aligned uniformly and spaced apart consistently. 
-
 As a rule, always left-align elements for markets in the West, where most users read from left to right. For markets in Asia and Middle East, right-alignment might be required for localization purposes. Keeping these rules in mind can help create layouts amenable to localization.
+
+In the diagram below, the example on the left is aligned inconsistently and looks janky; navigating around such a layout can be challenging. The example on the right is left-aligned uniformly and spaced apart consistently. 
 
 ![Alignment](/privatebebomalaka/img/Left_Alignment.png)  
 
