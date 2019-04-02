@@ -3,6 +3,7 @@ layout: post
 title: Marketplace Mockups
 subtitle: An overview of storefront menus 
 tags: [Mockups, Process, Design]
+categories: [Mockups]
 ---
 
 # Marketplace
