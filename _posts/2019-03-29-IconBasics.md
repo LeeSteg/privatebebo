@@ -3,6 +3,7 @@ layout: post
 title: Iconography
 subtitle: The Basics
 tags: [Visuals, Knowledge]
+categories: [Visuals]
 ---
 
 When designing icons, use the following basic rules:
