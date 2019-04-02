@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Representation of UI
+title: Representation of HUD UI
 subtitle: Different types of HUD Design 
 tags: [UI Representation, Knowledge, HUD]
 categories: [UI Representation]
