@@ -3,6 +3,7 @@ layout: post
 title: Layout of the HUD
 subtitle: Genre-specific examples
 tags: [HUD, Design, Knowledge]
+categories: [HUD]
 ---
 
 ## Driving and Flying
