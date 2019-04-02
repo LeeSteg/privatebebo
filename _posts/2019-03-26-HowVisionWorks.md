@@ -3,6 +3,7 @@ layout: post
 title: How our eyes work
 subtitle: A brief explaination and how it effects your design
 tags: [Knowledge]
+categories: [Knowledge]
 ---
 
 
