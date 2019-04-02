@@ -3,6 +3,7 @@ layout: post
 title: Research, Reference and Data
 subtitle: Before you begin, do your homework
 tags: [Process]
+categories: [Process]
 ---
 
 ## Gathering of data, and research
