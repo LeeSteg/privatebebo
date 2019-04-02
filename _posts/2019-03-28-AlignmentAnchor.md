@@ -2,7 +2,7 @@
 layout: post
 title: Alignment and anchoring
 subtitle: Straighten up and design right
-tags: [Layout, HUD]
+tags: [Layout, HUD, Menus]
 categories: [Layout]
 ---
 
