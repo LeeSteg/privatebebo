@@ -3,6 +3,7 @@ layout: post
 title: Navigation Design
 subtitle: UX starts with Navigation Design
 tags: [Navigation, Design, Process]
+categories: [Navigation]
 ---
 
 ## Navigation Design
