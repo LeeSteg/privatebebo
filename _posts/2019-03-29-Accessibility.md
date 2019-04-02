@@ -3,6 +3,7 @@ layout: post
 title: Accessibility
 subtitle: When everyone can play, we all win
 tags: [Accessibility]
+categories: [Accessibility]
 ---
 
 To make your games accessible to all players, you want to meet and exceed the minimum compliance levels set for the following areas:
