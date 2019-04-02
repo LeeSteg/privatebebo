@@ -3,6 +3,7 @@ layout: post
 title: Tutorials
 subtitle: It's more than do this and do that
 tags: [Mockups, UI, Design]
+categories: [Mockups]
 ---
 
 Tutorials are used to teach a player the core mechanics of a game. In the past, tutorials were a last-minute addition and subject to resources and production deadlines; for example, a pop-up screen would be added to display some minimal instructions on button combinations. 
