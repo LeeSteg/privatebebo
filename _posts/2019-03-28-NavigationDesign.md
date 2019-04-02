@@ -73,12 +73,12 @@ Review the entire UI Map to ensure that the same buttons are used to perform the
 <br>
 
 ### Examples
-![Basic UI Map](/privatebebomalaka/img/NavDesignExample01.jpg)
+![Basic UI Map](/privatebebomalaka/img/NavDesignExample01.jpg)  
 _Basic UI Map showing a menu flow_
 
-![Detailed UI Map](/privatebebomalaka/img/NavDesignExample02.jpg)
+![Detailed UI Map](/privatebebomalaka/img/NavDesignExample02.jpg)  
 _Detailed UI Map with a legend_
 
-![Templated UI Map](/privatebebomalaka/img/NavDesignExample03.jpg)
+![Templated UI Map](/privatebebomalaka/img/NavDesignExample03.jpg)  
 _Detailed UI Map with a legend that shows the templates, components, and API calls_
 
