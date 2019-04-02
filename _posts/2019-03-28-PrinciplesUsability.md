@@ -6,10 +6,9 @@ tags: [Knowledge, UI, Layout]
 categories: [Knowledge]
 ---
 
-![Usability Principles](/privatebebomalaka/img/Usability_Principals.png)  
-When designing menus within a game, follow these seven principles for a consistent and accesibile user experience.
+![Usability Principles](/privatebebomalaka/img/Usability_Principals.png
 
-<br>
+When designing menus within a game, follow these seven principles for a consistent and accesibile user experience.
 
 ![Screenshot example](/privatebebomalaka/img/Usability_Screenshot.jpg)
 _Example from the Metal Gear Solid Customization screen_
