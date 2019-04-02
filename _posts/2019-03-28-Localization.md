@@ -3,6 +3,7 @@ layout: post
 title: Localization
 subtitle: Design for more than one language
 tags: [Typography, Layout, Localization]
+categories: [Typography]
 ---
 
 ## Localization
