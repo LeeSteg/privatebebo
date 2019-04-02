@@ -3,6 +3,7 @@ layout: post
 title: Static Mockups
 subtitle: An overview of game menus 
 tags: [Mockups, Process, Design]
+categories: [Mockups]
 ---
 
 # Menu Flow
