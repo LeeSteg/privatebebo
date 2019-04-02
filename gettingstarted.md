@@ -10,7 +10,7 @@ use-site-title: true
 <div class="posts-list">
 
 {% for category in site.categories %}
-{% if category[0] == 'gettingstarted' %}
+{% if category[0] == 'Getting Started' %}
 {% for post in category[1] %}
 
  <article class="post-preview">
