@@ -2,8 +2,8 @@
 layout: post
 title: Layout of the HUD
 subtitle: Know your place in the game
-tags: [Mockups, HUD, Design, Process]
-categories: [Mockups]
+tags: [HUD, Design, Process]
+categories: [HUD]
 ---
 
 Follow these two main rules when designing the layout of the HUD:
