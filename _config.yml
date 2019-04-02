@@ -14,7 +14,7 @@ baseurl: "/privatebebomalaka"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "Test XX: Master Test"
+title: "Game UX: Master Guide"
 
 # Short description of your site
 description: proof of working template - first attempt
@@ -24,32 +24,27 @@ description: proof of working template - first attempt
 # List of links in the navigation bar
 navbar-links:
   Fundamentals:
- #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
- #   - Learn markdown: "http://www.markdowntutorial.com/"
     - Getting Started: "gettingstarted"
-    - Terminology: "Terminology/index.html"
-    - Knowledge: "Knowledge/index.html"
-    - The Process: "Process/index.html"
+    - Terminology: "terminology"
+    - Knowledge: "knowledge"
+    - The Process: "process"
   Pillars:
-    - Navigation: "Navigation/index.html"
-    - Layout: "Layout/index.html"
-    - Typography: "Typography/index.html"
-    - Visuals: "Visuals/index.html"
-    - Focus States: "FocusStates/index.html"
-    - Color: "Color/index.html"
-    - UI Representation: "UIRep/index.html"
+    - Navigation: "navigation"
+    - Layout: "layout"
+    - Typography: "typography"
+    - Visuals: "visuals"
+    - Focus States: "focusstates"
+    - Color: "color"
+    - UI Representation: "uirep"
   Topics:
-    - Accessibility: "Accessibility/index.html"
-    - HDR: "HDR/index.html"
-    - 2D Artwork: "2DArtwork/index.html"
-    - 3D Artwork: "3DArtwork/index.html"
-    - Menus: "Menus/index.html"
- #   - Menu Components: "MenuComponents/index.html"
-    - HUD: "HUD/index.html"
- #   - HUD Components: "HUDComponents/index.html"
-    - Mockups: "Mockups/index.html"
-    - Summary: "Summary/index.html"
-# Designers: "http://deanattali.com"
+    - Accessibility: "accessibility"
+    - HDR: "hdr"
+    - 2D Artwork: "2dartwork"
+    - 3D Artwork: "3dartwork"
+    - Menus: "menus"
+    - HUD: "hud"
+    - Mockups: "mockups"
+    - Summary: "summary"
   Search: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
