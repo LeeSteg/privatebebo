@@ -42,6 +42,8 @@ As games became more complex and customizable, more menus were added to allow pl
 
 This screen is where the player will get the first impression of the game. The screen will present the name and graphic identity of the game, its most representative images or symbols, and perhaps its basic rules. It is a best practice to display the title of your game along with a button prompt, such as “Press the A button to start”.
 
+![Title Screen examples](/privatebebomalaka/img/Examples_TitleScreen.gif)
+
 To come up with a title screen most representative of your game, do extensive research, find out what is possible, and work with the Art Director and Marketing.
 
 The following collage shows some examples of the title screens:
@@ -49,8 +51,6 @@ The following collage shows some examples of the title screens:
 - Battlefield, which plays a pre-rendered movie
 - Metal Gear Online, which uses in-game graphics and characters
 - Crysis 3, which uses some visual effects on a static background
-
-![Title Screen examples](/privatebebomalaka/img/Examples_TitleScreen.gif)  
 
 <br>
 
