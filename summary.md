@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: Getting Started
-subtitle: An overview test of posts going here with a post folder
+title: Summary
+subtitle: An overview of things you should know
 use-site-title: true
 
 ---
@@ -10,7 +10,7 @@ use-site-title: true
 <div class="posts-list">
 
 {% for category in site.categories %}
-{% if category[0] == 'gettingstarted' %}
+{% if category[0] == 'Summary' %}
 {% for post in category[1] %}
 
  <article class="post-preview">
