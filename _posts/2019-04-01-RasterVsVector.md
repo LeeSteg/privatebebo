@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rater vs Vector
+title: Raster vs Vector
 subtitle: Which technique to use  
 tags: [Process]
 ---
