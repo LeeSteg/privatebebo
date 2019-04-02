@@ -3,6 +3,7 @@ layout: post
 title: Art vs Design
 subtitle: Does it look or feel good?
 tags: [Getting Started, Art, Design]
+categories: [Getting Started]
 ---
 
 ### Art Direction: _“Does it feel good?”_  
