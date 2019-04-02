@@ -2,7 +2,7 @@
 layout: post
 title: Component Layout
 subtitle: How to layout UI in a menu
-tags: [Mockups, UI, HUD, Design]
+tags: [Menus, UI, HUD, Design]
 categories: [Mockups]
 ---
 
