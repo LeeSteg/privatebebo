@@ -6,7 +6,7 @@ tags: [Knowledge, Design, HUD, Layout]
 categories: [Knowledge]
 ---
 
-![UI Patterns](/privatebebomalaka/img/Gestalt_Principals.gif)  
+![UI Patterns](/privatebebomalaka/img/Gestalt_Principals.png)  
 Gestalt principles are based on cognitive research and how we perceive the world through our senses. Gestalt principles provide the foundation for creating accessible designs and establishing UI patterns within those designs.
 
 <br>
