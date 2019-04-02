@@ -21,4 +21,4 @@ Lastly but not least, always think about usability.
 
 In addition to doing research and gathering data, use the design stage to find the best and most relevant references from movies, games, television, mobile media, magazines, and posters. Use these references for inspiration, education, and help with forming your design decisions.
 
-Be aware of the design trends. This will help you avoid designing a piece of work that is outdated because it is based on a trend from the past. You want your design to outlast the console generation or a hip trend that lasts about a year. Always challenge the status quo and keep the brand and the big picture at the forefront. Even within a franchise, each game should look and feel unique.
+Be aware of the design trends. This will help you avoid designing a piece of work that is outdated because it is based on a trend from the past. You want your design to outlast the console generation or a hip trend that lasts about a year. Always challenge the status quo and keep the brand and the big picture at the forefront. Even within a franchise, each game should look and feel unique. 
