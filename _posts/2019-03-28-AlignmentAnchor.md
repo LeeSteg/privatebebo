@@ -3,6 +3,7 @@ layout: post
 title: Alignment and anchoring
 subtitle: Straighten up and design right
 tags: [Layout, HUD]
+categories: [Layout]
 ---
 
 ## Alignment and anchoring
