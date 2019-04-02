@@ -3,6 +3,7 @@ layout: post
 title: Gestalt Theory
 subtitle: How we percieve the world
 tags: [Knowledge, Design, HUD, Layout]
+categories: [Knowledge]
 ---
 
 ![UI Patterns](/privatebebomalaka/img/Gestalt_Principals.gif)  
