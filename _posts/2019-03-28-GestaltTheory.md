@@ -11,7 +11,7 @@ Gestalt principles are based on cognitive research and how we perceive the world
 
 <br>
 
-![Screenshot example](/privatebebomalaka/img/Gestalt_Screenshot.jpg)
+![Screenshot example](/privatebebomalaka/img/Gestalt_Screen.jpg)
 _A screenshot from Battlefield One: Spectator Mode_
 
 <br>
