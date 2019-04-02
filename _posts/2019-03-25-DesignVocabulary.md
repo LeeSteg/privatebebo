@@ -3,6 +3,7 @@ layout: post
 title: Design Vocabulary
 subtitle: Terms and topics to know
 tags: [Terminology]
+categories: [Terminology]
 ---
 
 
