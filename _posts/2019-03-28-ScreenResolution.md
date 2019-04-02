@@ -38,7 +38,7 @@ Screens have two Safe Frame areas:
 - **Title Safe** is where text and graphics are rendered. This area is used to position menus, titles, and HUD elements, and its dimensions are 90% of the screen resolution that is translated. For example, at 1920 x 1080, Title Safe is 1728 x 972.
 
 When designing grids, keep everything within the Safe Frame:  
-![Safe Screen](/privatebebomalaka/img/Safe_Screen.jpg)  
+![Safe Screen](/privatebebomalaka/img/Screen_Safe.jpg)  
 
 <br>
 
