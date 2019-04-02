@@ -14,8 +14,7 @@ use-site-title: true
 
 <div class="posts-list">
 
-  {% for category in site.categories %}
-  {% if category[0] == 'gettingstarted' %}
+  {% for post in paginator.posts %}
 
   <article class="post-preview">
 
@@ -34,8 +33,6 @@ use-site-title: true
 	  </h3>
 
 	  {% endif %}
-  {% endif %}	    
-  {% endfor %}
 
     </a>
 
