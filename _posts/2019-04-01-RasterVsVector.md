@@ -18,3 +18,4 @@ The disadvantage of using complex vector images is a drop-in performance, which 
 We recommend that you talk to your engineers, run some performance tests with raster as well as vector images, and determine the file type that works best for your UI and game.
  
 <br>
+<br>
