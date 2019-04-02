@@ -14,7 +14,7 @@ _Adobe Photoshop, Illustrator, and After Effects_
 
 The disadvantage of using complex vector images is a drop-in performance, which causes a drastic loss in framerate.
 
-{: .box-note}
+{: .box-warning}
 We recommend that you talk to your engineers, run some performance tests with raster as well as vector images, and determine the file type that works best for your UI and game.
  
 <br>
