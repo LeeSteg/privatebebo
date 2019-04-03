@@ -20,8 +20,9 @@ A lot goes into the design of a font, but the x-height and counter are probably 
 ## Counters
 At smaller font size, some fonts are harder to read than others. Choose fonts with a larger counter, because they are easier to read from a distance.
 
-The font can affect legibility. In the example below, check the letters **b** and **e**:  
-![Counters](/privatebebomalaka/img/Type_counters.jpg)  
+The font can affect legibility. In the example below, check the letters **b** and **e**:
+
+![Counters](/privatebebomalaka/img/Type_counters.png)  
 
 <br>
 
@@ -68,6 +69,7 @@ Try to use _"at most"_ two fonts throughout your product. Mixing fonts can make 
 Try using a single font with several styles and sizes. If a second font is needed, limit its use to headings and titles. Finally, consider creating and copyrighting your own font that would suit your need and save you money.
 
 The following fonts are used by most major publishers and support extended characters and font weights:
+
 ![Font variations](/privatebebomalaka/img/Type_variations.png)  
 
 <br>
