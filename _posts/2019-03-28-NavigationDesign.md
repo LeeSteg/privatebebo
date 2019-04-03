@@ -41,9 +41,9 @@ Before diving deep into the details, think of the UI Map as a painting. Start wi
 
 Make the first version of the UI map high level and use it to record all the design features exposed in the interface with the user. Make each menu high level enough to record each interaction as a new menu or notification and to easily show how the user can navigate the menu.
 
-{:.center}
+{: style="text-align:center"}
 ![V1 Basic Feature Set](/privatebebomalaka/img/NavDesignV1.png)
-_This is an image beuiocbfeibwejbvjbvj o ov bvj;o bb viobvjo bwiobwv jov bv iob jiobvw jiobv jibvw bwv jiobw vjiobvhib ibwv wb vbwv ji_
+_yabba dabba center_
 
 Make the second version of the UI Map a detailed listing of options and features within each menu screen. This will help determine the template patterns and reuse of components. This level of detail will also help with engineering, design, and production.
 
