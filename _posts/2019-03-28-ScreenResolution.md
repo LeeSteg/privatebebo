@@ -15,6 +15,7 @@ Modern console games are designed for the most popular resolutions:
 - **4K UHD:** 3840 x 2160
 
 ![Screen Resolutions](/privatebebomalaka/img/Screen_Resolutions.jpg)  
+{: style="text-align:center"}
 _HD televisions maintain an aspect ratio of 16:9_
 
 An item displayed in HD and 4K occupies the same area on the screen. This means you can use the same UI layout for both resolutions, as long as you keep the following in mind:
