@@ -55,7 +55,7 @@ Test new icons with different line weights. Also test the filled and inverted ve
 
 Test several versions of your icons and determine what works and what doesn't.
 
-![Icon Silhouette](/privatebebomalaka/img/Icon_Silhouette.png)
+![Icon Silhouette](/privatebebomalaka/img/Icon_Silhouettes.png)
 
 <br>
 
