@@ -55,11 +55,13 @@ Create a guide of the fonts and styles you’ll be using and describe the ration
 This classic font is legible and works well for displaying any informational and HUD text.  
 According to linotype.com, _“Gill Sans is a humanist sans serif with some geometric touches in its structures. Legible and modern, the lighter weights work for text, and the bolder weights make for compelling display typography.”_   
 
+{: style="text-align:center"}
 ![Gill Sans font](/privatebebomalaka/img/Gills_Sans.png)
 
 - **Secondary font: Othello™**
 According to linotype.com, _“Othello's dense graphic demeanor delivers a straightforward, no-nonsense message. Small caps and alternate letter variants create new possibilities for headlines and short text blocks in advertisements, signage, and packaging. This font also has the look of woodcuts or hand-drawn lettering and would make for an interesting title font.”_
 
+{: style="text-align:center"}
 ![Othello font](/privatebebomalaka/img/Othello.png)
 
 <br>
