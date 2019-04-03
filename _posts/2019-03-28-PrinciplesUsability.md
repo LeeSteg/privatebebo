@@ -49,7 +49,7 @@ The focus area can be implemented as a pulsing selection that draws the user’s
 
 ![Focus Area](/privatebebomalaka/img/Usability_FocusArea.jpg)
 
-{: .box-note}
+{: .box-warning}
 **Recommendations:** To guide a player around the screen, use consistent colors and effects throughout the UI. Also, use distinct focus states to communicate the difference between interactive and informational items within the menus; this is similar to how you’d convey this difference through the button hover state and a cursor swap with a mouse.  
 With a mouse cursor and a monitor two feet away, there is hardly any disconnect between the cursor and screen. Contrast that with using a controller and a fixed grid layout at a distance of ten feet. 
 
