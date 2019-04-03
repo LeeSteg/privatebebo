@@ -43,11 +43,7 @@ Make the first version of the UI map high level and use it to record all the des
 
 {:.center}
 ![V1 Basic Feature Set](/privatebebomalaka/img/NavDesignV1.png)
-_This is an image_
-
-.center {
-  text-align: center;
-}
+_This is an image beuiocbfeibwejbvjbvj o ov bvj;o bb viobvjo bwiobwv jov bv iob jiobvw jiobv jibvw bwv jiobw vjiobvhib ibwv wb vbwv ji_
 
 Make the second version of the UI Map a detailed listing of options and features within each menu screen. This will help determine the template patterns and reuse of components. This level of detail will also help with engineering, design, and production.
 
