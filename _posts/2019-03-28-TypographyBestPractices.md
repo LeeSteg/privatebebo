@@ -76,6 +76,7 @@ Titles of menus: **A**
 - **36pt Sub-headers:** Othello™ Medium   
 Titles of sub-menus List categories: **B**
 - **24pt and 30pt Body text:** Gill Sans®  
-Body text, descriptions, subtitles, currency, item titles, and in-game callouts - **C D E F G**
+Body text, descriptions, subtitles, currency, item titles, and in-game callouts:
+**C D E F G**
 
 <br>
