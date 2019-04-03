@@ -32,6 +32,7 @@ To help your artists create icons for your project, give them your specs for
 - gaps
 - angles
 
+{: style="text-align:center"}
 ![Icon Specs](/privatebebomalaka/img/Icon_Specs.png)
 
 <br>
@@ -39,10 +40,12 @@ To help your artists create icons for your project, give them your specs for
 ## Optical balance and adjustment
 A slight increase in the height of an icon can make it look more consistent throughout your design. Here is an example of a triangle and circle exceeding the height of a square:
 
+{: style="text-align:center"}
 ![Square Triangle Circle](/privatebebomalaka/img/Icon_Height.png)
 
 Use gaps to achieve optical balance, consistent look and feel, and visual appeal. The following example shows that each icon’s height was adjusted to keep the icon inside its bounding frame. Square and circular icons cover more area and have more weight, so they are kept away from the margins. On the other hand, triangular and rectangular icons have less weight and can be optically adjusted to “touch” the margins, thus creating the appearance of having additional weight.
 
+{: style="text-align:center"}
 ![Icon Balance](/privatebebomalaka/img/Icon_Balance.png)
 
 <br>
