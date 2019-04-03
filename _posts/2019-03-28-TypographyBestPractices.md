@@ -16,7 +16,6 @@ The ratio of the screen size to distance is called the viewable screen size, and
 ## Maintain legibility and readability
 When designing a console game, assume that a user is 6–10 feet away from a monitor whose average size is 40–42 inches. Guidelines for legibility and other specifications are based on these averages.
 
-<br>
 
 {: .box-warning}
 **Tip:** When designing your menus and HUD, scale your screens down to 33% of their display size on a PC monitor; if the text is difficult to read on the reduced screen, it will be difficult to read from 6–10 feet away. Use this technique to quickly estimate how your design would look on a TV screen.
