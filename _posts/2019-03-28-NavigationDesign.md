@@ -43,14 +43,17 @@ Make the first version of the UI map high level and use it to record all the des
 
 {: style="text-align:center"}
 ![V1 Basic Feature Set](/privatebebomalaka/img/NavDesignV1.png)
-_yabba dabba center_
 
 Make the second version of the UI Map a detailed listing of options and features within each menu screen. This will help determine the template patterns and reuse of components. This level of detail will also help with engineering, design, and production.
 
+
+{: style="text-align:center"}
 ![V2 Detailed Information](/privatebebomalaka/img/NavDesignV2.png)
 
 The third version is optional. It is used to demonstrate the menus and features and to create an interactive walkthrough prototype before production begins.
 
+
+{: style="text-align:center"}
 ![V3 High Level Features](/privatebebomalaka/img/NavDesignV3.png)
 
 <br>
