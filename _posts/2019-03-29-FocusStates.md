@@ -18,7 +18,7 @@ These new and locked states are commonly used in a game’s stores, save slots, 
 
 <br>
 
-{: .box-note}
+{: .box-warning}
 **Best Practice:** To help guide a player around the screen, use focus color and effects consistently throughout the UI. Having distinct focus states will also help communicate what is interactive versus what is informational, much like the mouse hover state or cursor swap are used in PC games.  
 If unlocking a locked item requires some currency or achievement, then state so clearly.
 
