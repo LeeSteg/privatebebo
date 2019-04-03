@@ -11,7 +11,6 @@ When designing icons, use the following basic rules:
 - **Simple and varied:** Keep the details simple, but have enough variety to tell the icons apart. 
 - **1” x 1”** is the maximum displayed size.
 
-<br>
 
 {: .box-warning}
 **TIP:** Try using the squint test. Squint your eyes and determine whether you can make out the shape of an icon. Good icons are recognizable from afar and are easy to read. 
