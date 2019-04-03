@@ -8,6 +8,7 @@ categories: [Visuals]
 
 Shape Language specifies how your art will look and how various elements will create visual harmony. It sets the visual identity of the game: from low-fidelity block-outs, to high-fidelity assets. Shape Language should inform the style guides and support the cognitive aspects of the design.
 
+{: style="text-align:center"}
 ![Shape Language](/privatebebomalaka/img/ShapeLanguage.png)   
 
 Shape Language comprises the building blocks of the UI, ensures its consistency, and establishes the framing, backdrops, and the overall look and feel. 
