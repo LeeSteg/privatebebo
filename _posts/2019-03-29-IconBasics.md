@@ -43,7 +43,7 @@ A slight increase in the height of an icon can make it look more consistent thro
 
 Use gaps to achieve optical balance, consistent look and feel, and visual appeal. The following example shows that each icon’s height was adjusted to keep the icon inside its bounding frame. Square and circular icons cover more area and have more weight, so they are kept away from the margins. On the other hand, triangular and rectangular icons have less weight and can be optically adjusted to “touch” the margins, thus creating the appearance of having additional weight.
 
-![Icon Balance](/privatebebomalaka/img/Icon_Balance.gif)
+![Icon Balance](/privatebebomalaka/img/Icon_Balance.png)
 
 <br>
 
