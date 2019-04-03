@@ -9,7 +9,7 @@ categories: [Typography]
 When used effectively, typography can enhance the layout of UI elements and simplify the task of navigating and absorbing the information presented. Effective use of styles and fonts helps to visually communicate the brand of the title and to keep the user immersed in the experience offered by that title.
 
 ## The Basics
-![Typography basics](/privatebebomalaka/img/Type_basics.png)  
+![Typography basics](/privatebebomalaka/img/Type_basics.jpg)  
 
 A lot goes into the design of a font, but the x-height and counter are probably the most important considerations:
 - **x-height:** the height of the small letter x
@@ -32,7 +32,7 @@ When designing a product that will be translated, consider that most fonts don�
 - Diacritical accents: the small glyphs added to letters (á, ــِـ, ت)
 - Glyphs and special characters
 
-![Extended characters](/privatebebomalaka/img/Type_extcharacters.jpg)  
+![Extended characters](/privatebebomalaka/img/Type_extcharacters.png)  
  
 <br>
 
@@ -40,7 +40,7 @@ When designing a product that will be translated, consider that most fonts don�
 In general, professional fonts have all these variations in a font family, so consider purchasing an entire font family rather than an individual font. Having a full set of fonts in hand will come useful when you polish your UI design.
 
 A font might have many different weights and variations: condensed and extended, bold, black, light and italic.  
-![Font families](/privatebebomalaka/img/Type_family.jpg)  
+![Font families](/privatebebomalaka/img/Type_family.png)  
 
 <br>
 
@@ -68,7 +68,7 @@ Try to use _"at most"_ two fonts throughout your product. Mixing fonts can make 
 Try using a single font with several styles and sizes. If a second font is needed, limit its use to headings and titles. Finally, consider creating and copyrighting your own font that would suit your need and save you money.
 
 The following fonts are used by most major publishers and support extended characters and font weights:
-![Font variations](/privatebebomalaka/img/Type_variations.jpg)  
+![Font variations](/privatebebomalaka/img/Type_variations.png)  
 
 <br>
 
@@ -77,6 +77,6 @@ Typically, English text is aligned left. This flush-left, ragged-right formattin
 
 In addition to aligning text appropriately, use word wrapping to ensure that text does not overflow the margin of 60–120 characters per line.
 
-![Font alignment](/privatebebomalaka/img/Type_alignment.jpg)  
+![Font alignment](/privatebebomalaka/img/Type_alignment.png)  
 
 <br>
