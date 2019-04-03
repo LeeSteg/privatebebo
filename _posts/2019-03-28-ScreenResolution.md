@@ -22,7 +22,6 @@ An item displayed in HD and 4K occupies the same area on the screen. This means 
 - **File and DPI settings:** DPI (Dots Per Inch) is the unit of resolution for print and digital files. HD televisions have a resolution of 72 dpi, and most visual components use this resolution.
 - **Font size:** Standard 1080 HD fonts render out at 72 dpi. If you keep your 4K canvas at 72 dpi, your fonts will be rendered at half the size. To keep your font size consistent, change your resolution settings from 72 dpi in your 1080 files to 144 dpi in your 4K files.
 
-<br>
 
 {: .box-warning}
 **TIP:** To check whether your designs will be legible, reduce your PC image to 33%. If you cannot read the information at 33%, then your information will be too small to read at 10 feet.
@@ -48,6 +47,7 @@ The viewable screen’s size can determine the amount of information within a me
 To help players focus on the information on the screen, use negative space, which is the area around an object or text that does not have any importance and can be used to frame information. 
 
 Reducing the amount of information in the menus increases the player’s ability to navigate the screen and makes the information easier to comprehend.
+
 
 {: .box-warning}
 **Tip:** Within a menu, show only the vital information related to a selection or topic. Offer more detailed information on a separate screen or a pop-up window. This will reduce the risk of information overload for most players, who want to start playing immediately.
