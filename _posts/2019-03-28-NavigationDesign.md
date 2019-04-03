@@ -65,7 +65,7 @@ Avoid having too many entries and exit points on the same screen. It is tempting
 ### Architecture of interaction 
 The **A and B buttons** are the standard input for interacting with menus in a video game. Use the **A button** to enter or select a menu, and the **B button** to cancel or back out of a menu. If any special buttons are used, call them out on the screen.
 
-{: .box-note}
+{: .box-warning}
 **Best Practice:** Design the UI flow such that the A button is all that a player needs to navigate through the menus and get into the game. This will reduce the effort and make the game accessible to all users.
 
 Review the entire UI Map to ensure that the same buttons are used to perform the same types of action. For example, don’t use the left and right bumpers to tab through a list on one screen but the left and right triggers to tab on another screen.
