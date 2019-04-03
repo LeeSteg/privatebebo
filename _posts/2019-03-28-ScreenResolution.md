@@ -49,8 +49,6 @@ To help players focus on the information on the screen, use negative space, whic
 
 Reducing the amount of information in the menus increases the player’s ability to navigate the screen and makes the information easier to comprehend.
 
-<br>
-
 {: .box-warning}
 **Tip:** Within a menu, show only the vital information related to a selection or topic. Offer more detailed information on a separate screen or a pop-up window. This will reduce the risk of information overload for most players, who want to start playing immediately.
 
