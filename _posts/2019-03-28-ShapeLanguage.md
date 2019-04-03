@@ -28,7 +28,7 @@ To ensure consistency,
 - **Positioning of elements** You can keep button prompts in the same location; for most titles, that’s in the lower-left corner. If the position must be dynamic with respect to the option highlighted, then keep this UI pattern consistent throughout the entire product. 
 Paying attention to these details will ensure a solid visual direction throughout the entire brand.
 
-![Stroke Consistency](/privatebebomalaka/img/StrokeConsistency.jpg)   
+![Stroke Consistency](/privatebebomalaka/img/StrokeConsistency.png)   
 
 Use strokes, angles, and corners consistently. For example, if you start with one stroke style at the top of the screen and use another at the bottom, the difference will be noticeable when the elements are brought close together. This difference will make the design seem unpolished and incomplete. 
 
@@ -44,6 +44,6 @@ The following illustration shows screens from a game. There are no odd shapes, t
 
 Here are the screenshots from various locations in the UI. The theme is maintained, and every screen looks like part of the same product. Whatever Shape Language you choose, go for it, but keep it consistent.
 
-![UI Consistency](/privatebebomalaka/img/VisualConsistency_UI.jpg)   
+![UI Consistency](/privatebebomalaka/img/VisualConsistency_UI.gif)   
 
 <br>
