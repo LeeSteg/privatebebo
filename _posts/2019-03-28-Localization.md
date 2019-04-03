@@ -9,7 +9,7 @@ categories: [Typography]
 ## Localization
 A translated string of text might be shorter or longer than its original version. In Arabic and Hebrew, text is right-aligned. These are but some of the factors to be considered before and during localization of UI.
 
-![Localization Usage](/privatebebomalaka/img/Localization_text.jpg)  
+![Localization Usage](/privatebebomalaka/img/Localization_text.png)  
 
 {: .box-warning}
 **Tip:** To safeguard against an overflow of translated text, design your text placeholders with 40% more capacity than would be used for English text.  
