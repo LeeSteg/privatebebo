@@ -39,10 +39,10 @@ _Crysis with the original Agency FP font_
 Typography should stand out from the background color, but too much contrast might be hard to read on screens. A good contrast ratio is **4.5:1**, and a ratio of **7:1** provides optimal legibility. To determine the optimal contrast ratio, use the tools readily available online, such as the Contrast Checker, https://contrastchecker.com/.
 
 To differentiate body text from subhead text, use color tinting or a heavier type-weight:  
-![Light Theme](/privatebebomalaka/img/Light_theme.jpg)   
+![Light Theme](/privatebebomalaka/img/Light_theme.png)   
 _Light Theme_
 
-![Dark Theme](/privatebebomalaka/img/Dark_theme.jpg)   
+![Dark Theme](/privatebebomalaka/img/Dark_theme.png)   
 _Dark Theme_
 
 <br>
