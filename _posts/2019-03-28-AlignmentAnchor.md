@@ -18,7 +18,7 @@ Ensure consistent spacing between elements, and anchor them as much as possible.
 Segment the screen into nine rectangles, each with an anchor point:  
 ![Battlefield One screenshot](/privatebebomalaka/img/Battlefield_screenshot.jpg)  
 <div align="center">
- _A screenshot from Battlefield One._
+ A screenshot from Battlefield One.
 </div>
 
 <br>
