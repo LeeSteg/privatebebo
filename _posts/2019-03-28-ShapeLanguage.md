@@ -36,7 +36,7 @@ Use strokes, angles, and corners consistently. For example, if you start with on
 
 The following illustration shows screens from a game. There are no odd shapes, the elements are concise and rectangular (to convey the military-themed Shape Language), and the color schemes are mostly subdued but accented with bright iconography. The Holographic type display is based on the iDroid concept for a fictional, in-game device for communicating intel. This visual consistency is maintained throughout the UI.
 
-![Visual Consistency](/privatebebomalaka/img/VisualConsistency_montage.jpg)  
+![Visual Consistency](/privatebebomalaka/img/VisualConsistency_montage.gif)  
 
 ![Crysis 3 screenshot](/privatebebomalaka/img/VisualConsistency_Crysis3_menu.jpg)   
 
