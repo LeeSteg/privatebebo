@@ -40,16 +40,17 @@ Color helps make navigation intuitive and enhances interaction. In the screensho
 ## Shades of color
 In the illustration below, the top block looks darker than the bottom block. Now close one eye and hold your thumb up to cover the middle line. Now both blocks appear to have the same shade of grey. This demonstrates that the environment has a major impact on how the user perceives different shades of color.
 
+{: style="text-align:center"}
 ![Optical illusion](/privatebebomalaka/img/Grey_Illustion.jpg)
 
 The HUD will be competing against the game’s environment, so use color sparingly and make the UI elements stand out by using luminance and colors that are not abundant in the environment. For example, in the screenshots below, color is used sparingly, for teams and certain events (the UI color palette is shown on the right).
 
-![Color Palette Far Cry 4](/privatebebomalaka/img/Palette_FarCry4.jpg)  
+![Color Palette Far Cry 4](/privatebebomalaka/img/Palette_FarCry4.png)  
 _An example from Far Cry 4_
 
 Red color is used in the center, to convey information that is critically important:
 
-![Color Palette Final Fantasy 15](/privatebebomalaka/img/Palette_FFXV.jpg)  
+![Color Palette Final Fantasy 15](/privatebebomalaka/img/Palette_FFXV.png)  
 _An example from Final Fantasy 15_
 
 <br>
