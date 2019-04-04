@@ -40,7 +40,7 @@ There's a lot of fun in experimenting with the composition of UI components and 
 
 Finding unique camera angles and juxtaposing menus with game objects can create interesting compositions and highlight areas of the game that would be difficult to see in traditional flat 2D menus.
 
-![Screen Composition in world](/privatebebomalaka/img/Screen_Composition.png)
+![Screen Composition in world](/privatebebomalaka/img/Screen_Composition.gif)
 
 <br>
 
