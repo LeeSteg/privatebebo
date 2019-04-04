@@ -15,7 +15,8 @@ A similar issue emerged when consoles and PCs went from using swatches with 256 
 One of the ways to increase the visibility of individual UI components is to set up a specific palette that uses brighter values reserved only for your focus states. Using this technique helps accentuate certain areas within your UI, in both SDR and HDR, and it helps guide users through the menus and HUD.
 
 {: .box-warning}
-**TIP:** If using an 8-bit palette in your game, reserve the upper range of colors in the Color Picker for the UI focus states:  
+**TIP:** If using an 8-bit palette in your game, reserve the upper range of colors in the Color Picker for the UI focus states:
+{: style="text-align:center"}
 ![palette range](/privatebebomalaka/img/Photoshop_range.png)
 
 **Note:** Although HDR and WCG (Wide Color Gamut) are often used interchangeably, WCG is meant to describe the range of colors displayed on a television screen. 
