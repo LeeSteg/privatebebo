@@ -8,7 +8,9 @@ categories: [Color]
 
 After establishing a color palette, create the guidelines for using each color in the UI. Providing detailed specifications on the use of color for states (Focus, Selected, Disabled, and Neutral), notifications, warnings, health, XP, and achievements will improve the overall esthetic of your design, help you educate the players on the use of the HUD and menus, and reduce the need to label every element explicitly.
 
-![Color use in focus states](/privatebebomalaka/img/Color_FocusStates.png)  
+{: style="text-align:center"}
+![Color use in focus states](/privatebebomalaka/img/Color_FocusStates.png)
+
 _The tiles, icons, and text will continue to stand out even if a single color is used to indicate the Focus state._
 
 <br>
