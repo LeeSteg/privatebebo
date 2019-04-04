@@ -47,8 +47,6 @@ HUD gameplay features might need unique state representations, such as abilities
 
 ![UI Component States](/privatebebomalaka/img/Component_States.gif)
 
-![UI Component States VIDEO](/privatebebomalaka/img/Icon_States.mp4)
-
 <br>
 
 ## HUD reticle and Enemy Focus
