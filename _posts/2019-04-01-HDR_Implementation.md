@@ -16,6 +16,7 @@ One of the ways to increase the visibility of individual UI components is to set
 
 {: .box-warning}
 **TIP:** If using an 8-bit palette in your game, reserve the upper range of colors in the Color Picker for the UI focus states:
+
 {: style="text-align:center"}
 ![palette range](/privatebebomalaka/img/Photoshop_range.png)
 
