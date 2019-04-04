@@ -14,7 +14,7 @@ Colorblindness is yet another reason not to base your design just on color. Colo
 
 Do not rely exclusively on color to differentiate classes and status types. Instead, supplement your design with additional graphical elements and shapes. Instead of guessing whether a particular color scheme would work for colorblind users, let them customize the colors:
 
-![Color Blindness in menus](/privatebebomalaka/img/Color_Blindness_Menu.jpg)
+![Color Blindness in menus](/privatebebomalaka/img/Color_Blindness_Menu.png)
 
 <br>
 
