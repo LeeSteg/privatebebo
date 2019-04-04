@@ -33,9 +33,9 @@ Contrast this with the diagram in Example B, where the font in the Skill list wa
 ## Navigation
 Color helps make navigation intuitive and enhances interaction. In the screenshots below, the focus color is used in the navigation list on the left and then in the submenu and grid.
 
-![List Color](/privatebebomalaka/img/Nav_List_Color.jpg)
+![List Color](/privatebebomalaka/img/Nav_List_Color.png)
 
-![Grid Color](/privatebebomalaka/img/Nav_Grid_Color.jpg)
+![Grid Color](/privatebebomalaka/img/Nav_Grid_Color.png)
 
 <br>
 
