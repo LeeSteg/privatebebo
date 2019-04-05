@@ -8,7 +8,7 @@ categories: [Mockups]
 
 Motion is another way to call attention to specific elements on the screen. Use motion to transition from menu to menu, introduce important information, and show various button states. The style of motion can have a major impact on the look and feel of a UI. Use the timing of an animation to create a visual style that best conveys the spirit of your game. 
 
-Here’s a simple example of animation where a square is used:
+Here’s a simple example of animation where a rectangle is used:
 
 ![Motion Curves](/privatebebomalaka/img/Motion_Curves.gif)
 
