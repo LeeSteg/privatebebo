@@ -32,7 +32,6 @@ Here are a few areas you can explore when designing motion mockups:
 ![Idle](/privatebebomalaka/img/Icon_Idle.jpg) ![Locked](/privatebebomalaka/img/Icon_Locked.jpg) ![Equipped](/privatebebomalaka/img/Icon_Equipped.jpg) ![Active Use](/privatebebomalaka/img/Icon_ActiveUse.jpg) 
 
 
-{: style="text-align:center"}
 ![Progression](/privatebebomalaka/img/Icon_Progression.gif) ![Passive](/privatebebomalaka/img/Icon_Passive.gif) ![Unlocked](/privatebebomalaka/img/Icon_Unlocked.gif) 
 
 <br>
