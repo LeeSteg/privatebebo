@@ -21,8 +21,10 @@ A good practice is to notify the player when a character loses or gains health. 
 
 {: style="text-align:center"}
 ![Healthbar States](/privatebebomalaka/img/HUD_Health_Loss.gif)
+
 {: style="text-align:center"}
 ![Healthbar States](/privatebebomalaka/img/HUD_Health_Gain.gif)
+
 {: style="text-align:center"}
 ![Healthbar States](/privatebebomalaka/img/HUD_Low_Health.gif)
 
