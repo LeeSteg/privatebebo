@@ -29,13 +29,13 @@ Here are a few areas you can explore when designing motion mockups:
 - Speed / Flare
 
 {: style="text-align:center"}
-![Idle](/privatebebomalaka/img/Icon_Idle.jpg) ![Locked](/privatebebomalaka/img/Icon_Locked.jpg) ![Equipped](/privatebebomalaka/img/Icon_Equipped.jpg) ![Active Use](/privatebebomalaka/img/Icon_ActiveUse.jpg) 
+<img src="/privatebebomalaka/img/Icon_Idle.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Progression.gif" width="200"/> <img src="/privatebebomalaka/img/Icon_Equipped.jpg" width="200"/>
 
 {: style="text-align:center"}
-![Progression](/privatebebomalaka/img/Icon_Progression.gif) ![Passive](/privatebebomalaka/img/Icon_Passive.gif) ![Unlocked](/privatebebomalaka/img/Icon_Unlocked.gif) 
+<img src="/privatebebomalaka/img/Icon_Locked.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Unlocked.gif" width="200"/> 
 
 {: style="text-align:center"}
-<img src="/privatebebomalaka/img/Icon_Progression.gif" width="200"/> <img src="/privatebebomalaka/img/Icon_Passive.gif" width="200"/> 
+<img src="/privatebebomalaka/img/Icon_ActiveUse.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Passive.gif" width="200"/> 
 
 <br>
 
