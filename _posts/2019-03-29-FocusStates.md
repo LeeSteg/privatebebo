@@ -45,7 +45,7 @@ The same applies to icons. Decide how to communicate different states while main
 
 HUD gameplay features might need unique state representations, such as abilities that require active usage and cool-down states. In the example below, active usage is represented by counterclockwise radial swipe, and the cool-down state is a clockwise filling, opposite to the usage.
 
-![UI Component States](/privatebebomalaka/img/Component_States.gif)
+![UI Component States](/privatebebomalaka/img/Component_States.jpg)
 
 <br>
 
