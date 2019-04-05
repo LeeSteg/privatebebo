@@ -69,7 +69,7 @@ A timer is usually integrated with the Score component and displayed in the top 
 
 The following examples illustrate how the Timer component can be used in various types of games:
 
-![HUD Timers genre placement](/privatebebomalaka/img/Timers_HUD_Genres.gif)
+![HUD Timers genre placement](/privatebebomalaka/img/Timer_HUD_Genres.gif)
 
 <br>
 
