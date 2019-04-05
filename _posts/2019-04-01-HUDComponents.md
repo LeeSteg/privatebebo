@@ -33,6 +33,8 @@ Place the health widget close to the core action, such as in the upper-left or u
 <br>
 
 The following examples illustrate how the Health component can be used in various types of games:
+{: style="text-align:center"}
+![Common Healthbars](/privatebebomalaka/img/HUD_Component_Legend.png)
 
 ![HUD Health genre placement](/privatebebomalaka/img/Health_HUD_Genres.gif)
 
