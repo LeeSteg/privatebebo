@@ -13,9 +13,9 @@ On touch-controlled devices, there is usually no rollover or focus state. The pl
 
 The four common focus states are:
 - **Default** state is how a button or tile will look on the screen without any interaction.
-- **Disabled** state indicates the button or tile cannot be interacted with. Common ways to show a disabled state is to make the button semi-transparent or tinted from the default state.
+- **Disabled** state indicates the button or tile cannot be interacted with. Common ways to show a disabled state is to make the default state semi-transparent or tinted.
 - **Focus** state indicates that the button or tile can be selected on the screen. This can also be referred to as a roll-over state in mouse and keyboard based games. Common ways to show a focus state is to change the button to a focus color, and/or add an effect, outline or animation.
-- **Selected** state indicates the button or tile is currently selected. This is different from a focus state in that it is the active state. These commonly appear in lists or grids (settings, marketplace, loadout menus) where the user can freely navigate the menu while still having a setting or object selected. To indicate a selected state, it is common to use a small icon such as a checkmark, or line.
+- **Selected** state indicates the button or tile is currently active. Selected states commonly appear in lists or grids (settings, marketplace, loadout menus) where the user can freely navigate the menu while still having a setting or object selected/active. To indicate a selected state, it is common to use a small icon such as a checkmark, outline or color change.
 
 Less common focus states are:
 - **Locked** state is different from disabled, as the button or tile can still be interacted with. Common ways to show a locked state is to add a lock icon, locked text, or a required currency. 
