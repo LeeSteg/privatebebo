@@ -34,7 +34,7 @@ Place the health widget close to the core action, such as in the upper-left or u
 
 The following examples illustrate how the Health component can be used in various types of games:
 
-![HUD Health genre placement](/privatebebomalaka/img/Health_HUD_genres.gif)
+![HUD Health genre placement](/privatebebomalaka/img/Health_HUD_Genres.gif)
 
 <br>
 
@@ -59,7 +59,7 @@ Display the score in the top left, top middle, or top right, opposite of the hea
 
 The following examples illustrate how the Score component can be used in various types of games:
 
-![HUD Score genre placement](/privatebebomalaka/img/Score_HUD_genres.gif)
+![HUD Score genre placement](/privatebebomalaka/img/Score_HUD_Genres.gif)
 
 <br>
 
@@ -69,7 +69,7 @@ A timer is usually integrated with the Score component and displayed in the top 
 
 The following examples illustrate how the Timer component can be used in various types of games:
 
-![HUD Timers genre placement](/privatebebomalaka/img/Timers_HUD_genres.gif)
+![HUD Timers genre placement](/privatebebomalaka/img/Timers_HUD_Genres.gif)
 
 <br>
 
@@ -92,7 +92,7 @@ Newer HUD designs integrate the ammo count with the weapon itself, so the tradit
 
 The following examples illustrate how the Ammo Count component can be used in various types of games:
 
-![HUD Ammo genre placement](/privatebebomalaka/img/Ammo_HUD_genres.gif)
+![HUD Ammo genre placement](/privatebebomalaka/img/Ammo_HUD_Genres.gif)
 
 <br>
 
@@ -111,7 +111,7 @@ In games that use first-person and third-person POVs, the keep the reticle in th
 
 The following examples illustrate how the reticle can be used in various types of games:
 
-![HUD Reticle genre placement](/privatebebomalaka/img/Reticle_HUD_genres.gif)
+![HUD Reticle genre placement](/privatebebomalaka/img/Reticle_HUD_Genres.gif)
 
 <br>
 
@@ -123,7 +123,7 @@ Because the compass is often used in the first-person and third-person POVs in a
 
 The following examples illustrate how the compass can be used in various types of games
 
-![HUD Compass genre placement](/privatebebomalaka/img/Compass_HUD_genres.gif)
+![HUD Compass genre placement](/privatebebomalaka/img/Compass_HUD_Genres.gif)
 
 <br>
 
@@ -133,6 +133,6 @@ Implement a small top-down map in games where the player must know the location 
 
 The mini map should occupy no more than 1/8th of the screen, so avoid displaying too many details on it. Because the mini map provides information that is secondary to the gameplay, place it in the bottom corners of the screen, opposite of where most gameplay takes place.
 
-![HUD Minimap genre placement](/privatebebomalaka/img/Minimap_HUD_genres.gif)
+![HUD Minimap genre placement](/privatebebomalaka/img/Minimap_HUD_Genres.gif)
 
 <br>
