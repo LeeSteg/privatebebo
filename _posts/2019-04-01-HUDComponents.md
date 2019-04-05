@@ -32,7 +32,7 @@ Place the health widget close to the core action, such as in the upper-left or u
 
 <br>
 
-The following examples illustrate how the Health component can be used in various types of games:
+The following examples illustrate how the **Health component** can be used in various types of games:
 
 {: style="text-align:center"}
 ![Component_Legend](/privatebebomalaka/img/HUD_Component_Legend.png)
@@ -60,7 +60,7 @@ When the player’s score increases, the score should provide feedback by
 
 Display the score in the top left, top middle, or top right, opposite of the health stats. In sporting games, display the score at the bottom center, to mimic television broadcasts. Camera focus and gameplay will also dictate the placement of these HUD components.
 
-The following examples illustrate how the Score component can be used in various types of games:
+The following examples illustrate how the **Score component** can be used in various types of games:
 
 ![HUD Score genre placement](/privatebebomalaka/img/Score_HUD_Genres.gif)
 
@@ -70,7 +70,7 @@ The following examples illustrate how the Score component can be used in various
 
 A timer is usually integrated with the Score component and displayed in the top center or bottom center of the screen. During the final countdown, the timer can alert the player by flashing or by changing color, with sound effects added in the final 5–10 seconds.
 
-The following examples illustrate how the Timer component can be used in various types of games:
+The following examples illustrate how the **Timer component** can be used in various types of games:
 
 ![HUD Timers genre placement](/privatebebomalaka/img/Timer_HUD_Genres.gif)
 
@@ -93,7 +93,7 @@ Shooter games commonly use first-person and third-person POVs. With the third-pe
 
 Newer HUD designs integrate the ammo count with the weapon itself, so the traditional ammo count component may get eliminated.
 
-The following examples illustrate how the Ammo Count component can be used in various types of games:
+The following examples illustrate how the **Ammo Count component** can be used in various types of games:
 
 ![HUD Ammo genre placement](/privatebebomalaka/img/Ammo_HUD_Genres.gif)
 
@@ -112,7 +112,7 @@ Let the player customize the reticle for different weapon types, items in the in
 
 In games that use first-person and third-person POVs, the keep the reticle in the center of the screen and implement the Right Stick to control the camera. In Real-Time Strategy (RTS) and top-down gameplay, implement the Right Stick to move the reticle and to pan the screen by moving the cursor to the edges.
 
-The following examples illustrate how the reticle can be used in various types of games:
+The following examples illustrate how the **Reticle component** can be used in various types of games:
 
 ![HUD Reticle genre placement](/privatebebomalaka/img/Reticle_HUD_Genres.gif)
 
@@ -124,7 +124,7 @@ The Compass component shows the direction in which a player, teammates, or objec
 
 Because the compass is often used in the first-person and third-person POVs in an Open World scenario, place this component in the top center of the screen.
 
-The following examples illustrate how the compass can be used in various types of games
+The following examples illustrate how the **Compass component** can be used in various types of games
 
 ![HUD Compass genre placement](/privatebebomalaka/img/Compass_HUD_Genres.gif)
 
@@ -134,7 +134,7 @@ The following examples illustrate how the compass can be used in various types o
 
 Implement a small top-down map in games where the player must know the location of teammates, enemies, and various other elements. The mini-map may also include a compass, off-screen indicators, and objective markers.
 
-The mini map should occupy no more than 1/8th of the screen, so avoid displaying too many details on it. Because the mini map provides information that is secondary to the gameplay, place it in the bottom corners of the screen, opposite of where most gameplay takes place.
+The mini map should occupy no more than 1/8th of the screen, so avoid displaying too many details on it. Because the mini map provides information that is secondary to the gameplay, place it in the **bottom corners of the screen**, opposite of where most gameplay takes place.
 
 ![HUD Minimap genre placement](/privatebebomalaka/img/Minimap_HUD_Genres.gif)
 
