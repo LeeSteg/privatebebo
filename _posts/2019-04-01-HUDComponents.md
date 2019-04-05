@@ -83,6 +83,7 @@ You have many techniques at your disposal:
 - Show an empty ammo clip graphic
 - Use a sound effect if the player tries to make a shot with an empty gun clip
 
+{: style="text-align:center"}
 ![Common Ammo Count](/privatebebomalaka/img/HUD_Ammocount.png)
 
 Shooter games commonly use first-person and third-person POVs. With the third-person POV, the character is usually in the bottom-center of the screen. To avoid obscuring the character, display the ammo count in the upper-right or upper-left corner of the screen. With the first-person POV, the focus is in the center of the screen, so the ammo count is best placed in the mid-bottom part of the screen. 
@@ -101,6 +102,7 @@ For targeting-related effects, implement a reticle (or a cursor) to indicate an 
 
 To indicate a direct hit or a positive interaction area, show a state change. To indicate the interaction target, animate the reticle or change its shape or color. 
 
+{: style="text-align:center"}
 ![Common Reticle States](/privatebebomalaka/img/HUD_Reticle_States.png)
 
 Let the player customize the reticle for different weapon types, items in the inventory, and interactions.
