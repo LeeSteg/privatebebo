@@ -11,10 +11,17 @@ To guide players through menus, provide a reticle or pointer. A small pointer wi
 In most controller-based games, the pointer is replaced with focus state: a technique of visually changing a button or graphic to highlight the pointer’s location. Focus state is similar to the rollover state used in games controlled with the mouse and keyboard.
 On touch-controlled devices, there is usually no rollover or focus state. The player’s finger acts as the cursor, and direct touch is used to interact with the screen.
 
-There are four common focus states and two less common states:  
-![Focus States](/privatebebomalaka/img/6_Focus_States.png)
+The four common focus states are:
+- **Default** state is how a button or tile will look on the screen without any interaction.
+- **Disabled** state indicates the button or tile cannot be interacted with. Common ways to show a disabled state is to make the button semi-transparent or tinted from the default state.
+- **Focus** state indicates that the button or tile can be selected on the screen. This can also be referred to as a roll-over state in mouse and keyboard based games. Common ways to show a focus state is to change the button to a focus color, and/or add an effect, outline or animation.
+- **Selected** state indicates the button or tile is currently selected. This is different from a focus state in that it is the active state. These commonly appear in lists or grids (settings, marketplace, loadout menus) where the user can freely navigate the menu while still having a setting or object selected. To indicate a selected state, it is common to use a small icon such as a checkmark, or line.
 
-These new and locked states are commonly used in a game’s stores, save slots, and skill trees. Although a locked icon can be used to represent a locked item, such an icon would provide little information on how the player can unlock the item.
+Less common focus states are:
+- **Locked** state is different from disabled, as the button or tile can still be interacted with. Common ways to show a locked state is to add a lock icon, locked text, or a required currency. 
+- **New** states are used to draw the player's attention within a menu. Common ways to indicate a new item is to add a flashing icon such as a **!** next to the button or tile.
+
+The new and locked states are commonly used in a game’s stores, save slots, and skill trees. Although a locked icon can be used to represent a locked item, such an icon would provide little information on how the player can unlock the item.
 
 <br>
 
