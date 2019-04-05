@@ -18,7 +18,9 @@ The health of a character or vehicle can be displayed as a number, percentage, g
 
 A good practice is to notify the player when a character loses or gains health. Many games show the percentage or amount of health being lost or gained. In some instances, the health bar or number will flash when the character’s health gets too low.
 
-![Healthbar States](/privatebebomalaka/img/HUD_Healthbar_States.gif)
+![Healthbar States](/privatebebomalaka/img/HUD_Health_Loss.gif)
+![Healthbar States](/privatebebomalaka/img/HUD_Health_Gain.gif)
+![Healthbar States](/privatebebomalaka/img/HUD_Low_Health.gif)
 
 Place the health widget close to the core action, such as in the upper-left or upper-right corner, or in the bottom center. Placing the health bar close to the border of the screen will ensure it doesn’t cover the gameplay and lets the player assess the health state at a glance.
 
