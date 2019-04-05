@@ -54,6 +54,15 @@ HUD gameplay features might need unique state representations, such as abilities
 
 ![UI Component States](/privatebebomalaka/img/Component_States.jpg)
 
+{: style="text-align:center"}
+<img src="/privatebebomalaka/img/Icon_Idle.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Progression.gif" width="200"/> <img src="/privatebebomalaka/img/Icon_Equipped.jpg" width="200"/>
+
+{: style="text-align:center"}
+<img src="/privatebebomalaka/img/Icon_Locked.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Unlocked.gif" width="200"/> 
+
+{: style="text-align:center"}
+<img src="/privatebebomalaka/img/Icon_ActiveUse.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Passive.gif" width="200"/> 
+
 <br>
 
 ## HUD reticle and Enemy Focus
