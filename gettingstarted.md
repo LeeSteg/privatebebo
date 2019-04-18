@@ -3,7 +3,7 @@
 layout: page
 title: Getting Started
 subtitle: An overview test of posts going here with a post folder
-use-site-title: true
+use-site-title: false
 
 ---
 
