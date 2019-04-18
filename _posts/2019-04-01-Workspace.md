@@ -24,5 +24,6 @@ Set up a workspace conducive to creativity and productivity, a place where you c
 - Devkit and controller
 - Variable lighting, with the ability to turn the lights on and off
 
+{: style="text-align:center"}
 ![Testing Workspace](/privatebebomalaka/img/Testing_Workspace.png)  
 _Example of a testing workspace_
