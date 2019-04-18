@@ -4,7 +4,7 @@ title: Workspace
 subtitle: Quick overiew of Designing UI
 tags: [Process, Getting Started]
 categories: [Process]
-image: /img/Testing_Workspace.png
+image: img/Testing_Workspace.png
 share-img: /img/Testing_Workspace.png
 ---
 
