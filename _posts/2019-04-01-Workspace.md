@@ -4,7 +4,7 @@ title: Workspace
 subtitle: Quick overiew of Designing UI
 tags: [Process, Getting Started]
 categories: [Process]
-image: /img/Dark_theme.png
+share-img: /img/Dark_theme.png
 ---
 
 Set up a workspace conducive to creativity and productivity, a place where you can test your designs properly. Design and build at your desk, but test in an environment that closely simulates that of the player. Use the following equipment to test input and to identify potential issues with legibility, color, and contrast:
