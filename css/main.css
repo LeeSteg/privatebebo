@@ -35,6 +35,7 @@ a:focus {
 blockquote {
   color: #808080;
   font-style: italic;
+  font-family: 'Lora', 'Times New Roman', serif; 
 }
 blockquote p:first-child {
   margin-top: 0;
