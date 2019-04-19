@@ -22,9 +22,6 @@ use-site-title: true
     {{ post.subtitle }}
   </h3>
   {% endif %}
-  
-  <hr style="border-color: #660000;"/> 
-  
    </a>
 
    <p class="post-meta">
