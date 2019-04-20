@@ -4,7 +4,7 @@ title: Workspace
 subtitle: Quick overiew of Designing UI
 tags: [Process, Getting Started]
 categories: [Process]
-image: img/test_pattern_200x200.jpg
+image: img/icon_gameux.png
 image: /img/test_pattern_200x200.jpg
 ---
 
