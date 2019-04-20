@@ -2,10 +2,25 @@
 
 layout: page
 title: Getting Started
-subtitle: Things to know before you begin
+subtitle: Things to know before starting to design
 use-site-title: true
 
 ---
+
+hr.small {
+
+  max-width: 100px;
+
+  margin: 15px auto;
+
+  border-width: 4px;
+
+  border-color: #880000;
+
+  border-radius: 3px;
+
+}
+
 
 <div class="posts-list">
 
