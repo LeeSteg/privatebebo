@@ -7,21 +7,6 @@ use-site-title: true
 
 ---
 
-hr.small {
-
-  max-width: 100px;
-
-  margin: 15px auto;
-
-  border-width: 4px;
-
-  border-color: #880000;
-
-  border-radius: 3px;
-
-}
-
-
 <div class="posts-list">
 
 {% for category in site.categories %}
