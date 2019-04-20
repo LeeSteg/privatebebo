@@ -2,7 +2,7 @@
 
 layout: page
 title: Getting Started
-subtitle: An overview test of posts going here with a post folder
+subtitle: Things to know before you begin
 use-site-title: true
 
 ---
