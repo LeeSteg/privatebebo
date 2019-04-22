@@ -2,7 +2,7 @@
 layout: post
 title: Shape Language
 subtitle: The elements behind visual harmony
-tags: [Visuals, Knowledge]
+tags: [Visuals]
 categories: [Visuals]
 ---
 
