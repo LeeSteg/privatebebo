@@ -47,7 +47,7 @@ avatar: "/img/icon_gameux.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /img/avatar-icon.png
+title-img: "/img/icon_gameux.png"
 
 # --- Background colour/image options --- #
 
