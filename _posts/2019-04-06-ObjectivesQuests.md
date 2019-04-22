@@ -2,7 +2,7 @@
 layout: post
 title: Objectives and Quests
 subtitle: Genre based design examples of objectives
-tags: [HUD, Design]
+tags: [HUD]
 categories: [HUD]
 ---
 
