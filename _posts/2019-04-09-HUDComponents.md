@@ -2,7 +2,7 @@
 layout: post
 title: HUD Components
 subtitle: Overview of common HUD components
-tags: [HUD, Design]
+tags: [HUD]
 categories: [HUD]
 ---
 
