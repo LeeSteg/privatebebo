@@ -2,7 +2,7 @@
 layout: post
 title: Colorblindness
 subtitle: When color can confuse the player
-tags: [Color, Accessibility, Design]
+tags: [Color, Accessibility]
 categories: [Color, Accessibility]
 ---
 
