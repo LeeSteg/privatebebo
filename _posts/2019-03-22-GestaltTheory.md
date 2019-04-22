@@ -2,7 +2,7 @@
 layout: post
 title: Gestalt Theory
 subtitle: How we percieve the world
-tags: [Knowledge, Design, HUD, Layout]
+tags: [Knowledge, Design]
 categories: [Knowledge]
 ---
 
