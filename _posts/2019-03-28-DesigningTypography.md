@@ -2,7 +2,7 @@
 layout: post
 title: Designing with Typography
 subtitle: Best Practices for designing UI in games
-tags: [Typography, Best Practices]
+tags: [Typography]
 categories: [Typography]
 ---
 
