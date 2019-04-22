@@ -2,7 +2,7 @@
 layout: post
 title: Typography
 subtitle: The Basics
-tags: [Typography, Knowledge]
+tags: [Typography]
 categories: [Typography]
 ---
 
