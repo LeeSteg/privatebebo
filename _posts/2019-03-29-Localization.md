@@ -2,7 +2,7 @@
 layout: post
 title: Localization
 subtitle: Design for more than one language
-tags: [Typography, Layout, Localization]
+tags: [Typography]
 categories: [Typography]
 ---
 
