@@ -2,7 +2,7 @@
 layout: post
 title: Menu Components
 subtitle: Overview of Common UI Components
-tags: [Menus, UI]
+tags: [Menus]
 categories: [Menus]
 ---
 
