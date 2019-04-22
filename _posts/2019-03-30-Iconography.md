@@ -2,7 +2,7 @@
 layout: post
 title: Iconography
 subtitle: The Basics
-tags: [Visuals, Knowledge]
+tags: [Visuals]
 categories: [Visuals]
 ---
 
