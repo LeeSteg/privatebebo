@@ -2,7 +2,7 @@
 layout: post
 title: Static Mockups
 subtitle: An overview of game menus 
-tags: [Mockups, Process, Design]
+tags: [Mockups]
 categories: [Mockups]
 ---
 
