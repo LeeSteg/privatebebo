@@ -2,7 +2,7 @@
 layout: post
 title: Principles of Usability
 subtitle: Seven building blocks to good UX
-tags: [Knowledge, UI, Layout]
+tags: [Knowledge, UI]
 categories: [Knowledge]
 ---
 
