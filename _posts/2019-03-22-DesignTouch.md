@@ -151,7 +151,7 @@ The following are some of the common mouse and keyboard input designs adapted fo
 | Esc | _Pause/Menu_ | Menu |
 | 1 thru 0 | _Weapon/Item shortcuts_ | D-Pad |
 | W | _Player Up/Forward_ | Left Stick, Up |
-| S | _Player Down/Backwards_ | Left Stick, Down |
+![Black & White Composition](/privatebebomalaka/img/Composition_BW.jpg)| S | _Player Down/Backwards_ | Left Stick, Down |
 | D | _Player Right_ | Left Stick, Right |
 | A | _Player Left_ | Left Stick, Left |
 | Mouse | _Camera/Weapon Aim_ | Right Stick |
@@ -176,7 +176,7 @@ Use sound when it is most impactful to gameplay, such as setting a mood or drawi
 
 Here are a few examples:
 - A player uses the frontend menu to enter a Microsoft Store page. 
-Rather than having the user transition through all the elements without sound, use a bell or a subtle ring at the end of each transition, and highlight new items for sale. Not only would the sound draw attention to a new item on the screen, but it would also teach the user that the sound of a bell means a new feature is available in the store.
+Rather than having the user transition through all the elements without sound, use a bell or a subtle ring at the end of each transition, and highlight new items for sale. Not only would the sound draw attention to a new item on the screen,![Black & White Composition](/privatebebomalaka/img/Composition_BW.jpg) but it would also teach the user that the sound of a bell means a new feature is available in the store.
 - A player uses the HUD to look down the scope of a gun. 
 To increase the feeling of tension, trigger a heartbeat sound while the player is trying to focus on a target. In a sports game such as basketball, trigger the same heartbeat sound while the player is about to take that critical last shot, with seconds remaining in the game.
 
@@ -187,6 +187,18 @@ The sound effects illustrated in these examples do not stop gameplay; in fact, t
 ## Sight
 Sight is the sense that video games exploit most extensively. Visuals set the mood and help tell a story. Take advantage of the composition theory to come up with imagery that can help you get ahead of your competition.
 
+This game took traditional flat UI and unified gameplay with narrative through immersive, diegetic presentation of UI. The 3rd person perspective allows the display of health and ammo information on the character’s back and weapon which can be seen by both the character and player. This opens up the entire gameplay view for a completely immersive experience allowing players to take in the survival horror atmosphere. The high contast color palette between UI and game world also provides clarity and readability. Deadspace’s pioneering use of diegeic UI has become a source of inspiration for the industry.
+
+![Screen Composition](/privatebebomalaka/img/Composition_Color.jpg)
+_An example from DeadSpace_
+
+![Black & White Composition](/privatebebomalaka/img/Composition_BW.jpg)
+_This image also works in black and white. The features remain clear and UI is legible._
 
 {: .box-warning}
 **Tip:** Do not overload the player with information and visuals.
+
+At the other end of the spectrum are images like the one shown below. The image is vibrant and saturated with color, and it has interesting elements. However, there is too much to look at, and no obvious resting point. The impact is not as great as it could have been.
+
+![Information Overload](/privatebebomalaka/img/Composition_overload.jpg)
+
