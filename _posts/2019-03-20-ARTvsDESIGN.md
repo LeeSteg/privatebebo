@@ -2,7 +2,7 @@
 layout: post
 title: Art vs Design
 subtitle: Does it look or feel good?
-tags: [Getting Started, Art, Design]
+tags: [Getting Started]
 categories: [Getting Started]
 ---
 
