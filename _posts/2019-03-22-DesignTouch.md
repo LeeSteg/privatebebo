@@ -151,7 +151,7 @@ The following are some of the common mouse and keyboard input designs adapted fo
 | Esc | _Pause/Menu_ | Menu |
 | 1 thru 0 | _Weapon/Item shortcuts_ | D-Pad |
 | W | _Player Up/Forward_ | Left Stick, Up |
-![Black & White Composition](/privatebebomalaka/img/Composition_BW.jpg)| S | _Player Down/Backwards_ | Left Stick, Down |
+| S | _Player Down/Backwards_ | Left Stick, Down |
 | D | _Player Right_ | Left Stick, Right |
 | A | _Player Left_ | Left Stick, Left |
 | Mouse | _Camera/Weapon Aim_ | Right Stick |
