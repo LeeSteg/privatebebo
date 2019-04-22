@@ -2,7 +2,7 @@
 layout: post
 title: Working with Game Engines
 subtitle: Areas to know before production
-tags: [3D Artwork, Process]
+tags: [3D Artwork]
 categories: [3D Artwork]
 ---
 
