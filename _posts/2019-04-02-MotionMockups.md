@@ -2,7 +2,7 @@
 layout: post
 title: Motion Mockups
 subtitle: Genre based design examples of objectives
-tags: [Mockups, Design, Animation]
+tags: [Mockups]
 categories: [Mockups]
 ---
 
