@@ -2,7 +2,7 @@
 layout: post
 title: HUD Design
 subtitle: Genre-specific examples
-tags: [HUD, Design, Knowledge]
+tags: [HUD]
 categories: [HUD]
 ---
 
