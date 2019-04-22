@@ -2,7 +2,7 @@
 layout: post
 title: Popup Menus
 subtitle: Overview of popup menus
-tags: [Menus, UI, Design]
+tags: [Menus]
 categories: [Menus]
 ---
 
