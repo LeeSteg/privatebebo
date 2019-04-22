@@ -2,7 +2,7 @@
 layout: post
 title: Layout of the HUD
 subtitle: Know your place in the game
-tags: [HUD, Design, Process]
+tags: [HUD]
 categories: [HUD]
 ---
 
