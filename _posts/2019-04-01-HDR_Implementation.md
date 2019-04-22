@@ -2,8 +2,8 @@
 layout: post
 title: Implementation of High Dynamic Range
 subtitle: Core priniciples in designing HDR content
-tags: [HDR, Process, Design]
-categories: [HDR]
+tags: [Color]
+categories: [Color]
 ---
 
 By availing an extended range of luminosity, [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) empowers us to express not only the subtleties of shadows but also a true glow or a burst of light within a bright area. However, because a greater range of WCG (and dark and light values) is available in HDR, discrepancies might result when SDR and HDR values are interconverted:
