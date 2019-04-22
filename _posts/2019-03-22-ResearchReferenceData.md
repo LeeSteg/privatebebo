@@ -2,8 +2,8 @@
 layout: post
 title: Research, Reference and Data
 subtitle: Before you begin, do your homework
-tags: [GettingStarted]
-categories: [GettingStarted]
+tags: [Getting Started]
+categories: [Getting Started]
 ---
 
 ## Gathering of data, and research
