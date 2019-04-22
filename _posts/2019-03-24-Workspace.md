@@ -2,8 +2,8 @@
 layout: post
 title: Workspace
 subtitle: Quick overiew of Designing UI
-tags: [Process, Getting Started]
-categories: [Process]
+tags: [Technical]
+categories: [Technical]
 image: /img/icon_gameux_red.png
 ---
 
