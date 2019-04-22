@@ -2,7 +2,7 @@
 layout: post
 title: General Guidelines
 subtitle: Advantages of using color in UI 
-tags: [Color, Design, UI]
+tags: [Color]
 categories: [Color]
 ---
 
