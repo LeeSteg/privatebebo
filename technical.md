@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: Terminology
-subtitle: An overview of common terms in interface design
+title: Technical
+subtitle: The technical side of UX development
 use-site-title: true
 
 ---
@@ -10,7 +10,7 @@ use-site-title: true
 <div class="posts-list">
 
 {% for category in site.categories %}
-{% if category[0] == 'Terminology' %}
+{% if category[0] == 'Technical' %}
 {% for post in category[1] %}
 
  <article class="post-preview">
