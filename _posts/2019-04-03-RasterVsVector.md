@@ -2,7 +2,7 @@
 layout: post
 title: Raster vs Vector
 subtitle: Which technique to use  
-tags: [2D Artwork, Process]
+tags: [2D Artwork]
 categories: [2D Artwork]
 ---
 
