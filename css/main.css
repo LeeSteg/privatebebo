@@ -17,28 +17,40 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
+
 p {
   line-height: 1.5;
   margin: 30px 0;
 }
-h1,h2,h3,h4,h5,h6 {
+
+h1,h2 {
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+
+h3,h4,h5,h6 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+}
+
 a {
   color: {{ site.link-col }};
 }
+
 a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
+
 blockquote {
   color: #808080;
   font-style: italic;
 }
+
 blockquote p:first-child {
   margin-top: 0;
 }
+
 hr.small {
   max-width: 100px;
   margin: 15px auto;
@@ -108,7 +120,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 1px solid #dedede;
+  border-bottom: 1px #dedede solid ;
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
