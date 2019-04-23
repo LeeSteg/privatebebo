@@ -4,7 +4,6 @@ layout: page
 title: Getting Started
 subtitle: Things to know before starting to design
 use-site-title: true
-show-avatar: true
 
 ---
 
