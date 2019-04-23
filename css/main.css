@@ -27,7 +27,7 @@ p {
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 a {
@@ -118,7 +118,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px #dedede solid ;
-  font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
@@ -355,7 +355,7 @@ footer .theme-by {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: 800;
   margin-bottom: 10px;
 }
 .post-preview .post-meta,
@@ -497,7 +497,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 800;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
