@@ -355,7 +355,7 @@ footer .theme-by {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 800;
+  font-weight: 300;
   margin-bottom: 10px;
 }
 .post-preview .post-meta,
@@ -497,7 +497,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 300;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
