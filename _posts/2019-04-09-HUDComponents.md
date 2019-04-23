@@ -4,7 +4,7 @@ title: HUD Components
 subtitle: Overview of common HUD components
 tags: [HUD]
 categories: [HUD]
-bigimg: /img/UXMG_Title.jpg
+show-avatar: true
 ---
 
 In the HUD, Information graphics are often layered on top of the gameplay. This helps players keep track of the core gameplay information, such as the score, health, time, item totals, location, and direction.
