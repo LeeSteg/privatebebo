@@ -4,7 +4,7 @@ layout: null
 
 @import url("pygment_highlights.css");
 
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Bold');
 
 /* --- General --- */
 
@@ -26,8 +26,8 @@ p {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: bold;
+  font-family: 'Fira Sans Bold', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
 }
 
 a {
