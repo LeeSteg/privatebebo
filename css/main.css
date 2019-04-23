@@ -4,7 +4,7 @@ layout: null
 
 @import url("pygment_highlights.css");
 
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,800');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,800');
 
 /* --- General --- */
 
@@ -355,7 +355,7 @@ footer .theme-by {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: 400;
   margin-bottom: 10px;
 }
 .post-preview .post-meta,
@@ -497,7 +497,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
@@ -505,7 +505,7 @@ footer .theme-by {
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
-  font-weight: 400;
+  font-weight: 500;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
@@ -774,7 +774,7 @@ td.gutter {
 }
 
 #full-tags-list {
-  font-family: 'Fira Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #full-tags-list .tag-entry {
@@ -789,7 +789,6 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
-  font-weight: 400;
 }
 
 .btn-primary {
