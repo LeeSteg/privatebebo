@@ -4,7 +4,7 @@ layout: null
 
 @import url("pygment_highlights.css");
 
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans:700');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,800');
 
 /* --- General --- */
 
@@ -789,6 +789,7 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+  font-weight: 400;
 }
 
 .btn-primary {
