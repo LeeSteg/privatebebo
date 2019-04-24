@@ -27,6 +27,8 @@ There are the number of ways for you to provide input to our site.
 
 Although we can’t guarantee any specific ideas will be implemented, we’ll ensure that your ideas and comments are a key influence on future additions.
 
+<br>
+<br>
 
 <form action="https://formspree.io/lsteg@microsoft.com" method="POST" class="form" id="contact-form">
   <p>Send us a quick message using the form below:</p>
