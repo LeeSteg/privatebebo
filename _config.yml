@@ -111,6 +111,7 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "Terms of use" # eg. "deanattali.com/beautiful-jekyll"
+url-contribute: "Authors"
 
 # --- Web Statistics Section --- #
 
