@@ -112,6 +112,7 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "Terms of use"
 url-contribute: "Community"
+url-authors: "Authors"
 
 # --- Web Statistics Section --- #
 
