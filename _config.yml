@@ -75,7 +75,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Bebo | Malaka
+  name: Steg | Younas
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -85,11 +85,11 @@ social-network-links:
   rss: true
   email: "lbsteg@yahoo.com"
 #  facebook: daattali
-  github: bebomalaka
+#  github: bebomalaka
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: lee-steg-69826b
+#  linkedin: lee-steg-69826b
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -103,14 +103,14 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MySite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "Terms of use", "Contact", "Contributors"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
