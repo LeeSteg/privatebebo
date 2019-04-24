@@ -28,13 +28,8 @@ There are the number of ways for you to provide input to our site.
 Although we can’t guarantee any specific ideas will be implemented, we’ll ensure that your ideas and comments are a key influence on future additions.
 
 
-<div style="text-align:center;">
-<a class="btn btn-lg btn-success" href="https://daattali.com/shiny/visualize-git-commits-time/">Contact Us</a>
-</div>
-
-
 <form action="https://formspree.io/lsteg@microsoft.com" method="POST" class="form" id="contact-form">
-  <p>You can also send me a quick message using the form below:</p>
+  <p>Send us a quick message using the form below:</p>
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
@@ -43,7 +38,7 @@ Although we can’t guarantee any specific ideas will be implemented, we’ll en
       <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
     </div>
   </div>
-  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <input type="hidden" name="_subject" value="New submission from gameuxmasterguide.com">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" /> 
