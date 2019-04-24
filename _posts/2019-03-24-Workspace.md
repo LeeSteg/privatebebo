@@ -4,7 +4,7 @@ title: Workspace
 subtitle: Quick overiew of Designing UI
 tags: [Technical]
 categories: [Technical]
-image: "/img/icon_gameux_red.png"
+image: "img/icon_gameux_red.png"
 show-avatar: true
 ---
 
