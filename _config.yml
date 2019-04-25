@@ -113,7 +113,7 @@ share-links-active:
 url-pretty: "Terms of use"
 url-contribute: "Community"
 url-authors: "Authors"
-url-subscribe: "Subscribe"
+# url-subscribe: "Subscribe"
 
 # --- Web Statistics Section --- #
 
