@@ -21,7 +21,7 @@ If you are interested in suggesting content to be covered, or would like to cont
 
 There are the number of ways for you to provide input to our site.
 
-- **Topic Additons:** We will gather your ideas about a specific feature or a topic and prioritize based on resources.
+- **Topic Additions:** We will gather your ideas about a specific feature or a topic and prioritize based on resources.
 - **Deep Dives:** If there is a topic already covered but you would like more information, leave a comment on any of our posts.
 - **Share Knowledge:** If you have an area you would like to share, let us know and we can help guide you through our submission process.
 
