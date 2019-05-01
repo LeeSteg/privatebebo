@@ -53,9 +53,9 @@ The more immersive a menu you’re trying to design, the more effort and resourc
 _This screenshot from Rise of the Tomb Raider shows how menus can be integrated within gameplay._
 
 ![Rise of the Tomb Raider submenu](/privatebebomalaka/img/TombRaider_submenu.jpg)  
-_Another example of how in-game scenes and assets can be integrated to support UI menus._
+_Rise of the Tomb Raider: Another example of how in-game scenes and assets can be integrated to support UI menus._
 
 ![Halo 5 menu](/privatebebomalaka/img/Halo5_menu.jpg)  
-_Layout of 3D assets can help immerse the player at the level of main menu._
+_Halo 5: Layout of 3D assets can help immerse the player at the level of main menu._
 
 <br>
