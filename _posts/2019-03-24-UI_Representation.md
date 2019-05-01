@@ -24,6 +24,7 @@ Prototyping the functionality, size, and placement of the UI elements will help 
 Implementation of a Non-Diegetic UI usually involves a UI artist or designer, who will create assets that will be implemented in the UI’s middleware or hardcoded into the game engine. Once these assets are built, the UI designer can start adjusting the motion, timing, opacity, color, and placement of each UI element.
 
 ![Non Diegetic UI](/privatebebomalaka/img/UI_NonDiegetic.jpg)
+_Screenshot from Battlefront_
 
 When designing a Non-Diegetic UI, focus on legibility, timing, and positioning of each element in the gameplay.
 
@@ -53,6 +54,7 @@ One example of Diegetic UI is the design of the main character in Dead Space, wh
 When designing a Diegetic UI, focus on legibility of each element. In addition, work with the game designers to ensure that the UI components do not interfere with the core gameplay and that the player’s progression is not obstructed.
 
 ![Diegetic UI](/privatebebomalaka/img/UI_Diegetic.jpg)
+_Screenshot from The Division_
 
 The **pros** of using a Diegetic UI:
 - The UI is integrated with the gameplay, so the experience is more immersive.
@@ -78,6 +80,7 @@ Begin by creating a list of the core elements that will be communicating informa
 The design of the Spatial UI is based on the shaders written by technical artists and engineers. The choice of colors and the timing of the UI is usually determined by game and UX designers.
 
 ![Spatial UI](/privatebebomalaka/img/UI_Spatial.jpg)
+_Screenshot from Assassin's Creed: Syndicate_
 
 The **pros** of using a Spatial UI:
 - UI is integrated with gameplay; the experience is more immersive.
@@ -106,6 +109,7 @@ Aside from being used to change the ambiance and weather states, Meta UI can be 
 
 Meta UI is typically used in conjunction with other UI techniques.  
 ![Meta UI](/privatebebomalaka/img/UI_Meta.jpg)
+_Screenshot from Forza Horizon 3_
 
 The **pros** of using a Meta UI:
 - UI is usually a full-screen effect that involves the entire game.
