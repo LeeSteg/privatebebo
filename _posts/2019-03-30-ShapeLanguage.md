@@ -38,7 +38,8 @@ The following illustration shows screens from a game. There are no odd shapes, t
 
 ![Visual Consistency](/privatebebomalaka/img/VisualConsistency_montage.gif)  
 
-![Crysis 3 screenshot](/privatebebomalaka/img/VisualConsistency_Crysis3_menu.jpg)   
+![Crysis 3 screenshot](/privatebebomalaka/img/VisualConsistency_Crysis3_menu.jpg)
+_Screenshot from Crysis 3_
 
 <br>
 
