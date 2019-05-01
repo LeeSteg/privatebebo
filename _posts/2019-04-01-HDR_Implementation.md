@@ -46,6 +46,7 @@ HDR renders menus, highlights, effects, and other UI elements with enhanced visu
 
 To maintain continuous feedback from a particular element without keeping it in constant focus state, use a combination of bright values and shimmering animation or pulsating glow.  
 ![HDR focus state](/privatebebomalaka/img/HDR_focusstate.jpg)
+_Screenshot from Forza Horizon 3_
 
 To help guide the player within your UI, use motion graphics and special effects while the player transitions from screen to screen. However, use these effects strategically and sparingly.  
 ![HDR visual effects](/privatebebomalaka/img/HDR_visualeffects.jpg)
