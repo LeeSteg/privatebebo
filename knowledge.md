@@ -4,6 +4,7 @@ layout: page
 title: Knowledge
 subtitle: Things to know before you start to design
 use-site-title: true
+bigimg: /img/Hero_Knowledge.jpg
 
 ---
 
