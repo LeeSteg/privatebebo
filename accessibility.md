@@ -2,7 +2,7 @@
 
 layout: page
 title: Accessibility
-subtitle: When everyone plays, we all win
+subtitle: Design for one, design for all
 use-site-title: true
 bigimg: /img/Hero_Accessability.jpg
 
