@@ -4,6 +4,7 @@ layout: page
 title: Technical
 subtitle: The technical side of UX development
 use-site-title: true
+bigimg: /img/Hero_Technical.jpg
 
 ---
 
