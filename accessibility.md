@@ -4,6 +4,7 @@ layout: page
 title: Accessibility
 subtitle: When everyone plays, we all win
 use-site-title: true
+bigimg: /img/Hero_Accessability.jpg
 
 ---
 
