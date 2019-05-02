@@ -4,6 +4,7 @@ layout: page
 title: 2D Artwork
 subtitle: An overview of common techniques and categories
 use-site-title: true
+bigimg: /img/Hero_2DArtwork.jpg
 
 ---
 
