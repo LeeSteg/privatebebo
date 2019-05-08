@@ -48,7 +48,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 
-boxed {
+.boxed {
   border: 2px solid green ;
   }
 
