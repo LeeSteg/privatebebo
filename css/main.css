@@ -50,7 +50,7 @@ blockquote p:first-child {
 
 boxed {
   border: 2px solid green ;
-  } 
+  }
 
 hr.small {
   max-width: 100px;
