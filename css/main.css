@@ -48,6 +48,10 @@ blockquote p:first-child {
   margin-top: 0;
 }
 
+boxed {
+  border: 2px solid green ;
+  } 
+
 hr.small {
   max-width: 100px;
   margin: 15px auto;
