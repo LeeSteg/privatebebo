@@ -48,9 +48,11 @@ blockquote p:first-child {
   margin-top: 0;
 }
 
-.boxed {
-  border: 2px solid green ;
-  }
+boxed {
+    padding: 10px;
+    border: 10px solid white;
+    display: inline-block;
+}
 
 hr.small {
   max-width: 100px;
