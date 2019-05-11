@@ -24,5 +24,6 @@ Now backed by over a decade worth of experience, crafting industry leading art f
 As the vision holder for AAA projects, he leads the design for all things 2D. From branding to style guides, keyart to UI/UX, motion graphics and VFX to marketing. Gaining knowledge is integral to his work and feeds into his process. This drives his passion to raise the bar with every project; pushing the medium far beyond its expectations.
 
 <br>
+<br>
 
 If you are interested in suggesting content to be covered, or would like to [contribute to our site](https://leesteg.github.io/privatebebomalaka/Community), we welcome your comments and content.
