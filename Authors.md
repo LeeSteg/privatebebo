@@ -22,3 +22,7 @@ Born and raised in London UK and now residing in Los Angeles California. Inspire
 Now backed by over a decade worth of experience, crafting industry leading art for the best development studios around the world. After seven years in the UK games industry, he moved with his family, 5,500 miles to LA to work on Hideo Kojima’s award winning Metal Gear Solid V: The Phantom Pain. Since joining DICE LA he has worked on 2016’s _‘Most anticipated FPS’_ BATTLEFIELD 1 and more recently BATTLEFIELD V. 
 
 As the vision holder for AAA projects, he leads the design for all things 2D. From branding to style guides, keyart to UI/UX, motion graphics and VFX to marketing. Gaining knowledge is integral to his work and feeds into his process. This drives his passion to raise the bar with every project; pushing the medium far beyond its expectations.
+
+<br>
+
+If you are interested in suggesting content to be covered, or would like to [contribute to our site](https://leesteg.github.io/privatebebomalaka/Community), we welcome your comments and content.
