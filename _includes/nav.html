@@ -18,7 +18,7 @@
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
-          <li class="navlinks-container">
+          <li class="navlinks-container {{ site.navbar-classes[forloop.index0].hover-col }}">
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
             <div class="navlinks-children">
               {% for childlink in link[1] %}
@@ -29,7 +29,7 @@
             </div>
           </li>
         {% else %}
-          <li>
+          <li class="{{ site.navbar-classes[forloop.index0].hover-col }}">
             {% include navbarlink.html link=link %}
           </li>
         {% endif %}
