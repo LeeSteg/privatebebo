@@ -150,6 +150,34 @@ img {
   color: {{ site.hover-col }};
 }
 
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus ,
+.navbar-custom .nav  li.hover-col-fundamentals a:hover,
+.navbar-custom .nav  li.hover-col-fundamentals a:focus {
+  color: #1eb794;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus ,
+.navbar-custom .nav  li.hover-col-process a:hover,
+.navbar-custom .nav  li.hover-col-process a:focus {
+  color: #ff3d3c;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus ,
+.navbar-custom .nav  li.hover-col-topics a:hover,
+.navbar-custom .nav  li.hover-col-topics a:focus {
+  color: #018ced;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus ,
+.navbar-custom .nav  li.hover-col-search a:hover,
+.navbar-custom .nav  li.hover-col-search a:focus {
+  color: #fd9600;
+}
+
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
   -webkit-transition: padding .5s ease-in-out;
