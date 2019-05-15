@@ -21,6 +21,12 @@ description: The forum for Game UX enthusiasts
 
 # --- Navigation bar options --- #
 
+navbar-classes:
+  - hover-col: hover-col-fundamentals
+  - hover-col: hover-col-process
+  - hover-col: hover-col-topics
+  - hover-col: hover-col-search
+
 # List of links in the navigation bar
 navbar-links:
   Fundamentals:
@@ -62,12 +68,6 @@ hover-col: "#e36812"
 footer-col: "#e8e8e8"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-navbar-classes:
--hover-col: hover-col-fundamentals
--hover-col: hover-col-process
--hover-col: hover-col-topics
--hover-col: hover-col-search
-
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
