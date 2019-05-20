@@ -46,22 +46,22 @@ You might not need all of these components but working through the edge cases ea
 
 Think modularly, by breaking down all of the components into their core individual elements. For example, a scrollbar might consist of a slider, a bar, and arrows. Designing these elements as individual “symbols” in content creation software like Adobe Photoshop and Illustrator will allow for quick iteration; changing one symbol will affect its every instance throughout all mockups.
 
-![Focus States Colors](/privatebebomalaka/img/Focus_States_Colors.jpg)
+![Focus States Colors](/privatebebo/img/Focus_States_Colors.jpg)
 
 The same applies to icons. Decide how to communicate different states while maintaining consistency:
 
 HUD gameplay features might need unique state representations, such as abilities that require active usage and cool-down states. In the example below, active usage is represented by counterclockwise radial swipe, and the cool-down state is a clockwise filling, opposite to the usage.
 
-![UI Component States](/privatebebomalaka/img/Component_States.jpg)
+![UI Component States](/privatebebo/img/Component_States.jpg)
 
 {: style="text-align:center"}
-<img src="/privatebebomalaka/img/Icon_Idle.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Progression.gif" width="200"/> <img src="/privatebebomalaka/img/Icon_Equipped.jpg" width="200"/>
+<img src="/privatebebo/img/Icon_Idle.jpg" width="200"/> <img src="/privatebebo/img/Icon_Progression.gif" width="200"/> <img src="/privatebebo/img/Icon_Equipped.jpg" width="200"/>
 
 {: style="text-align:center"}
-<img src="/privatebebomalaka/img/Icon_Locked.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Unlocked.gif" width="200"/> 
+<img src="/privatebebo/img/Icon_Locked.jpg" width="200"/> <img src="/privatebebo/img/Icon_Unlocked.gif" width="200"/> 
 
 {: style="text-align:center"}
-<img src="/privatebebomalaka/img/Icon_ActiveUse.jpg" width="200"/> <img src="/privatebebomalaka/img/Icon_Passive.gif" width="200"/> 
+<img src="/privatebebo/img/Icon_ActiveUse.jpg" width="200"/> <img src="/privatebebo/img/Icon_Passive.gif" width="200"/> 
 
 <br>
 
@@ -72,10 +72,10 @@ The HUD reticle is one of the most heavily used UI components of a game. The mor
 
 In third-person perspective games, distinguishing the selected weapon or ammo can be challenging, so make the in-world effects and models stand out:
 
-![Halo screenshot](/privatebebomalaka/img/Halo_Reticle.jpg)  
+![Halo screenshot](/privatebebo/img/Halo_Reticle.jpg)  
 _Halo 5: The reticle is fixed in the center of the screen._
 
-![EA NHL 18 screenshot](/privatebebomalaka/img/NHL18_Reticle.jpg)  
+![EA NHL 18 screenshot](/privatebebo/img/NHL18_Reticle.jpg)  
 _EA NHL 18: The reticle is based on the player’s location_
 
 <br>
