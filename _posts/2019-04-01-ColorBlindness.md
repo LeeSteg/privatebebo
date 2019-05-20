@@ -10,11 +10,11 @@ Think of colorblindness as a measure of inability to discern contrast between an
 
 Colorblindness is yet another reason not to base your design just on color. Colorblindness comes in three main forms:
 
-![Color Blindness](/privatebebomalaka/img/Color_Blindness.png)  
+![Color Blindness](/privatebebo/img/Color_Blindness.png)  
 
 Do not rely exclusively on color to differentiate classes and status types. Instead, supplement your design with additional graphical elements and shapes. Instead of guessing whether a particular color scheme would work for colorblind users, let them customize the colors:
 
-![Color Blindness in menus](/privatebebomalaka/img/Color_Blindness_Menu.png)
+![Color Blindness in menus](/privatebebo/img/Color_Blindness_Menu.png)
 
 <br>
 
