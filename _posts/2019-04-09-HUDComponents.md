@@ -16,18 +16,18 @@ The health of a character or vehicle can be displayed as a number, percentage, g
 - Some health bars also use different graphics and colors to show the state of bonus health.
 
 {: style="text-align:center"}
-![Common Healthbars](/privatebebomalaka/img/HUD_Healthbars.png)
+![Common Healthbars](/privatebebo/img/HUD_Healthbars.png)
 
 A good practice is to notify the player when a character loses or gains health. Many games show the percentage or amount of health being lost or gained. In some instances, the health bar or number will flash when the character’s health gets too low.
 
 {: style="text-align:center"}
-![Healthbar States](/privatebebomalaka/img/HUD_Health_Loss.gif)
+![Healthbar States](/privatebebo/img/HUD_Health_Loss.gif)
 
 {: style="text-align:center"}
-![Healthbar States](/privatebebomalaka/img/HUD_Health_Gain.gif)
+![Healthbar States](/privatebebo/img/HUD_Health_Gain.gif)
 
 {: style="text-align:center"}
-![Healthbar States](/privatebebomalaka/img/HUD_Low_Health.gif)
+![Healthbar States](/privatebebo/img/HUD_Low_Health.gif)
 
 Place the health widget close to the core action, such as in the upper-left or upper-right corner, or in the bottom center. Placing the health bar close to the border of the screen will ensure it doesn’t cover the gameplay and lets the player assess the health state at a glance.
 
@@ -36,9 +36,9 @@ Place the health widget close to the core action, such as in the upper-left or u
 The following examples illustrate how the **Health component** can be used in various types of games:
 
 {: style="text-align:center"}
-![Component_Legend](/privatebebomalaka/img/HUD_Component_Legend.png)
+![Component_Legend](/privatebebo/img/HUD_Component_Legend.png)
 
-![HUD Health genre placement](/privatebebomalaka/img/Health_HUD_Genres.gif)
+![HUD Health genre placement](/privatebebo/img/Health_HUD_Genres.gif)
 
 <br>
 
@@ -63,7 +63,7 @@ Display the score in the top left, top middle, or top right, opposite of the hea
 
 The following examples illustrate how the **Score component** can be used in various types of games:
 
-![HUD Score genre placement](/privatebebomalaka/img/Score_HUD_Genres.gif)
+![HUD Score genre placement](/privatebebo/img/Score_HUD_Genres.gif)
 
 <br>
 
@@ -73,7 +73,7 @@ A timer is usually integrated with the Score component and displayed in the top 
 
 The following examples illustrate how the **Timer component** can be used in various types of games:
 
-![HUD Timers genre placement](/privatebebomalaka/img/Timer_HUD_Genres.gif)
+![HUD Timers genre placement](/privatebebo/img/Timer_HUD_Genres.gif)
 
 <br>
 
@@ -88,7 +88,7 @@ You have many techniques at your disposal:
 - Use a sound effect if the player tries to make a shot with an empty gun clip
 
 {: style="text-align:center"}
-![Common Ammo Count](/privatebebomalaka/img/HUD_Ammocount.png)
+![Common Ammo Count](/privatebebo/img/HUD_Ammocount.png)
 
 Shooter games commonly use first-person and third-person POVs. With the third-person POV, the character is usually in the bottom-center of the screen. To avoid obscuring the character, display the ammo count in the upper-right or upper-left corner of the screen. With the first-person POV, the focus is in the center of the screen, so the ammo count is best placed in the mid-bottom part of the screen. 
 
@@ -96,7 +96,7 @@ Newer HUD designs integrate the ammo count with the weapon itself, so the tradit
 
 The following examples illustrate how the **Ammo Count component** can be used in various types of games:
 
-![HUD Ammo genre placement](/privatebebomalaka/img/Ammo_HUD_Genres.gif)
+![HUD Ammo genre placement](/privatebebo/img/Ammo_HUD_Genres.gif)
 
 <br>
 
@@ -107,7 +107,7 @@ For targeting-related effects, implement a reticle (or a cursor) to indicate an 
 To indicate a direct hit or a positive interaction area, show a state change. To indicate the interaction target, animate the reticle or change its shape or color. 
 
 {: style="text-align:center"}
-![Common Reticle States](/privatebebomalaka/img/HUD_Reticle_States.png)
+![Common Reticle States](/privatebebo/img/HUD_Reticle_States.png)
 
 Let the player customize the reticle for different weapon types, items in the inventory, and interactions.
 
@@ -115,7 +115,7 @@ In games that use first-person and third-person POVs, the keep the reticle in th
 
 The following examples illustrate how the **Reticle component** can be used in various types of games:
 
-![HUD Reticle genre placement](/privatebebomalaka/img/Reticle_HUD_Genres.gif)
+![HUD Reticle genre placement](/privatebebo/img/Reticle_HUD_Genres.gif)
 
 <br>
 
@@ -127,7 +127,7 @@ Because the compass is often used in the first-person and third-person POVs in a
 
 The following examples illustrate how the **Compass component** can be used in various types of games
 
-![HUD Compass genre placement](/privatebebomalaka/img/Compass_HUD_Genres.gif)
+![HUD Compass genre placement](/privatebebo/img/Compass_HUD_Genres.gif)
 
 <br>
 
@@ -137,6 +137,6 @@ Implement a small top-down map in games where the player must know the location 
 
 The mini map should occupy no more than 1/8th of the screen, so avoid displaying too many details on it. Because the mini map provides information that is secondary to the gameplay, place it in the **bottom corners of the screen**, opposite of where most gameplay takes place.
 
-![HUD Minimap genre placement](/privatebebomalaka/img/Minimap_HUD_Genres.gif)
+![HUD Minimap genre placement](/privatebebo/img/Minimap_HUD_Genres.gif)
 
 <br>
