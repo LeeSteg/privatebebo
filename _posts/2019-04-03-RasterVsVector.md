@@ -10,7 +10,7 @@ Most games use pixel-based raster images throughout the UI because these images 
 
 Vector images can be easily scaled to any size, by using points and curves. Scaling does not require increasing the file size, and scaled images can be translated into polygons and other shapes:
  
-![Raster Vector Polygon](/privatebebomalaka/img/ImageUse.png)  
+![Raster Vector Polygon](/privatebebo/img/ImageUse.png)  
 
 The disadvantage of using complex vector images is a drop-in performance, which causes a drastic loss in framerate.
 
