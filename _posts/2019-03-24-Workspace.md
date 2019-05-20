@@ -4,8 +4,8 @@ title: Workspace
 subtitle: Quick overiew of Designing UI
 tags: [Technical]
 categories: [Technical]
-image: https://leesteg.github.io/privatebebomalaka/img/icon_gameux_red.png
-share-img: https://leesteg.github.io/privatebebomalaka/img/icon_gameux_red.png
+image: https://leesteg.github.io/privatebebo/img/icon_gameux_red.png
+share-img: https://leesteg.github.io/privatebebo/img/icon_gameux_red.png
 ---
 
 Set up a workspace conducive to creativity and productivity, a place where you can test your designs properly. Design and build at your desk, but test in an environment that closely simulates that of the player. Use the following equipment to test input and to identify potential issues with legibility, color, and contrast:
@@ -26,5 +26,5 @@ Set up a workspace conducive to creativity and productivity, a place where you c
 - Variable lighting, with the ability to turn the lights on and off
 
 {: style="text-align:center"}
-![Testing Workspace](/privatebebomalaka/img/Testing_Workspace.png)  
+![Testing Workspace](/privatebebo/img/Testing_Workspace.png)  
 _Example of a testing workspace_
