@@ -10,7 +10,7 @@ Motion is another way to call attention to specific elements on the screen. Use 
 
 Here’s a simple example of animation where a rectangle is used:
 
-![Motion Curves](/privatebebomalaka/img/Motion_Curves.gif)
+![Motion Curves](/privatebebo/img/Motion_Curves.gif)
 
 To illustrate animations, use motion mockups rather than still imagery. To convey time and pace, use fewer words and more animated prototypes and movies.
 
