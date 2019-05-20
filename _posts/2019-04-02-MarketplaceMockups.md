@@ -65,7 +65,7 @@ To create a strong experience on the Marketplace screen, use the following eleme
 - **Currency Shortcuts:** If a game has its own currency, let the player replenish it quickly, by using a button or pop-up.
 - **Impulse Buy:** Offer an option to purchase an item directly from the game. This will expand micro-transactions into other menus without redirecting the player to the store. 
 
-![Marketplace examples](/privatebebomalaka/img/Examples_Marketplace.gif)  
+![Marketplace examples](/privatebebo/img/Examples_Marketplace.gif)  
 _In each example above, the cost, visual representation, description, and navigation are clearly positioned within the marketplace menu._
 
 <br>
