@@ -17,7 +17,7 @@ Lastly but not least, always think about usability.
 <br>
 
 ## Treasure hunting – references
-![Reference options](/privatebebomalaka/img/ReferenceOptions.jpg)
+![Reference options](/privatebebo/img/ReferenceOptions.jpg)
 
 In addition to doing research and gathering data, use the design stage to find the best and most relevant references from movies, games, television, mobile media, magazines, and posters. Use these references for inspiration, education, and help with forming your design decisions.
 
