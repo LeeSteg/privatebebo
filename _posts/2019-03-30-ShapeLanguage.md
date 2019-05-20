@@ -9,7 +9,7 @@ categories: [Visuals]
 Shape Language specifies how your art will look and how various elements will create visual harmony. It sets the visual identity of the game: from low-fidelity block-outs, to high-fidelity assets. Shape Language should inform the style guides and support the cognitive aspects of the design.
 
 {: style="text-align:center"}
-![Shape Language](/privatebebomalaka/img/ShapeLanguage.png)   
+![Shape Language](/privatebebo/img/ShapeLanguage.png)   
 
 Shape Language comprises the building blocks of the UI, ensures its consistency, and establishes the framing, backdrops, and the overall look and feel. 
 Shape Language comprises the following:
@@ -28,7 +28,7 @@ To ensure consistency,
 - **Positioning of elements** You can keep button prompts in the same location; for most titles, that’s in the lower-left corner. If the position must be dynamic with respect to the option highlighted, then keep this UI pattern consistent throughout the entire product. 
 Paying attention to these details will ensure a solid visual direction throughout the entire brand.
 
-![Stroke Consistency](/privatebebomalaka/img/StrokeConsistency.png)   
+![Stroke Consistency](/privatebebo/img/StrokeConsistency.png)   
 
 Use strokes, angles, and corners consistently. For example, if you start with one stroke style at the top of the screen and use another at the bottom, the difference will be noticeable when the elements are brought close together. This difference will make the design seem unpolished and incomplete. 
 
@@ -36,15 +36,15 @@ Use strokes, angles, and corners consistently. For example, if you start with on
 
 The following illustration shows screens from a game. There are no odd shapes, the elements are concise and rectangular (to convey the military-themed Shape Language), and the color schemes are mostly subdued but accented with bright iconography. The Holographic type display is based on the iDroid concept for a fictional, in-game device for communicating intel. This visual consistency is maintained throughout the UI.
 
-![Visual Consistency](/privatebebomalaka/img/VisualConsistency_montage.gif)  
+![Visual Consistency](/privatebebo/img/VisualConsistency_montage.gif)  
 
-![Crysis 3 screenshot](/privatebebomalaka/img/VisualConsistency_Crysis3_menu.jpg)
+![Crysis 3 screenshot](/privatebebo/img/VisualConsistency_Crysis3_menu.jpg)
 _Screenshot from Crysis 3_
 
 <br>
 
 Here are the screenshots from various locations in the UI. The theme is maintained, and every screen looks like part of the same product. Whatever Shape Language you choose, go for it, but keep it consistent.
 
-![UI Consistency](/privatebebomalaka/img/VisualConsistency_UI.gif)   
+![UI Consistency](/privatebebo/img/VisualConsistency_UI.gif)   
 
 <br>
