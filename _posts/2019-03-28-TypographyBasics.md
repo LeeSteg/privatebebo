@@ -9,7 +9,7 @@ categories: [Typography]
 When used effectively, typography can enhance the layout of UI elements and simplify the task of navigating and absorbing the information presented. Effective use of styles and fonts helps to visually communicate the brand of the title and to keep the user immersed in the experience offered by that title.
 
 ## The Basics
-![Typography basics](/privatebebomalaka/img/Type_basics.jpg)  
+![Typography basics](/privatebebo/img/Type_basics.jpg)  
 
 A lot goes into the design of a font, but the x-height and counter are probably the most important considerations:
 - **x-height:** the height of the small letter x
@@ -22,7 +22,7 @@ At smaller font size, some fonts are harder to read than others. Choose fonts wi
 
 The font can affect legibility. In the example below, check the letters **b** and **e**:
 
-![Counters](/privatebebomalaka/img/Type_counters.png)  
+![Counters](/privatebebo/img/Type_counters.png)  
 
 <br>
 
@@ -33,7 +33,7 @@ When designing a product that will be translated, consider that most fonts don�
 - Diacritical accents: the small glyphs added to letters (á, ــِـ, ت)
 - Glyphs and special characters
 
-![Extended characters](/privatebebomalaka/img/Type_extcharacters.png)  
+![Extended characters](/privatebebo/img/Type_extcharacters.png)  
  
 <br>
 
@@ -41,14 +41,14 @@ When designing a product that will be translated, consider that most fonts don�
 In general, professional fonts have all these variations in a font family, so consider purchasing an entire font family rather than an individual font. Having a full set of fonts in hand will come useful when you polish your UI design.
 
 A font might have many different weights and variations: condensed and extended, bold, black, light and italic.  
-![Font families](/privatebebomalaka/img/Type_family.png)  
+![Font families](/privatebebo/img/Type_family.png)  
 
 <br>
 
 ## Weight and Size
 Lowercase letters with varying ascenders and descenders help the eye process word formations. For body text, use regular and medium weights for smaller font sizes; avoid using light and bold weights. For larger font sizes, use lighter font styles, for a cleaner look and feel.
 
-![Bold and Light weights](/privatebebomalaka/img/Type_bold.png)  
+![Bold and Light weights](/privatebebo/img/Type_bold.png)  
 
 #### UPPER CASE LETTERS OFFER LITTLE VISUAL VARIETY AND ARE HARDER TO READ. 
 Limit the use of capital letters to headlines and avoid using them in body text. 
@@ -70,7 +70,7 @@ Try using a single font with several styles and sizes. If a second font is neede
 
 The following fonts are used by most major publishers and support extended characters and font weights:
 
-![Font variations](/privatebebomalaka/img/Type_variations.png)  
+![Font variations](/privatebebo/img/Type_variations.png)  
 
 <br>
 
@@ -79,6 +79,6 @@ Typically, English text is aligned left. This flush-left, ragged-right formattin
 
 In addition to aligning text appropriately, use word wrapping to ensure that text does not overflow the margin of 60–120 characters per line.
 
-![Font alignment](/privatebebomalaka/img/Type_alignment.png)  
+![Font alignment](/privatebebo/img/Type_alignment.png)  
 
 <br>
