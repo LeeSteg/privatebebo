@@ -43,7 +43,7 @@ As games became more complex and customizable, more menus were added to allow pl
 
 This screen is where the player will get the first impression of the game. The screen will present the name and graphic identity of the game, its most representative images or symbols, and perhaps its basic rules. It is a best practice to display the title of your game along with a button prompt, such as “Press the A button to start”.
 
-![Title Screen examples](/privatebebomalaka/img/Examples_TitleScreen.gif)
+![Title Screen examples](/privatebebo/img/Examples_TitleScreen.gif)
 
 To come up with a title screen most representative of your game, do extensive research, find out what is possible, and work with the Art Director and Marketing.
 
@@ -59,7 +59,7 @@ The following collage shows some examples of the title screens:
 
 The Main Menu screen is the hub of the front-end menus and a gateway into the game. Think of the Main Menu as the trunk of a tree and of sub-menus as the tree’s branches. Most games will display a list of menu links accessible with the D-Pad, Left Stick, A button, and B button.
 
-![Main Menu examples](/privatebebomalaka/img/Examples_MainMenus.gif)
+![Main Menu examples](/privatebebo/img/Examples_MainMenus.gif)
 
 Design a menu flow that lets the player enter the game by using only the A button. Let the first category in each menu direct the player to the next menu, and so on, until the game starts.
 
@@ -73,7 +73,7 @@ Design the Main Menu to convey the game’s layout, Shape Language, font, and co
 
 The settings, which are usually found in the front-end and in-game menus, allow the player to customize the visual, audio, and gameplay controls. Make the settings legible, and group them by function.
 
-![Settings examples](/privatebebomalaka/img/Examples_Settings.gif)
+![Settings examples](/privatebebo/img/Examples_Settings.gif)
 
 Visual settings can include adjustments for brightness and contrast. If your game has very bright or dark environments, display these settings when a player starts the game for the first time. These screens should also be available in the Settings menu, to let the player make adjustments without having to start a new game session.
 
@@ -97,7 +97,7 @@ Here are a few common settings and option screens found in games:
 All text and buttons of the Controller Layout screen must be legible from at least 6 feet away.  
 The following are examples of well-designed Controller Layout screens: 
 
-![Controller Layout examples](/privatebebomalaka/img/Examples_ControllerLayout.gif)
+![Controller Layout examples](/privatebebo/img/Examples_ControllerLayout.gif)
 
 If providing multiple controller layout options for different types of gameplay, make each control distinguishable. A good navigation will use a tab or twist-tab menu that allows the player to cycle through options by using the LB and RB shoulder buttons or the Left and Right controls on the D-Pad.
 
@@ -110,7 +110,7 @@ If providing multiple controller layout options for different types of gameplay,
 
 The Loading screen is displayed while the player is waiting for the game to load. The screen can display a clockwise-rotating graphic image along with some text, such as “Loading”, to indicate that the game is still loading and has not crashed or locked up the system. This screen can also be used to present the controller mapping as well as the tips and tricks for playing the game.
 
-![Loading Screen examples](/privatebebomalaka/img/Examples_LoadingScreen.gif)
+![Loading Screen examples](/privatebebo/img/Examples_LoadingScreen.gif)
 
 <br>
 
@@ -118,7 +118,7 @@ The Loading screen is displayed while the player is waiting for the game to load
 
 This screen lets players save multiple play sessions into dedicated slots. Most games allow saving 3–10 sessions, but some games allow more.
 
-![Save/Load examples](/privatebebomalaka/img/Examples_SaveLoad.gif)
+![Save/Load examples](/privatebebo/img/Examples_SaveLoad.gif)
 
 Use each slot to register and display the following stats:
 
@@ -139,7 +139,7 @@ In games played in a linear timeline, a saved session can chronicle the player�
 
 Display this screen to inform the player about the completion of the game, level, or round. Also display any relevant results, such as time, score, achievements, place, winner, loser, and leaderboard. Give the player an option to replay the game or to go back to the main menu.
 
-![End of Round examples](/privatebebomalaka/img/Examples_EndRound.gif)
+![End of Round examples](/privatebebo/img/Examples_EndRound.gif)
 
 Break up the info into multiple screens, as many as needed to display all info legibly, and have the player progress through each screen, to the final overview screen.
 
@@ -162,7 +162,7 @@ Here are the components you might want to include on the End of Round screen:
 
 The Lobby screen is where players wait for the game to load. 
 
-![Lobby examples](/privatebebomalaka/img/Examples_Lobby.gif)
+![Lobby examples](/privatebebo/img/Examples_Lobby.gif)
 
 Provide one or more of the following components:
 
@@ -190,7 +190,7 @@ Lobby screens can get busy, so make the information easy to understand.
 
 On this screen, players will customize their weapons and equipment. Because the customization page could get visually busy, ensure the information is clear and does not overwhelm the player. 
 
-![Customize menu examples](/privatebebomalaka/img/Examples_Customize.gif)
+![Customize menu examples](/privatebebo/img/Examples_Customize.gif)
 
 Provide one or more of the following components:
 
@@ -207,7 +207,7 @@ Provide one or more of the following components:
 
 The Loadout screen is where the player selects weapons and equipment before entering the game. To drive competitive monetization and customization, include direct links to the Loadout screens of the player’s teammates and competitors. Also display purchasable items and upgrades, and if clicking them will take the player to other screens, then add links from those screens back to Loadout. 
 
-![Loadout examples](/privatebebomalaka/img/Examples_Loadout.gif)
+![Loadout examples](/privatebebo/img/Examples_Loadout.gif)
 
 Provide one or more of the following components:
 
@@ -224,7 +224,7 @@ Provide one or more of the following components:
 
 Leaderboards have been part of video games since the coin-operated games of the 1980s. In the past, leaderboards were used to show players’ progression and to promote competition. 
 
-![Leaderboard examples](/privatebebomalaka/img/Examples_Leaderboard.gif)
+![Leaderboard examples](/privatebebo/img/Examples_Leaderboard.gif)
 
 Today, leaderboards are also used to display various stats and comparisons between players, friends, and teams:
 
@@ -258,7 +258,7 @@ Achievements encourage different types of gameplay tasks and are used to issue p
 
 Skill trees are used to upgrade a game character by unlocking its special abilities or by upgrading or enhancing its existing abilities. The player uses the game’s currency to upgrade the character up the skill tree.
 
-![Skill Tree examples](/privatebebomalaka/img/Examples_SkillTree.gif)
+![Skill Tree examples](/privatebebo/img/Examples_SkillTree.gif)
 
 Skill trees are challenging to design, because the structure and branching of skills can become complicated and non-linear. The following steps should make this task easier:
 
