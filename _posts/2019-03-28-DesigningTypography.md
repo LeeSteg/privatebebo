@@ -26,11 +26,11 @@ When designing a console game, assume that a user is 6–10 feet away from a mon
 Your choice of the font will have a major impact on the look and feel of the entire game. Choose a font that best represents your brand and is most suitable to your game. Don’t use a particular font just because it is popular at the moment.
 
 As a case in point, Crytek, the maker of Crysis, experimented with a new font. The result was a UI that just didn’t feel like Crysis anymore:  
-![New font style](/privatebebomalaka/img/Crysis_newfont.jpg)   
+![New font style](/privatebebo/img/Crysis_newfont.jpg)   
 _Crysis with a new font style_
 
 Subsequently, the team went back to Agency FP, the original font used for Crysis:  
-![Original font style](/privatebebomalaka/img/Crysis_originalfont.jpg)   
+![Original font style](/privatebebo/img/Crysis_originalfont.jpg)   
 _Crysis with the original Agency FP font_
 
 <br>
@@ -39,10 +39,10 @@ _Crysis with the original Agency FP font_
 Typography should stand out from the background color, but too much contrast might be hard to read on screens. A good contrast ratio is **4.5:1**, and a ratio of **7:1** provides optimal legibility. To determine the optimal contrast ratio, use the tools readily available online, such as the Contrast Checker, https://contrastchecker.com/.
 
 To differentiate body text from subhead text, use color tinting or a heavier type-weight:  
-![Light Theme](/privatebebomalaka/img/Light_theme.png)   
+![Light Theme](/privatebebo/img/Light_theme.png)   
 _Light Theme_
 
-![Dark Theme](/privatebebomalaka/img/Dark_theme.png)   
+![Dark Theme](/privatebebo/img/Dark_theme.png)   
 _Dark Theme_
 
 <br>
@@ -56,18 +56,18 @@ This classic font is legible and works well for displaying any informational and
 According to linotype.com, _“Gill Sans is a humanist sans serif with some geometric touches in its structures. Legible and modern, the lighter weights work for text, and the bolder weights make for compelling display typography.”_   
 
 {: style="text-align:center"}
-![Gill Sans font](/privatebebomalaka/img/Gills_Sans.png)
+![Gill Sans font](/privatebebo/img/Gills_Sans.png)
 
 - **Secondary font: Othello™**
 According to linotype.com, _“Othello's dense graphic demeanor delivers a straightforward, no-nonsense message. Small caps and alternate letter variants create new possibilities for headlines and short text blocks in advertisements, signage, and packaging. This font also has the look of woodcuts or hand-drawn lettering and would make for an interesting title font.”_
 
 {: style="text-align:center"}
-![Othello font](/privatebebomalaka/img/Othello.png)
+![Othello font](/privatebebo/img/Othello.png)
 
 <br>
 
 Here’s an example of font usage:  
-![Example using fonts](/privatebebomalaka/img/Font_Example.jpg)
+![Example using fonts](/privatebebo/img/Font_Example.jpg)
 
 The following font styles and sizes are considered optimal for console games:
 - **100 pt Big header:** Othello™ Medium  
