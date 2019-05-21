@@ -830,11 +830,11 @@ td.gutter {
 
 .btn-primary {
     color: #fff;
-    background-color: #e36812;
-    border-color: #e36812;
+    background-color: #e98500;
+    border-color: #e98500;
 }
 
 a.btn.btn-primary.tag-btn:hover {
-  background-color: #ff7718;
-  border-color: #ff7718;
+  background-color: #ff9200;
+  border-color: #ff9200;
 }
