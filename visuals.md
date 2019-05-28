@@ -4,6 +4,7 @@ layout: page
 title: Visuals
 subtitle: The language of shapes and icons
 use-site-title: true
+bigimg: /img/Hero_Visuals.jpg
 
 ---
 
