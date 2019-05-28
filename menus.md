@@ -4,6 +4,7 @@ layout: page
 title: Menus
 subtitle: How to organize information and content
 use-site-title: true
+bigimg: /img/Hero_Menus.jpg
 
 ---
 
