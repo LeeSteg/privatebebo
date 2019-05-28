@@ -4,6 +4,7 @@ layout: page
 title: Layout
 subtitle: How to effectively organize and lay out content
 use-site-title: true
+bigimg: /img/Hero_Layout.jpg
 
 ---
 
