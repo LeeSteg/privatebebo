@@ -4,6 +4,7 @@ layout: page
 title: Mockups
 subtitle: A collection of ways to mock up content
 use-site-title: true
+bigimg: /img/Hero_Mockups.jpg
 
 ---
 
