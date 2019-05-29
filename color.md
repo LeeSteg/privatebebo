@@ -2,7 +2,7 @@
 
 layout: page
 title: Color
-subtitle: A collection of articles on how color effects design
+subtitle: How color effects design
 use-site-title: true
 bigimg: /img/Hero_Color.jpg
 
