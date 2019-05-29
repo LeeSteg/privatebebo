@@ -2,7 +2,7 @@
 
 layout: page
 title: HUD
-subtitle: A collection of articles about Heads Up Display in games
+subtitle: Ways to overlay information in games
 use-site-title: true
 bigimg: /img/Hero_HUD.jpg
 
