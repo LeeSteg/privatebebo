@@ -2,7 +2,7 @@
 
 layout: page
 title: Getting Started
-subtitle: Things to know before starting to design
+subtitle: Key things to know before you design
 use-site-title: true
 bigimg: /img/Hero_GettingStarted.jpg
 
