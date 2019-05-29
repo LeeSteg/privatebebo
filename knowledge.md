@@ -2,7 +2,7 @@
 
 layout: page
 title: Knowledge
-subtitle: Understanding of basic fundamentals of design
+subtitle: Understanding of fundamentals of design
 use-site-title: true
 bigimg: /img/Hero_Knowledge.jpg
 
