@@ -3,7 +3,7 @@ layout: post
 title: Focus States
 subtitle: Keep the player focused and informed
 tags: [Visuals]
-categories: [visuals]
+categories: [Visuals]
 ---
 
 ## Focus states
