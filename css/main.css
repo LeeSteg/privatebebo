@@ -55,11 +55,11 @@ boxed {
 }
 
 hr.small {
-  max-width: 100px;
+  max-width: 30px;
   margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 hr.technical {
@@ -84,6 +84,86 @@ hr.gettingstarted {
   border-color: inherit;
   border-radius: 0px;
   color: #00bd52;
+}
+
+hr.layout {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
+hr.typography {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
+hr.visuals {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
+hr.color {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
+hr.mockups {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
+hr.accessibility {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
+hr.2dartwork {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
+hr.3dartwork {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
+hr.menus {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
+hr.HUD {
+  max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
 }
 
 .main-content {
