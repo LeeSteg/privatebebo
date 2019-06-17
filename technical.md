@@ -24,6 +24,8 @@ bigimg: /img/Hero_Technical.jpg
   </h3>
   {% endif %}
    </a>
+   
+   <hr align="left" class="{{ post.categories.first | replace: " ", "" }}"/>
 
    <p class="post-meta">
      Posted on {{ post.date | date: "%B %-d, %Y" }}
