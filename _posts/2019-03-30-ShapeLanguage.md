@@ -3,7 +3,7 @@ layout: post
 title: Shape Language
 subtitle: The elements behind visual harmony
 tags: [Visuals]
-categories: [Visuals]
+categories: [visuals]
 ---
 
 Shape Language specifies how your art will look and how various elements will create visual harmony. It sets the visual identity of the game: from low-fidelity block-outs, to high-fidelity assets. Shape Language should inform the style guides and support the cognitive aspects of the design.
