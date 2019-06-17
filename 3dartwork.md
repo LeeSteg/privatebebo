@@ -5,6 +5,7 @@ title: 3D Artwork
 subtitle: An overview of common techniques
 use-site-title: true
 bigimg: /img/Hero_3DArtwork.jpg
+categories: [threedartworkMain]
 
 ---
 
