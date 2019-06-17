@@ -5,6 +5,7 @@ title: Accessibility
 subtitle: Design for one, design for all
 use-site-title: true
 bigimg: /img/Hero_Accessability.jpg
+categories: [AccessibilityMain]
 
 ---
 
