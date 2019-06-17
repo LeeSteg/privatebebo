@@ -62,6 +62,30 @@ hr.small {
   border-radius: 3px;
 }
 
+hr.fundamentals {
+  max-width: 100px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 3px;
+  color: #0000FF;
+}
+
+hr.process {
+  max-width: 100px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 3px;
+  color: #00FF00;
+}
+
+hr.topics {
+  max-width: 100px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 3px;
+  color: #FF0000;
+}
+
 .main-content {
   padding-top: 80px;
 }
