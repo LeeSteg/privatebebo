@@ -5,6 +5,7 @@ title: Color
 subtitle: How color effects design
 use-site-title: true
 bigimg: /img/Hero_Color.jpg
+categories: [ColorMain]
 
 ---
 
