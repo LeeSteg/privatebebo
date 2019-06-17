@@ -5,6 +5,7 @@ title: Getting Started
 subtitle: Key things to know before you design
 use-site-title: true
 bigimg: /img/Hero_GettingStarted.jpg
+categories: [GettingStartedMain]
 
 ---
 
