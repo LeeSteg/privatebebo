@@ -3,7 +3,7 @@ layout: post
 title: Layout of the HUD
 subtitle: Know your place in the game
 tags: [HUD]
-categories: [hud]
+categories: [HUD]
 ---
 
 Follow these two main rules when designing the layout of the HUD:
