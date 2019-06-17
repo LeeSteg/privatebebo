@@ -3,7 +3,7 @@ layout: post
 title: Colorblindness
 subtitle: When color can confuse the player
 tags: [Color, Accessibility]
-categories: [color, accessibility]
+categories: [Color, Accessibility]
 ---
 
 Think of colorblindness as a measure of inability to discern contrast between an image and its background. Nearsightedness, too, can impair one’s ability to distinguish color from afar (for example, from 10 feet away), and so can excessive amount of light in the room.
