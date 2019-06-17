@@ -3,7 +3,7 @@ layout: post
 title: Iconography
 subtitle: The Basics
 tags: [Visuals]
-categories: [visuals]
+categories: [Visuals]
 ---
 
 When designing icons, use the following basic rules:
