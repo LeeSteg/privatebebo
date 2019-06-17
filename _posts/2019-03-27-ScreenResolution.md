@@ -3,7 +3,7 @@ layout: post
 title: Screen Resolution
 subtitle: UI considerations on different resolutions
 tags: [Layout]
-categories: [layout]
+categories: [Layout]
 ---
 
 ## Screen Resolution
