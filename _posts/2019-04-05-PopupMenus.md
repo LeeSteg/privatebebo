@@ -3,7 +3,7 @@ layout: post
 title: Popup Menus
 subtitle: Overview of popup menus
 tags: [Menus]
-categories: [Menus]
+categories: [menus]
 ---
 
 Use pop-up screens to immediately call the player’s attention to game-changing and game-blocking events. Pop-up text must be concise, direct, and very easy to comprehend. In a message that requires a Yes/No answer, make the question as clear as possible. Avoid double negatives and ask a direct question that can be answered only with “Yes” or “No”.
