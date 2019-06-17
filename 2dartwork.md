@@ -5,6 +5,7 @@ title: 2D Artwork
 subtitle: An overview of common techniques
 use-site-title: true
 bigimg: /img/Hero_2DArtwork2.jpg
+categories: [twodartworkMain]
 
 ---
 
