@@ -3,7 +3,7 @@ layout: post
 title: Designing with Typography
 subtitle: Best Practices for designing UI in games
 tags: [Typography]
-categories: [Typography]
+categories: [typography]
 ---
 
 ## Designing for 10-foot UI
