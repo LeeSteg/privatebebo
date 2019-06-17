@@ -29,6 +29,8 @@ bigimg: /img/Hero_HUD.jpg
      Posted on {{ post.date | date: "%B %-d, %Y" }}
    </p>
 
+   <hr align="left" class="{{ post.categories.first | replace: " ", "" }}"/>
+
    <div class="post-entry-container">
      {% if post.image %}
      <div class="post-image">
