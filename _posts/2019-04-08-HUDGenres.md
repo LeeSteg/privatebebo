@@ -3,7 +3,7 @@ layout: post
 title: HUD Design
 subtitle: Genre-specific examples
 tags: [HUD]
-categories: [hud]
+categories: [HUD]
 ---
 
 ## Driving and Flying
