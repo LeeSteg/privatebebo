@@ -3,7 +3,7 @@ layout: post
 title: Working with Game Engines
 subtitle: Areas to know before production
 tags: [3D Artwork]
-categories: [3D Artwork]
+categories: [3DArtwork]
 ---
 
 Every game will be built with a game engine: licensed, custom, or anything in between. Before designing any UI, ask your engineer or technical artist to help you understand the limitations of your engine. Determine what tech you need and how you want to exploit the system while keeping it performant. Document your decisions, and test them out regularly along the following lines:
