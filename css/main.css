@@ -72,8 +72,7 @@ hr.TechnicalMain {
 }
 
 hr.Technical {
-  max-width: 30px;
-  margin: 15px auto;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -90,7 +89,7 @@ hr.KnowledgeMain {
 }
 
 hr.Knowledge {
-  max-width: 100px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -114,8 +113,26 @@ hr.gettingstarted {
   color: #00bd52;
 }
 
+hr.LayoutMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
 hr.Layout {
   max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
+hr.TypographyMain {
+  max-width: 100px;
+  margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -130,8 +147,26 @@ hr.Typography {
   color: #ff4a1a;
 }
 
+hr.VisualsMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
 hr.Visuals {
   max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
+hr.ColorMain {
+  max-width: 100px;
+  margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -146,6 +181,15 @@ hr.Color {
   color: #ff4a1a;
 }
 
+hr.MockupsMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #ff4a1a;
+}
+
 hr.Mockups {
   max-width: 30px;
   border-width: 4px;
@@ -154,8 +198,26 @@ hr.Mockups {
   color: #ff4a1a;
 }
 
+hr.AccessibilityMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
 hr.Accessibility {
   max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
+hr.twodartworkMain {
+  max-width: 100px;
+  margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -170,6 +232,15 @@ hr.twodartwork {
   color: #1f7bc2;
 }
 
+hr.threedartworkMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
 hr.threedartwork {
   max-width: 30px;
   border-width: 4px;
@@ -178,8 +249,26 @@ hr.threedartwork {
   color: #1f7bc2;
 }
 
+hr.MenusMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
 hr.Menus {
   max-width: 30px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
+hr.HUDMain {
+  max-width: 100px;
+  margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
