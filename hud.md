@@ -5,6 +5,7 @@ title: HUD
 subtitle: Ways to overlay information in games
 use-site-title: true
 bigimg: /img/Hero_HUD.jpg
+categories: [HUDMain]
 
 ---
 
