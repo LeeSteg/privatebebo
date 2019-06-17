@@ -5,6 +5,7 @@ title: Mockups
 subtitle: A collection of ways to arrange content
 use-site-title: true
 bigimg: /img/Hero_Mockups.jpg
+categories: [MockupsMain]
 
 ---
 
