@@ -37,6 +37,7 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <hr align="left" class="{{ page.categories.first | replace: " ", "" }}"/>
 		  {% endif %}
         </div>
       </div>
@@ -62,6 +63,7 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  <hr align="left" class="{{ page.categories.first | replace: " ", "" }}"/>
 		  {% endif %}
         </div>
       </div>
