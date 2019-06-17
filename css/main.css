@@ -123,7 +123,7 @@ hr.LayoutMain {
 }
 
 hr.Layout {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -140,7 +140,7 @@ hr.TypographyMain {
 }
 
 hr.Typography {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -157,7 +157,7 @@ hr.VisualsMain {
 }
 
 hr.Visuals {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -174,7 +174,7 @@ hr.ColorMain {
 }
 
 hr.Color {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -191,7 +191,7 @@ hr.MockupsMain {
 }
 
 hr.Mockups {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -208,7 +208,7 @@ hr.AccessibilityMain {
 }
 
 hr.Accessibility {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -225,7 +225,7 @@ hr.twodartworkMain {
 }
 
 hr.twodartwork {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -242,7 +242,7 @@ hr.threedartworkMain {
 }
 
 hr.threedartwork {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -259,7 +259,7 @@ hr.MenusMain {
 }
 
 hr.Menus {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -276,8 +276,8 @@ hr.HUDMain {
 }
 
 hr.HUD {
-  max-width: 30px;
-  border-width: 4px;
+  max-width: 50px;
+  border-width: 14px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
