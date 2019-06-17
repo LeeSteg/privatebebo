@@ -3,7 +3,7 @@ layout: post
 title: Typography
 subtitle: The Basics
 tags: [Typography]
-categories: [typography]
+categories: [Typography]
 ---
 
 When used effectively, typography can enhance the layout of UI elements and simplify the task of navigating and absorbing the information presented. Effective use of styles and fonts helps to visually communicate the brand of the title and to keep the user immersed in the experience offered by that title.
