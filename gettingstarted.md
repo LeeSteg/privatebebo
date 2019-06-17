@@ -11,7 +11,7 @@ bigimg: /img/Hero_GettingStarted.jpg
 <div class="posts-list">
 
 {% for category in site.categories %}
-{% if category[0] == 'Getting Started' %}
+{% if category[0] == 'gettingstarted' %}
 {% for post in category[1] %}
 
  <article class="post-preview">
@@ -24,6 +24,7 @@ bigimg: /img/Hero_GettingStarted.jpg
   </h3>
   {% endif %}
    </a>
+   
    <hr align="left" class="{{ post.categories.first | replace: " ", "" }}"/>
 
    <p class="post-meta">
