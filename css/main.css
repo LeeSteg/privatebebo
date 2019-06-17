@@ -225,8 +225,8 @@ hr.twodartworkMain {
 }
 
 hr.twodartwork {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 75px;
+  border-width: 7px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
@@ -242,8 +242,8 @@ hr.threedartworkMain {
 }
 
 hr.threedartwork {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
@@ -259,8 +259,8 @@ hr.MenusMain {
 }
 
 hr.Menus {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 60px;
+  border-width: 6px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
@@ -277,7 +277,7 @@ hr.HUDMain {
 
 hr.HUD {
   max-width: 50px;
-  border-width: 14px;
+  border-width: 6px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
