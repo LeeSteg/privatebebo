@@ -5,6 +5,7 @@ title: Knowledge
 subtitle: Understanding of fundamentals of design
 use-site-title: true
 bigimg: /img/Hero_Knowledge.jpg
+categories: [KnowledgeMain]
 
 ---
 
