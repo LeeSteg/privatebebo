@@ -3,7 +3,7 @@ layout: post
 title: Workspace
 subtitle: Quick overiew of Designing UI
 tags: [Technical]
-categories: [technical]
+categories: [Technical]
 image: https://leesteg.github.io/privatebebo/img/icon_gameux_red.png
 share-img: https://leesteg.github.io/privatebebo/img/icon_gameux_red.png
 ---
