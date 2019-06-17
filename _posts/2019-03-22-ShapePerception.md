@@ -3,7 +3,7 @@ layout: post
 title: Theory of Visual Perception
 subtitle: How your brain perceives visual design
 tags: [Knowledge]
-categories: [knowledge]
+categories: [Knowledge]
 ---
 
 ## Theory of Visual Perception
