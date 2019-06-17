@@ -3,7 +3,7 @@ layout: post
 title: HUD Components
 subtitle: Overview of common HUD components
 tags: [HUD]
-categories: [HUD]
+categories: [hud]
 show-avatar: false
 ---
 
