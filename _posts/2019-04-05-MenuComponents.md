@@ -3,7 +3,7 @@ layout: post
 title: Menu Components
 subtitle: Overview of Common UI Components
 tags: [Menus]
-categories: [Menus]
+categories: [menus]
 ---
 
 Static mockups are the building blocks of a UI. Establish the core components of your UI, such as buttons, drop-down lists, sliders, and progress bars. Experiment to come up with the most appropriate tone, theme, and art.
