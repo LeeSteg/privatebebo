@@ -57,7 +57,7 @@ boxed {
 hr.small {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
 }
@@ -65,15 +65,15 @@ hr.small {
 hr.TechnicalMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #00bd52;
 }
 
 hr.Technical {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #00bd52;
@@ -82,15 +82,15 @@ hr.Technical {
 hr.KnowledgeMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #00bd52;
 }
 
 hr.Knowledge {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #00bd52;
@@ -99,15 +99,15 @@ hr.Knowledge {
 hr.GettingStartedMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #00bd52;
 }
 
 hr.gettingstarted {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #00bd52;
@@ -116,15 +116,15 @@ hr.gettingstarted {
 hr.LayoutMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
 }
 
 hr.Layout {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
@@ -133,15 +133,15 @@ hr.Layout {
 hr.TypographyMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
 }
 
 hr.Typography {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
@@ -150,15 +150,15 @@ hr.Typography {
 hr.VisualsMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
 }
 
 hr.Visuals {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
@@ -167,15 +167,15 @@ hr.Visuals {
 hr.ColorMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
 }
 
 hr.Color {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
@@ -184,15 +184,15 @@ hr.Color {
 hr.MockupsMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
 }
 
 hr.Mockups {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #ff4a1a;
@@ -201,15 +201,15 @@ hr.Mockups {
 hr.AccessibilityMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
 }
 
 hr.Accessibility {
-  max-width: 50px;
-  border-width: 4px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
@@ -218,15 +218,15 @@ hr.Accessibility {
 hr.twodartworkMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
 }
 
 hr.twodartwork {
-  max-width: 75px;
-  border-width: 7px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
@@ -235,7 +235,7 @@ hr.twodartwork {
 hr.threedartworkMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
@@ -252,15 +252,15 @@ hr.threedartwork {
 hr.MenusMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
 }
 
 hr.Menus {
-  max-width: 60px;
-  border-width: 6px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
@@ -269,15 +269,15 @@ hr.Menus {
 hr.HUDMain {
   max-width: 100px;
   margin: 15px auto;
-  border-width: 4px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
 }
 
 hr.HUD {
-  max-width: 50px;
-  border-width: 6px;
+  max-width: 70px;
+  border-width: 5px;
   border-color: inherit;
   border-radius: 0px;
   color: #1f7bc2;
