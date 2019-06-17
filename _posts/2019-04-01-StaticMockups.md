@@ -3,7 +3,7 @@ layout: post
 title: Static Mockups
 subtitle: An overview of game menus 
 tags: [Mockups]
-categories: [mockups]
+categories: [Mockups]
 ---
 
 # Menu Flow
