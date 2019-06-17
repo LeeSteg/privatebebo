@@ -3,7 +3,7 @@ layout: post
 title: General Guidelines
 subtitle: Advantages of using color in UI 
 tags: [Color]
-categories: [Color]
+categories: [color]
 ---
 
 After establishing a color palette, create the guidelines for using each color in the UI. Providing detailed specifications on the use of color for states (Focus, Selected, Disabled, and Neutral), notifications, warnings, health, XP, and achievements will improve the overall esthetic of your design, help you educate the players on the use of the HUD and menus, and reduce the need to label every element explicitly.
