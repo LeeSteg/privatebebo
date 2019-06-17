@@ -3,7 +3,7 @@ layout: post
 title: Objectives and Quests
 subtitle: Genre based design examples of objectives
 tags: [HUD]
-categories: [HUD]
+categories: [hud]
 ---
 
 An objective is a goal that a player must achieve to progress in a game. In some games, objectives are constant and presented only at the beginning of a level. In other games, objectives change and must be displayed to keep the player up to date.
