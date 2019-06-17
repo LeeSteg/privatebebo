@@ -24,12 +24,12 @@ bigimg: /img/Hero_GettingStarted.jpg
   </h3>
   {% endif %}
    </a>
-   
-   <hr align="left" class="{{ post.categories.first | replace: " ", "" }}"/>
 
    <p class="post-meta">
      Posted on {{ post.date | date: "%B %-d, %Y" }}
    </p>
+
+   <hr align="left" class="{{ post.categories.first | replace: " ", "" }}"/>
 
    <div class="post-entry-container">
      {% if post.image %}
