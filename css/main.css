@@ -62,6 +62,15 @@ hr.small {
   border-radius: 0px;
 }
 
+hr.TechnicalMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #00bd52;
+}
+
 hr.Technical {
   max-width: 30px;
   border-width: 4px;
