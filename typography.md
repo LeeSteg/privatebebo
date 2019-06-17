@@ -5,7 +5,7 @@ title: Typography
 subtitle: How words are displayed can make or break an experience
 use-site-title: true
 bigimg: /img/Hero_Typography.jpg
-category: [Typography]
+categories: [Typography]
 
 ---
 
