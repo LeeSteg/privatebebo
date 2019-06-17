@@ -28,6 +28,8 @@ bigimg: /img/Hero_2DArtwork2.jpg
    <p class="post-meta">
      Posted on {{ post.date | date: "%B %-d, %Y" }}
    </p>
+   
+   <hr align="left" class="{{ post.categories.first | replace: " ", "" }}"/>
 
    <div class="post-entry-container">
      {% if post.image %}
