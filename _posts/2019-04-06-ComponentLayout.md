@@ -3,7 +3,7 @@ layout: post
 title: Component Layout
 subtitle: How to layout UI in a menu
 tags: [Menus]
-categories: [Menus]
+categories: [menus]
 ---
 
 ## Focus Areas
