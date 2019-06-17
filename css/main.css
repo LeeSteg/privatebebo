@@ -73,6 +73,16 @@ hr.TechnicalMain {
 
 hr.Technical {
   max-width: 30px;
+  margin: 15px auto;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #00bd52;
+}
+
+hr.KnowledgeMain {
+  max-width: 100px;
+  margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -80,7 +90,16 @@ hr.Technical {
 }
 
 hr.Knowledge {
-  max-width: 30px;
+  max-width: 100px;
+  border-width: 4px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #00bd52;
+}
+
+hr.GettingStartedMain {
+  max-width: 100px;
+  margin: 15px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
@@ -88,7 +107,7 @@ hr.Knowledge {
 }
 
 hr.gettingstarted {
-  max-width: 30px;
+  max-width: 50px;
   border-width: 4px;
   border-color: inherit;
   border-radius: 0px;
