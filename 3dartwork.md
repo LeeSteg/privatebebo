@@ -11,7 +11,7 @@ bigimg: /img/Hero_3DArtwork.jpg
 <div class="posts-list">
 
 {% for category in site.categories %}
-{% if category[0] == '3dartwork' %}
+{% if category[0] == 'threedartwork' %}
 {% for post in category[1] %}
 
  <article class="post-preview">
