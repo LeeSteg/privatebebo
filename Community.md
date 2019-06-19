@@ -40,7 +40,7 @@ Although we can’t guarantee any specific ideas will be implemented, we’ll en
   <input type="hidden" name="_subject" value="New submission from gameuxmasterguide.com">
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" /> 
+  <input type="hidden" name="_next" value="./aboutme?" message="Your message was sent successfully, thanks!" /> 
 
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 
