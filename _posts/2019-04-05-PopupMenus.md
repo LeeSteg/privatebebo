@@ -21,9 +21,9 @@ To enhance the immersive experience, many games apply a semi-transparent overlay
 This technique offers the best results, especially in games developed for HDR and WCG.
 
 ![Popup Menu Blur](/privatebebo/img/Examples_PopupMenuBlur.jpg)  
-_This pop-up uses a blur shader to obscure all menus and HUD components. This helps the player focus on the information in the pop-up._
+_This pop-up uses a blur shader to obscure all menus and HUD components. This helps the player focus on the information in the pop-up. Screenshot from Forza Horizon 3_
 
 ![Popup Menu Overlay](/privatebebo/img/Examples_PopupMenuOverlay.jpg)  
-_The pop-up obscures the HUD components either completely or partially, through a subtle transparency effect._
+_The pop-up obscures the HUD components either completely or partially, through a subtle transparency effect. Screenshot from Jurassic World Evolution_
 
 <br>
