@@ -26,6 +26,8 @@ To speed up users’ progression towards making a purchase, UI designs of the pa
 
 Newer designs tend to equip users with the vital information up front, on the Product Details page. Start with a clear title and product description and provide additional information on subsequent screens. Clearly display the product price, quantity, sale price, and wallet totals (if using a digital wallet as in-game currency).
 
+For products that are on sale, special offer or discounted price, make sure to visually showcase it by using a sticker, icon or highlighted discount. To better communicate the discount of the product, show a strikethrough the old price or list the extra goods the special offer provides. 
+
 <br>
 
 ## Good visuals
@@ -66,6 +68,6 @@ To create a strong experience on the Marketplace screen, use the following eleme
 - **Impulse Buy:** Offer an option to purchase an item directly from the game. This will expand micro-transactions into other menus without redirecting the player to the store. 
 
 ![Marketplace examples](/privatebebo/img/Examples_Marketplace.gif)  
-_In each example above, the cost, visual representation, description, and navigation are clearly positioned within the marketplace menu._
+_In each example above, the cost, visual representation, description, and navigation are clearly positioned within the marketplace menu. Screenshots include: Forza, Fifa, Killer Instinct_
 
 <br>
