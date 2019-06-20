@@ -6,7 +6,7 @@ tags: [Getting Started, Design]
 categories: [gettingstarted]
 ---
 
-The best games are most immersive because they make use of the most senses.  
+To create an immersive experience, the successful games design for more than one sense.  
 The more senses you want to design for, and the more immersive experience you want to create, the more planning you have to do. Because using the senses of taste and smell in games is not mainstream yet, we’ll focus on the other three senses: touch, sound, and sight.
 
 ![Touch](/privatebebo/img/Design_Common_Senses_long.png)
@@ -14,7 +14,7 @@ The more senses you want to design for, and the more immersive experience you wa
 ## Touch
 Most console games use a controller that has a set number of buttons and analog joysticks. Because interaction through these elements isn’t as fast or precise as through a mouse or direct touch, you should understand the limitations of your controller device.
 
-The controller’s layout can make or break the players’ experiences with a game. Design your controls to feel as natural as possible. One of the first things to consider is how each button will be used in the gameplay.
+The controller’s layout can make or break the players’ experiences within a game. Design your controls to feel as natural as possible. One of the first things to consider is how each button will be used in the gameplay.
 
 | Input Device | Avg Screen Size | Distance/Screen Size | Size/Distance % | Method of Interaction |
 | :------ |:--- | :--- | :--- | :--- |
@@ -51,7 +51,7 @@ Menu navigation controls of the Xbox One controller
 
 ![PS4 controller](/privatebebo/img/PS4_Controller.jpg)
 
-The layouts of the PlayStation and Xbox controllers are very similar. One major exception is the touchpad, which was introduced in PlayStation 4 and offers additional opportunities for input.  
+The layouts of the PlayStation and Xbox controllers are very similar. One major exception is the touchpad, which was introduced in PlayStation 4 and offers additional opportunities for input, such as touch and gesture control.  
 Menu navigation controls of the PS4 controller
 - **CROSS**: enter, select, confirm
 - **CIRCLE**: back, cancel
@@ -75,7 +75,7 @@ Menu navigation controls of the PS4 controller
 
 ![Switch controller](/privatebebo/img/Switch_Controller.jpg)
 
-The Switch controller is similar to the Xbox and PlayStation controllers but can also be split into two controllers that have similar but limited layouts.  
+The Switch controller is similar to the Xbox and PlayStation controllers but can also be split into two controllers that have a similar but limited layout.  
 Menu navigation controls of the Switch controller
 - **B**: enter, select, confirm
 - **A**: back, cancel
@@ -130,7 +130,7 @@ Different layouts of controllers have been designed to suit different genres of 
 <br>
 
 ### Mouse and keyboard
-Interaction through the mouse is similar to interaction through touch, in that the user can perform any action with pinpoint accuracy, on any part of the screen. The keyboard is a powerful tool in its own way, because it offers a wide variety of button and key inputs—and an even greater variety of combinations—for communication and navigation.
+Interaction through the mouse is similar to interaction through touch, in that the user can perform any action with pinpoint accuracy, on any part of the screen. The keyboard is a powerful tool in its own way, because it offers a wide variety of button and key inputs (and an even greater variety of combinations) for communication and navigation.
 
 ![Mouse & Keyboard](/privatebebo/img/Mouse_Keyboard.jpg)
 
@@ -138,7 +138,7 @@ Interaction through the mouse is similar to interaction through touch, in that t
 
 ### Converting the Mouse & Keyboard to the Controller
 Many games are first developed for a mouse and keyboard, which offer many buttons and are relatively easy to implement. The mouse also makes it easy to master the skill of moving and aiming the camera with pinpoint accuracy. 
-In combination, the mouse and keyboard allow for a great development platform on which new features of a game can be tested out. However, converting the complex interactions possible with a mouse and keyboard to interactions through a console can be difficult, because the latter has a fixed number of button inputs. In addition, an analog joystick is not as fast or accurate as the mouse.
+In combination, the mouse and keyboard allow for a great development platform on which new features of a game can be tested out. However, converting complex interactions that are possible with a mouse and keyboard to interactions with a controller can be difficult, because the latter has a fixed number of button inputs. In addition, an analog joystick is not as fast or accurate as the mouse.
 The following are some of the common mouse and keyboard input designs adapted for a controller:
 
 | Mouse & Keyboard | _Action_ | Controller |
@@ -178,7 +178,7 @@ Here are a few examples:
 - A player uses the frontend menu to enter a Microsoft Store page. 
 Rather than having the user transition through all the elements without sound, use a bell or a subtle ring at the end of each transition, and highlight new items for sale. Not only would the sound draw attention to a new item on the screen, but it would also teach the user that the sound of a bell means a new feature is available in the store.
 - A player uses the HUD to look down the scope of a gun. 
-To increase the feeling of tension, trigger a heartbeat sound while the player is trying to focus on a target. In a sports game such as basketball, trigger the same heartbeat sound while the player is about to take that critical last shot, with seconds remaining in the game.
+To increase the feeling of tension, trigger the sound of a heartbeat while the player is trying to focus on a target. In a sports game such as basketball, trigger the same heartbeat sound while the player is about to take that critical last shot, with seconds remaining in the game.
 
 The sound effects illustrated in these examples do not stop gameplay; in fact, they make the experience much more immersive.
 
@@ -187,7 +187,7 @@ The sound effects illustrated in these examples do not stop gameplay; in fact, t
 ## Sight
 Sight is the sense that video games exploit most extensively. Visuals set the mood and help tell a story. Take advantage of the composition theory to come up with imagery that can help you get ahead of your competition.
 
-This game took traditional flat UI and unified gameplay with narrative through immersive, diegetic presentation of UI. The 3rd person perspective allows the display of health and ammo information on the character’s back and weapon which can be seen by both the character and player. This opens up the entire gameplay view for a completely immersive experience allowing players to take in the survival horror atmosphere. The high contast color palette between UI and game world also provides clarity and readability. Deadspace’s pioneering use of diegeic UI has become a source of inspiration for the industry.
+Dead Space took traditional flat UI and unified gameplay with narrative through immersive, diegetic presentation of UI. The 3rd person perspective allows the display of health and ammo information on the character’s back and weapon which can be seen by both the character and player. This opens up the entire gameplay view for a completely immersive experience allowing players to take in the survival horror atmosphere. The high contast color palette between UI and game world also provides clarity and readability. Dead Space’s pioneering use of diegeic UI has become a source of inspiration for the industry.
 
 ![Screen Composition](/privatebebo/img/Composition_Color.jpg)
 _An example from DeadSpace_
