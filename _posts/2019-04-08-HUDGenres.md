@@ -26,7 +26,7 @@ These games usually have two camera positions that provide two distinct but inte
 _Screenshot from Titanfall 2_
 
 ![The Division](/privatebebo/img/HUD_3P_Shooter.jpg)  
-_Screenshot from The Division_
+_Screenshot from Tom Clancey's The Division_
 
 <br>
 
