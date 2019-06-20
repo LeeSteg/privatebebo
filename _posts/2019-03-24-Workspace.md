@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workspace
-subtitle: Quick overview before Designing UI
+subtitle: Creating a functional workspace
 tags: [Technical]
 categories: [Technical]
 image: https://leesteg.github.io/privatebebo/img/icon_gameux_red.png
