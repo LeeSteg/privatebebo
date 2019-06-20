@@ -54,7 +54,7 @@ One example of Diegetic UI is the design of the main character in Dead Space, wh
 When designing a Diegetic UI, focus on legibility of each element. In addition, work with the game designers to ensure that the UI components do not interfere with the core gameplay and that the player’s progression is not obstructed.
 
 ![Diegetic UI](/privatebebo/img/UI_Diegetic.jpg)
-_Screenshot from The Division_
+_Screenshot from Tom Clancey's The Division_
 
 The **pros** of using a Diegetic UI:
 - The UI is integrated with the gameplay, so the experience is more immersive.
