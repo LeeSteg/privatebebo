@@ -32,7 +32,7 @@ UI is used to support contextual information and actions in the game. Without go
 
 ![Design No](/privatebebo/img/Design_HUD_No.jpg)
 
-Design your UI components such that there is no need to explicitely display “YOUR HEALTH IS LOW!”
+Design your UI components such that there is no need to explicitly display “YOUR HEALTH IS LOW!”
 
 ![Design NoNo](/privatebebo/img/Design_HUD_NoNo.jpg)
 
