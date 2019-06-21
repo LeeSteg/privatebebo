@@ -175,9 +175,7 @@ Use sound when it is most impactful to gameplay, such as setting a mood or drawi
 Here are a few examples:
 - A player uses the frontend menu to enter a Microsoft Store page. 
 Rather than having the user transition through all the elements without sound, use a bell or a subtle ring at the end of each transition, and highlight new items for sale. Not only would the sound draw attention to a new item on the screen, but it would also teach the user that the sound of a bell means a new feature is available in the store.
-
 <br>
-
 - A player uses the HUD to look down the scope of a gun. 
 To increase the feeling of tension, trigger the sound of a heartbeat while the player is trying to focus on a target. In a sports game such as basketball, trigger the same heartbeat sound while the player is about to take that critical last shot, with seconds remaining in the game.
 
