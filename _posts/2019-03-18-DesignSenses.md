@@ -187,7 +187,7 @@ The sound effects illustrated in these examples do not stop gameplay; in fact, t
 ## Sight
 Sight is the sense that video games exploit most extensively. Visuals set the mood and help tell a story. Take advantage of the composition theory to come up with imagery that can help you get ahead of your competition.
 
-Dead Space took traditional flat UI and unified gameplay with narrative through immersive, [diegetic presentation of the UI](/2019-03-24-UI_Representation/). The 3rd person perspective allows the display of health and ammo information on the character’s back and weapon which can be seen by both the character and player. This opens up the entire gameplay view for a completely immersive experience allowing players to take in the survival horror atmosphere. The high contast color palette between UI and game world also provides clarity and readability. Dead Space’s pioneering use of diegeic UI has become a source of inspiration for the industry.
+Dead Space took traditional flat UI and unified gameplay with narrative through immersive, [diegetic presentation of the UI](/privatebebo/2019-03-24-UI_Representation/). The 3rd person perspective allows the display of health and ammo information on the character’s back and weapon which can be seen by both the character and player. This opens up the entire gameplay view for a completely immersive experience allowing players to take in the survival horror atmosphere. The high contast color palette between UI and game world also provides clarity and readability. Dead Space’s pioneering use of diegeic UI has become a source of inspiration for the industry.
 
 ![Screen Composition](/privatebebo/img/Composition_Color.jpg)
 _An example from DeadSpace_
