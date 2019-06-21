@@ -6,7 +6,7 @@ tags: [Color]
 categories: [Color]
 ---
 
-By providing an extended range of luminosity, [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) empowers us to express a true glow or a burst of light within a bright area as well as the subtleties of darkness within the shadows. However, with a greater range of WCG (and dark and light values) that is available in HDR, discrepancies might result when converting between SDR and HDR values.
+By providing an extended range of luminosity, [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) empowers us to express a true glow or a burst of light within a bright area as well as the subtleties of darkness within the shadows. However, with a greater WCG (Wide Color Gamut) range that is available in HDR, discrepancies might result when converting between SDR and HDR values.
 
 ![8 bit palette](/privatebebo/img/Photoshop_8bit.png)
 
