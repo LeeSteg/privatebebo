@@ -6,11 +6,11 @@ tags: [Color]
 categories: [Color]
 ---
 
-By availing an extended range of luminosity, [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) empowers us to express not only the subtleties of shadows but also a true glow or a burst of light within a bright area. However, because a greater range of WCG (and dark and light values) is available in HDR, discrepancies might result when SDR and HDR values are interconverted:
+By providing an extended range of luminosity, [HDR](https://en.wikipedia.org/wiki/High_dynamic_range) empowers us to express a true glow or a burst of light within a bright area as well as the subtleties of darkness within the shadows. However, with a greater range of WCG (and dark and light values) that is available in HDR, discrepancies might result when converting between SDR and HDR values.
 
 ![8 bit palette](/privatebebo/img/Photoshop_8bit.png)
 
-A similar issue emerged when consoles and PCs went from using swatches with 256 colors to swatches with thousands of colors.
+A similar issue emerged when consoles and PCs went from using swatches with 256 colors to swatches with thousands of colors. It provided the ability to display more realistic imagery, but also made it easier to spot inconsistencies in poorly created artwork.
 
 One of the ways to increase the visibility of individual UI components is to set up a specific palette that uses brighter values reserved only for your focus states. Using this technique helps accentuate certain areas within your UI, in both SDR and HDR, and it helps guide users through the menus and HUD.
 
