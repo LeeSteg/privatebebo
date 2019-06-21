@@ -496,8 +496,8 @@ img {
 }
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
-  padding: 100px;
-  padding-left: 300px;
+  padding: 10px;
+  padding-left: 30px;
   background-color: {{ site.navbar-children-col }};
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
@@ -525,7 +525,7 @@ img {
     position: absolute;
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
-    padding-left: 100px;
+    padding-left: 10px;
     border: 1px solid #dedede;
     border-width: 0 1px 1px;
   }
