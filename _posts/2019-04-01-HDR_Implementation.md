@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implementation of High Dynamic Range
-subtitle: Core priniciples in designing HDR content
+subtitle: Core principles in designing HDR content
 tags: [Color]
 categories: [Color]
 ---
