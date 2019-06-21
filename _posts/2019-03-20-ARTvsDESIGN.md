@@ -26,4 +26,5 @@ Cognitive Design focuses on the technical execution of topics through the use of
 - Are the composition and layout balanced?
 <br>
 <br>
-> “Design is the how. It’s the foundation of all communication, the process and production of typography, color, scale, and placement.”    - [Jarrod Riddle](http://www.lifeislottery.com), _Senior Art Director, Big Spaceship_
+> “Design is the how. It’s the foundation of all communication, the process and production of typography, color, scale, and placement.” -
+<a href= "http://www.lifeislottery.com" target="_blank">Jarrod Riddle</a>, Senior Art Director, Big Spaceship
