@@ -368,7 +368,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #ff9200;
+	color: {{ site.hover-col }};
 }
 
 .navbar-custom .navbar-brand:hover,
