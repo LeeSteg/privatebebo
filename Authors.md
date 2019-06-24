@@ -17,11 +17,11 @@ Over the years, Lee has seen all types of productions big and small, leading tea
 
 ## Omer Younas
 <img style="float: right;" src="https://leesteg.github.io/privatebebo/img/Omer_Bio.png">
-Born and raised in London UK and now residing in Los Angeles California. Inspired by his father and elder brothers, he was drawn to art and digitally generated imagery; captivated by visual story telling in Video Games. This passion continued throughout his educational life and he found himself drawn to graphic design.
+Working in the video game industry for over 12 years, Omer has driven the design for many industry-defining AAA franchises. He began his career in UK working on racing games, later transitioning on to the FPS genre with the CRYSIS franchise. After moving across the world to Los Angeles, he broadened his experience working on Hideo Kojima’s METAL GEAR SOLID V as well as the BATTLEFIELD franchise to date. [Omer Younas - Official site](https://www.omeryounas.com)
 
-Now backed by over a decade worth of experience, crafting industry leading art for the best development studios around the world. After seven years in the UK games industry, he moved with his family, 5,500 miles to LA to work on Hideo Kojima’s award winning Metal Gear Solid V: The Phantom Pain. Since joining DICE LA he has worked on 2016’s _‘Most anticipated FPS’_ BATTLEFIELD 1 and more recently BATTLEFIELD V. 
+Aiming to create engaging, user experiences whilst crafting aesthetically appealing designs; his focus and eye for detail can be seen throughout his body of work, continually driving improvements through extensive live-service experience. His working knowledge and  broad skill-set accommodates large areas of visual design for both digital and print; crafting style guides, visual identity systems, key art, iconography, motion graphics, merchandising as well as internal & external marketing material. Learning, collaborating and sharing knowledge has been at the core of Omer's workflow, allowing designers and engineers to benefit and evolve together as the industry continues to grow and shift alongside its userbase.
 
-As the vision holder for AAA projects, he leads the design for all things 2D. From branding to style guides, keyart to UI/UX, motion graphics and VFX to marketing. Gaining knowledge is integral to his work and feeds into his process. This drives his passion to raise the bar with every project; pushing the medium far beyond its expectations.
+At GDC 2018, Omer preseented a 60-minute session on ‘Art Direction for AAA UI’ which outlined core principles of UI and UX, with detailed examples from major console and pc titles. Leading on from the success of the session, Lee and Omer collaborated to create this resource expanding on the original talk; a reference guide detailing relevant principles, best practices and over a combined 37 years worth of experience used to create industry-leading game UI - all for free.
 
 <br>
 <br>
