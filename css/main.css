@@ -396,7 +396,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav  li.hover-col-search a:hover,
 .navbar-custom .nav  li.hover-col-search a:focus {
-  color: #9313ae;
+  color: #a222bd;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -1051,8 +1051,8 @@ td.gutter {
 
 .btn-primary {
     color: #fff;
-    background-color: #9313ae;
-    border-color: #9313ae;
+    background-color: #a222bd;
+    border-color: #a222bd;
 }
 
 a.btn.btn-primary.tag-btn:hover {
