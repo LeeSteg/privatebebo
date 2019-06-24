@@ -40,7 +40,7 @@ a:focus {
 }
 
 blockquote {
-  color: #6e6e6e;
+  color: #767676;
   font-style: italic;
 }
 
@@ -618,7 +618,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #6e6e6e;
+  color: #767676;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
@@ -1044,7 +1044,7 @@ td.gutter {
 }
 
 #full-tags-list .tag-entry .entry-date {
-  color: #6e6e6e;
+  color: #767676;
   font-style: italic;
   font-size: 16px;
 }
