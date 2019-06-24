@@ -3065,7 +3065,7 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #fff;
-  background-color: #67067b;
+  background-color: #337ab7;
   border-color: #2e6da4;
 }
 .btn-primary:hover,
@@ -4138,8 +4138,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-fixed-top,
 .navbar-fixed-bottom {
   position: fixed;
-  right: 100;
-  left: 100;
+  right: 0;
+  left: 0;
   z-index: 1030;
 }
 @media (min-width: 768px) {
