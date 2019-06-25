@@ -27,7 +27,7 @@ Although we can’t guarantee any specific ideas will be implemented, we’ll en
 
 ## Contact Us
 
-<form action="https://formspree.io/lsteg@microsoft.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/gameux@microsoft.com" method="POST" class="form" id="contact-form">
   <p>Send us a quick message using the form below:</p>
   <div class="row">
     <div class="col-xs-6">
