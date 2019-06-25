@@ -4,6 +4,8 @@ title: Research, Reference and Data
 subtitle: Before you begin, do your homework
 tags: [Getting Started]
 categories: [gettingstarted]
+image: https://leesteg.github.io/privatebebo/img/thmb_research.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_research.png
 ---
 
 ## Gathering of data, and research
