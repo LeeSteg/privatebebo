@@ -4,6 +4,8 @@ title: Design Process
 subtitle: Design is not Linear
 tags: [Getting Started, Design]
 categories: [gettingstarted]
+image: https://leesteg.github.io/privatebebo/img/thmb_design.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_design.png
 ---
 
 Although a good design might look simple and easy to use, the design process itself was probably far from linear. In fact, Design Process is usually messy and involves multiple iterations and refinements, and some ideas get tossed out completely.

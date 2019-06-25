@@ -4,6 +4,8 @@ title: Design for the Senses
 subtitle: Touch  Sound  Sight
 tags: [Getting Started, Design]
 categories: [gettingstarted]
+image: https://leesteg.github.io/privatebebo/img/thmb_senses.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_senses.png
 ---
 
 To create an immersive experience, the successful games design for more than one sense.  
