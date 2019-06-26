@@ -692,14 +692,14 @@ footer .theme-by {
 
 @media only screen and (max-width: 500px) {
   .post-image, .post-image img {
-    height: 100px;
-    width: 100px;
+    height: 0px;
+    width: 0px;
   }
 
   .post-image {
     width: 100%;
     text-align: left;
-    margin-top: 35;
+    margin-top: 0;
     float: left;
   }
 }
