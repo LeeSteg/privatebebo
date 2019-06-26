@@ -692,8 +692,8 @@ footer .theme-by {
 
 @media only screen and (max-width: 500px) {
   .post-image, .post-image img {
-    height: 0px;
-    width: 0px;
+    height: 100px;
+    width: 100px;
   }
 
   .post-image {
