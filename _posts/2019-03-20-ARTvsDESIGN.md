@@ -4,6 +4,8 @@ title: Art vs Design
 subtitle: Does it look or feel good?
 tags: [Getting Started]
 categories: [gettingstarted]
+image: https://leesteg.github.io/privatebebo/img/thmb_artvsdesign.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_artvsdesign.png
 ---
 
 ### Art Direction: _“Does it feel good?”_  
