@@ -429,7 +429,7 @@ img {
     transition: background .5s ease-in-out,padding .5s ease-in-out;
   }
   .navbar-custom.top-nav-short {
-    padding: 0;
+    padding: 50;
   }
 }
 
