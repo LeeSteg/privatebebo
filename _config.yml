@@ -8,13 +8,13 @@
 # baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://leesteg.github.io/privatebebo"
+url: "https://gameuxmasterguide.com"
 baseurl: "/privatebebo"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "GameUX:MasterGuide"
+title: "GameUX MasterGuide"
 
 # Short description of your site
 description: The forum for Game UX enthusiasts
