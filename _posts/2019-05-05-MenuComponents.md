@@ -8,7 +8,7 @@ categories: [Menus]
 
 Static mockups are the building blocks of a UI. Establish the core components of your UI, such as buttons, drop-down lists, sliders, and progress bars. Experiment to come up with the most appropriate tone, theme, and art.
 
-![UI component examples](/privatebebo/img/Examples_UIComponents.png)  
+![UI component examples](/img/Examples_UIComponents.png)  
 
 <br>
 
