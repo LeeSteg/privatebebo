@@ -22,16 +22,16 @@ Use shaders to create effects for UI elements without having to render each elem
 
 In the example that follows, we start with a base artwork: a flat image with a subtle transparency. Using shaders, you can program visual effects such as drop shadows, blur effects, and chromatic aberrations. The use of a shader helps make such a simple base artwork more dynamic and pleasing to the eye.
 
-![Shader Examples](/privatebebo/img/Shader_Examples.jpg)  
+![Shader Examples](/img/Shader_Examples.jpg)  
 
 In Crysis, the designers added a scan line and glow effects on top of the UI, to make it look like a projection:  
-![Scan Line shader](/privatebebo/img/Shader_ScanLine.jpg)
+![Scan Line shader](/img/Shader_ScanLine.jpg)
 
 To create this effect, the designers mapped the UI elements to polygons and then added the shader effects to the polygons:  
-![Scan Line polygons](/privatebebo/img/Shader_ScanLine_poly.jpg)
+![Scan Line polygons](/img/Shader_ScanLine_poly.jpg)
 
 These are the 2D elements mapped on a 3D layout. Mapping UI elements to polygons also lets you use the game engine to composite your UI within the game environments.  
-![Scan Line mapping](/privatebebo/img/Shader_ScanLine_mapping.jpg)
+![Scan Line mapping](/img/Shader_ScanLine_mapping.jpg)
 
 <br>
 
@@ -40,7 +40,7 @@ There's a lot of fun in experimenting with the composition of UI components and 
 
 Finding unique camera angles and juxtaposing menus with game objects can create interesting compositions and highlight areas of the game that would be difficult to see in traditional flat 2D menus.
 
-![Screen Composition in world](/privatebebo/img/Screen_Composition.gif)
+![Screen Composition in world](/img/Screen_Composition.gif)
 
 <br>
 
@@ -49,13 +49,13 @@ To create a more immersive experience in a game, some designers will use a fixed
 
 The more immersive a menu you’re trying to design, the more effort and resources you might have to expand. It is critical that you create a prototype to spec out the camera, character and menu positioning, lighting, animations (intro, idle, and outro), gameplay state change, menu design, engineering restrictions, and performance.
 
-![Rise of the Tomb Raider menu](/privatebebo/img/TombRaider_menu.jpg)  
+![Rise of the Tomb Raider menu](/img/TombRaider_menu.jpg)  
 _This screenshot from Rise of the Tomb Raider shows how menus can be integrated within gameplay._
 
-![Rise of the Tomb Raider submenu](/privatebebo/img/TombRaider_submenu.jpg)  
+![Rise of the Tomb Raider submenu](/img/TombRaider_submenu.jpg)  
 _Rise of the Tomb Raider: Another example of how in-game scenes and assets can be integrated to support UI menus._
 
-![Halo 5 menu](/privatebebo/img/Halo5_menu.jpg)  
+![Halo 5 menu](/img/Halo5_menu.jpg)  
 _Halo 5: Layout of 3D assets can help immerse the player at the level of main menu._
 
 <br>
