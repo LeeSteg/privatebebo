@@ -11,7 +11,7 @@ share-img: https://leesteg.github.io/privatebebo/img/thmb_senses.png
 To create an immersive experience, the successful games design for more than one sense.  
 The more senses you want to design for, and the more immersive experience you want to create, the more planning you have to do. Because using the senses of taste and smell in games is not mainstream yet, we’ll focus on the other three senses: touch, sound, and sight.
 
-![Touch](/privatebebo/img/Design_Common_Senses_long.png)
+![Touch](/img/Design_Common_Senses_long.png)
 
 ## Touch
 Most console games use a controller that has a set number of buttons and analog joysticks. Because interaction through these elements isn’t as fast or precise as through a mouse or direct touch, you should understand the limitations of your controller device.
