@@ -26,5 +26,5 @@ Set up a workspace conducive to creativity and productivity, a place where you c
 - Variable lighting, with the ability to turn the lights on and off
 
 {: style="text-align:center"}
-![Testing Workspace](/privatebebo/img/Testing_Workspace.png)  
+![Testing Workspace](/img/Testing_Workspace.png)  
 _Example of a testing workspace_
