@@ -2,16 +2,8 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-# url: "https://leesteg.github.io"
-# baseurl: "/privatebebo"
-
-# If you are building a GitHub project page then use these settings:
 url: "https://gameuxmasterguide.com"
 baseurl: ""
-
-# Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
 title: "GameUX MasterGuide"
@@ -78,7 +70,6 @@ footer-link-col: "#404040"
 
 # --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: © Microsoft
@@ -90,31 +81,30 @@ author:
 social-network-links:
   rss: true
   email: "gameux@microsoft.com"
-#  facebook: daattali
-#  github: bebomalaka
-#  twitter: daattali
+#  facebook: yourname
+#  github: yourname
+#  twitter: yourname
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: lee-steg-69826b
+#  google-plus: +yourname
+#  linkedin: your-name-12345b
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "1234567/yourname"
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: user/yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +15559998888
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  google: false
-  linkedin: false
+  twitter: true
+  facebook: true
+  google: true
+  linkedin: true
 
-# How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "Terms of use"
 url-contribute: "Community"
@@ -151,7 +141,7 @@ url-authors: "Authors"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : # GitHub username/repository
   branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
