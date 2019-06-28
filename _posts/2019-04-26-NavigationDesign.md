@@ -32,7 +32,7 @@ As soon as the UI Map contains all menu areas, discuss the flow’s scope with t
 
 Use the UI Map to help all disciplines understand the scope and design of the project throughout production. Update the UI Map with every change made, and have the leads and producers update it with production deadlines, budgeting, and staffing.
 
-![Involve Stakeholders](/privatebebo/img/NavDesignGroup.png)
+![Involve Stakeholders](/img/NavDesignGroup.png)
 
 <br>
 
@@ -42,19 +42,19 @@ Before diving deep into the details, think of the UI Map as a painting. Start wi
 Make the first version of the UI map high level and use it to record all the design features exposed in the interface with the user. Make each menu high level enough to record each interaction as a new menu or notification and to easily show how the user can navigate the menu.
 
 {: style="text-align:center"}
-![V1 Basic Feature Set](/privatebebo/img/NavDesignV1.png)
+![V1 Basic Feature Set](/img/NavDesignV1.png)
 
 Make the second version of the UI Map a detailed listing of options and features within each menu screen. This will help determine the template patterns and reuse of components. This level of detail will also help with engineering, design, and production.
 
 
 {: style="text-align:center"}
-![V2 Detailed Information](/privatebebo/img/NavDesignV2.png)
+![V2 Detailed Information](/img/NavDesignV2.png)
 
 The third version is optional. It is used to demonstrate the menus and features and to create an interactive walkthrough prototype before production begins.
 
 
 {: style="text-align:center"}
-![V3 High Level Features](/privatebebo/img/NavDesignV3.png)
+![V3 High Level Features](/img/NavDesignV3.png)
 
 <br>
 
@@ -78,12 +78,12 @@ Review the entire UI Map to ensure that the same buttons are used to perform the
 <br>
 
 ### Examples
-![Basic UI Map](/privatebebo/img/NavDesignExample01.jpg)  
+![Basic UI Map](/img/NavDesignExample01.jpg)  
 _Basic UI Map showing a menu flow_
 
-![Detailed UI Map](/privatebebo/img/NavDesignExample02.jpg)  
+![Detailed UI Map](/img/NavDesignExample02.jpg)  
 _Detailed UI Map with a legend_
 
-![Templated UI Map](/privatebebo/img/NavDesignExample03.jpg)  
+![Templated UI Map](/img/NavDesignExample03.jpg)  
 _Detailed UI Map with a legend that shows the templates, components, and API calls_
 
