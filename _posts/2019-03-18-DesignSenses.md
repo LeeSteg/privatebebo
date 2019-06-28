@@ -29,7 +29,7 @@ The controller’s layout can make or break the players’ experiences within a 
 Console games have been around for decades, so a number of interactions have become standard and are even expected by players today.
 
 ### Microsoft's Xbox One
-![Xbox One controller](/privatebebo/img/Xbox_Controller.jpg)
+![Xbox One controller](/img/Xbox_Controller.jpg)
 
 Menu navigation controls of the Xbox One controller
 - **A**: enter, select, confirm
@@ -51,7 +51,7 @@ Menu navigation controls of the Xbox One controller
  
 ### Sony's Playstation Controller
 
-![PS4 controller](/privatebebo/img/PS4_Controller.jpg)
+![PS4 controller](/img/PS4_Controller.jpg)
 
 The layouts of the PlayStation and Xbox controllers are very similar. One major exception is the touchpad, which was introduced in PlayStation 4 and offers additional opportunities for input, such as touch and gesture control.  
 Menu navigation controls of the PS4 controller
@@ -75,7 +75,7 @@ Menu navigation controls of the PS4 controller
 
 ### Nintendo's Switch Controller
 
-![Switch controller](/privatebebo/img/Switch_Controller.jpg)
+![Switch controller](/img/Switch_Controller.jpg)
 
 The Switch controller is similar to the Xbox and PlayStation controllers but can also be split into two controllers that have a similar but limited layout.  
 Menu navigation controls of the Switch controller
@@ -99,7 +99,7 @@ Menu navigation controls of the Switch controller
 
 ### Microsoft's Xbox Adaptive Controller
 
-![Xbox Adaptive controller](/privatebebo/img/Xbox_Adaptive_Controller.jpg)
+![Xbox Adaptive controller](/img/Xbox_Adaptive_Controller.jpg)
 
 Designed primarily to meet the needs of gamers with limited mobility, the Xbox Adaptive Controller is a unified hub for devices and is designed to make gaming more accessible. It works with a range of external devices (such as switches, buttons, mounts, and joysticks) to create a customizable controller experience unique to a player.
 
@@ -134,7 +134,7 @@ Different layouts of controllers have been designed to suit different genres of 
 ### Mouse and keyboard
 Interaction through the mouse is similar to interaction through touch, in that the user can perform any action with pinpoint accuracy, on any part of the screen. The keyboard is a powerful tool in its own way, because it offers a wide variety of button and key inputs (and an even greater variety of combinations) for communication and navigation.
 
-![Mouse & Keyboard](/privatebebo/img/Mouse_Keyboard.jpg)
+![Mouse & Keyboard](/img/Mouse_Keyboard.jpg)
 
 <br> 
 
@@ -190,10 +190,10 @@ Sight is the sense that video games exploit most extensively. Visuals set the mo
 
 Dead Space took traditional flat UI and unified gameplay with narrative through immersive, [diegetic presentation of the UI](/privatebebo/2019-03-24-UI_Representation/). The 3rd person perspective allows the display of health and ammo information on the character’s back and weapon which can be seen by both the character and player. This opens up the entire gameplay view for a completely immersive experience allowing players to take in the survival horror atmosphere. The high contast color palette between UI and game world also provides clarity and readability. Dead Space’s pioneering use of diegeic UI has become a source of inspiration for the industry.
 
-![Screen Composition](/privatebebo/img/Composition_Color.jpg)
+![Screen Composition](/img/Composition_Color.jpg)
 _An example from DeadSpace_
 
-![Black & White Composition](/privatebebo/img/Composition_BW.jpg)
+![Black & White Composition](/img/Composition_BW.jpg)
 _This image also works in black and white. The features remain clear and UI is legible._
 
 {: .box-warning}
@@ -201,5 +201,5 @@ _This image also works in black and white. The features remain clear and UI is l
 
 At the other end of the spectrum are images like the one shown below. The image is vibrant and saturated with color, and it has interesting elements. However, there is too much to look at, and no obvious resting point. The impact is not as great as it could have been.
 
-![Information Overload](/privatebebo/img/Composition_overload.jpg)
+![Information Overload](/img/Composition_overload.jpg)
 
