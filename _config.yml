@@ -5,11 +5,11 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 # url: "https://leesteg.github.io"
-# baseurl: ""
+# baseurl: "/privatebebo"
 
 # If you are building a GitHub project page then use these settings:
 url: "https://gameuxmasterguide.com"
-baseurl: "/privatebebo"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
