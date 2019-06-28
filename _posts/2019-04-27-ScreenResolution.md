@@ -14,7 +14,7 @@ Modern console games are designed for the most popular resolutions:
 - **1080p HD:** 1920 x 1080
 - **4K UHD:** 3840 x 2160
 
-![Screen Resolutions](/privatebebo/img/Screen_Resolutions.jpg)  
+![Screen Resolutions](/img/Screen_Resolutions.jpg)  
 _HD televisions maintain an aspect ratio of 16:9_
 
 An item displayed in HD and 4K occupies the same area on the screen. This means you can use the same UI layout for both resolutions, as long as you keep the following in mind:
@@ -37,7 +37,7 @@ Screens have two Safe Frame areas:
 - **Title Safe** is where text and graphics are rendered. This area is used to position menus, titles, and HUD elements, and its dimensions are 90% of the screen resolution that is translated. For example, at 1920 x 1080, Title Safe is 1728 x 972.
 
 When designing grids, keep everything within the Safe Frame:  
-![Safe Screen](/privatebebo/img/Screen_Safe.jpg)  
+![Safe Screen](/img/Screen_Safe.jpg)  
 
 <br>
 
