@@ -19,7 +19,7 @@ Why is this important? Players want the UI to be responsive to context and as co
 The **DOs** of the design process:
 
 - Make the UI legible at a [distance greater than 6 feet](/2019-04-28-DesigningTypography/).
-- Enable users to see the [different states](/2019-05-01-GeneralGuidelines/) of an interactive object.
+- Enable users to see the [different states](/2019-04-31-GeneralGuidelines/) of an interactive object.
 - Ensure the consistent placement of UI elements and consistent use of [color](/2019-05-01-Color/) and [font size](/2019-04-28-TypographyBasics/).
 - Make the UI subtle rather than always front and center.
 
