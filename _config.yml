@@ -114,7 +114,7 @@ url-authors: "Authors"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-142992421-1"
+#gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-142992421-1"
