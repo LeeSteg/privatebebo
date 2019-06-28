@@ -14,7 +14,7 @@ Follow these two main rules when designing the layout of the HUD:
 Game genres vary with respect to gameplay strategies, camera positions, and focus of action. In most genres, however, HUD components tend to be displayed as separate from the core gameplay but still close enough to be glanced at quickly. In addition, because the left side of the screen is viewed more often than the right, place the HUD’s most frequently accessed information at the top and on the left, and place secondary information at the bottom and on the right.
 
 To determine the best placement of HUD components, divide the display area into a nine-part grid:  
-![HUD Zone Layout](/privatebebo/img/HUD_Zone_Layout.jpg)
+![HUD Zone Layout](/img/HUD_Zone_Layout.jpg)
 
 **Action Safe** - Place all vital actions within 95% from the edges of the screen.
 
@@ -44,7 +44,7 @@ To determine the best placement of HUD components, divide the display area into 
 
 A game can have a variety of situation-specific HUD components. To ensure that all components are legible, design for the worst-case scenario. This means that if all components were to be displayed at the same time, they would still be legible and would not overlap. To achieve this, use various techniques and programming logic.
 
-![Design for maximum UI usage](/privatebebo/img/HUD_Maximum_Usage.jpg)  
+![Design for maximum UI usage](/img/HUD_Maximum_Usage.jpg)  
 _In Spectator mode of Battlefield One, there is too much information on the screen for a player to comprehend._
 
 <br>
