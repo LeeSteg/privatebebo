@@ -6,11 +6,11 @@ tags: [Knowledge, Design]
 categories: [Knowledge]
 ---
 
-![UI Patterns](/privatebebo/img/Gestalt_Principals.png)
+![UI Patterns](/img/Gestalt_Principals.png)
 
 Gestalt principles are based on cognitive research and how we perceive the world through our senses. Gestalt principles provide the foundation for creating accessible designs and establishing UI patterns within those designs.
 
-![Screenshot example](/privatebebo/img/Gestalt_Screen.jpg)
+![Screenshot example](/img/Gestalt_Screen.jpg)
 _A screenshot from Battlefield One: Spectator Mode_
 
 <br>
@@ -20,7 +20,7 @@ This diagram shows a dotted line, but the brain perceives it as a circle because
 
 The space between the blurred bars at the top and bottom of the screen can be interpreted such that all displayed UI elements are one unit.
 
-![Closure](/privatebebo/img/Gestalt_Closure.jpg)
+![Closure](/img/Gestalt_Closure.jpg)
 
 <br>
 
@@ -29,7 +29,7 @@ Does this diagram show nine circles or one group of circles? Objects that are cl
 
 The players’ information displayed in close proximity in the top left and right corners forms so-called Squad List groups. The row of icons in the center forms the score mode. The row of Squad Lists and score mode forms the team information.
 
-![Proximity](/privatebebo/img/Gestalt_Proximity.jpg)
+![Proximity](/img/Gestalt_Proximity.jpg)
 
 <br>
 
@@ -38,7 +38,7 @@ The brain interprets this drawing as a continuous curved line even though the li
 
 Positioning the lines at the same height creates an illusion that the Spectator line divides the screen. 
 
-![Continuity](/privatebebo/img/Gestalt_Continuity.jpg)
+![Continuity](/img/Gestalt_Continuity.jpg)
 
 <br>
 
@@ -47,7 +47,7 @@ The diagram to the left shows a series of grey and hollow circles and squares. A
 
 The highlighted boxes are similar in shape and color, so the brain interprets them as a group and ignores all other boxes.
 
-![Similarity](/privatebebo/img/Gestalt_Similarity.jpg)
+![Similarity](/img/Gestalt_Similarity.jpg)
 
 <br>
 
@@ -56,7 +56,7 @@ The image to the left is 2D, but the brain interprets it as 3D by differentiatin
 
 With figure-ground, all elements occupy the same space, and there's no Z-sorting. We need to give a specific location for these components, to allow the brain to perceive the elements as being in front of the gameplay.
 
-![Figure-ground](/privatebebo/img/Gestalt_FigureGround.jpg)
+![Figure-ground](/img/Gestalt_FigureGround.jpg)
 
 <br>
 
@@ -66,7 +66,7 @@ The circles shown in the diagram on the left could all be part of the same group
 
 Drawing a box around a set of elements will simulate the enclosure effect and group these elements together.
 
-![Enclosure](/privatebebo/img/Gestalt_Enclosure.jpg)
+![Enclosure](/img/Gestalt_Enclosure.jpg)
 
 <br>
 
@@ -75,6 +75,6 @@ The brain tends to interpret distinct but symmetrical elements as one group.
 
 Due to the symmetry principle, the Squad Lists on the left and right can be interpreted as a single component.
 
-![Symmetry](/privatebebo/img/Gestalt_Symmetry.jpg)
+![Symmetry](/img/Gestalt_Symmetry.jpg)
 
 <br>
