@@ -16,8 +16,9 @@ To make your games accessible to all players, you want to meet and exceed the mi
 - Cognitive disabilities
 - Seizures
 
-A great reference website is [gameaccessibilityguidelines.com](http://gameaccessibilityguidelines.com/)
+A great reference website is <a href= "http://gameaccessibilityguidelines.com/" target="_blank">gameaccessibilityguidelines.com</a>
 
-To find out more about the industry’s accessibility standard, go to [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
+
+To find out more about the industry’s accessibility standard, go to <a href= "https://www.w3.org/TR/WCAG21/" target="_blank">WCAG 2.1</a>
 
 <br>
