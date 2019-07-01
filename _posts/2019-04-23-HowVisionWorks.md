@@ -4,6 +4,8 @@ title: How our eyes work
 subtitle: A brief explaination and how it effects your design
 tags: [Knowledge]
 categories: [Knowledge]
+image: https://leesteg.github.io/privatebebo/img/thmb_howeyeswok.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_howeyeswok.png
 ---
 
 
