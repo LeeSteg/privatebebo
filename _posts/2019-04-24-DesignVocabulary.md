@@ -4,6 +4,8 @@ title: Design Vocabulary
 subtitle: Terms and topics to know
 tags: [Knowledge]
 categories: [Knowledge]
+image: https://leesteg.github.io/privatebebo/img/thmb_designvocab.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_designvocab.png
 ---
 
 
