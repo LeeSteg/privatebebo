@@ -4,6 +4,8 @@ title: Gestalt Theory
 subtitle: How we perceive the world
 tags: [Knowledge, Design]
 categories: [Knowledge]
+image: https://leesteg.github.io/privatebebo/img/thmb_gestalt.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_gestalt.png
 ---
 
 ![UI Patterns](/img/Gestalt_Principals.png)
