@@ -4,6 +4,8 @@ title: Representation of UI
 subtitle: Different types of HUD Design 
 tags: [Knowledge, UI]
 categories: [Knowledge]
+image: https://leesteg.github.io/privatebebo/img/thmb_uirepresen.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_uirepresen.png
 ---
 
 The four types of HUD UI are Non-Diegetic, Diegetic, Spatial, and Meta. Each UI has its pros and cons, as well as distinct budgeting requirements for art direction, pre-production, implementation, and design.
