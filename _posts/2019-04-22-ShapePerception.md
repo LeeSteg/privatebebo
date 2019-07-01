@@ -4,6 +4,8 @@ title: Theory of Visual Perception
 subtitle: How your brain perceives visual design
 tags: [Knowledge]
 categories: [Knowledge]
+image: https://leesteg.github.io/privatebebo/img/thmb_perception.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_perception.png
 ---
 
 ## Theory of Visual Perception
