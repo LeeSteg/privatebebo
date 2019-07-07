@@ -4,6 +4,8 @@ title: Principles of Usability
 subtitle: Seven building blocks to good UX
 tags: [Knowledge, UI]
 categories: [Knowledge]
+image: https://leesteg.github.io/privatebebo/img/thmb_usability.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_usability.png
 ---
 
 ![Usability Principles](/img/Usability_Principals.png)
