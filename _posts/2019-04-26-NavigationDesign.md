@@ -4,6 +4,8 @@ title: Navigation Design
 subtitle: UX starts with Navigation Design
 tags: [Technical, Design]
 categories: [Technical]
+image: https://leesteg.github.io/privatebebo/img/thmb_navigation.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_navigation.png
 ---
 
 ## Navigation Design
