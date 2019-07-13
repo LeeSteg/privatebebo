@@ -4,6 +4,8 @@ title: Tutorials
 subtitle: It's more than do this and do that
 tags: [Technical]
 categories: [Technical]
+image: https://leesteg.github.io/privatebebo/img/thmb_tutorials.png
+share-img: https://leesteg.github.io/privatebebo/img/thmb_tutorials.png
 ---
 
 Tutorials are used to teach a player the core mechanics of a game. In the past, tutorials were a last-minute addition and subject to resources and production deadlines; for example, a pop-up screen would be added to display some minimal instructions on button combinations. 
