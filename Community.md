@@ -11,7 +11,6 @@ css: "/css/ContactUs.css"
 To help designers build the best UX experiences across the gaming industry, we’ve created this site in partnership between [two industry veterans](https://leesteg.github.io/privatebebo/Authors) from Electronic Arts and Microsoft. 
 
 We do not have all the answers, nor do we have time to cover all areas of Game UX.  
-We all benefit as a community and are stronger together than a single voice. 
 
 If you are interested in suggesting content to be covered, or would like to contribute to our site, we welcome your comments and content. 
 
