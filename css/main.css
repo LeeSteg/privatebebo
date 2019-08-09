@@ -394,6 +394,13 @@ img {
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
+.navbar-custom .nav  li.hover-col-contribute a:hover,
+.navbar-custom .nav  li.hover-col-contribute a:focus {
+  color: #ac6e03;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav  li.hover-col-search a:hover,
 .navbar-custom .nav  li.hover-col-search a:focus {
   color: #a222bd;
