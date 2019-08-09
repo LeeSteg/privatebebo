@@ -20,7 +20,7 @@ Set up a workspace conducive to creativity and productivity, a place where you c
 
 #### Recommended review station:
 
-- 42” television at a minimum, set at least 6 feet from the seating area
+- 42” (106 cm) television at a minimum, set at least 6 feet (1.83 m) from the seating area
 - Seating area: couch or chair
 - Devkit and controller
 - Variable lighting, with the ability to turn the lights on and off
