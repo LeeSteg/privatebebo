@@ -7,7 +7,7 @@ categories: [HUD]
 show-avatar: false
 ---
 
-In the HUD, Information graphics are often layered on top of the gameplay. This helps players keep track of the core gameplay information, such as the score, health, time, item totals, location, and direction.
+In the HUD, information graphics are often layered on top of the gameplay. This helps players keep track of the core gameplay information, such as the score, health, time, item totals, location, and direction.
 
 ### Health
 
@@ -92,7 +92,7 @@ You have many techniques at your disposal:
 
 Shooter games commonly use first-person and third-person POVs. With the third-person POV, the character is usually in the bottom-center of the screen. To avoid obscuring the character, display the ammo count in the upper-right or upper-left corner of the screen. With the first-person POV, the focus is in the center of the screen, so the ammo count is best placed in the mid-bottom part of the screen. 
 
-Newer HUD designs integrate the ammo count with the weapon itself, so the traditional ammo count component may get eliminated.
+For example: In newer Sci-Fi games, the HUD integrates the ammo count with the weapon itself, and the traditional ammo count component is eliminated.
 
 The following examples illustrate how the **Ammo Count component** can be used in various types of games:
 
