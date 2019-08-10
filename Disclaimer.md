@@ -1,11 +1,10 @@
 ---
 
 layout: page
-use-site-title: false
+title: Disclaimer
+use-site-title: true
 
 ---
-
-## Disclaimer
 
 We have years of industry experience in different studios and on different projects. The articles on this site are our opinions and findings that celebrate what we think are the best ways to design games, user interfaces and input based on that experience. This site is an open forum to empower our community to speak freely, and our opinions do not represent the companies whom we work for.
 
