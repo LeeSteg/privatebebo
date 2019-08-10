@@ -283,6 +283,15 @@ hr.HUD {
   color: #1f7bc2;
 }
 
+hr.ContributeMain {
+  max-width: 100px;
+  margin: 15px auto;
+  border-width: 5px;
+  border-color: inherit;
+  border-radius: 0px;
+  color: #1f7bc2;
+}
+
 .main-content {
   padding-top: 80px;
 }
