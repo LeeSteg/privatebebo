@@ -12,6 +12,6 @@ We have years of industry experience in different studios and on different proje
 All imagery has been approved by the associated studios/publishers and are intended for education purposes.
 
 We all benefit as a community and are stronger together than a single voice.
-We are open to contributions to the discussion.
+We are open to <a href="https://leesteg.github.io/privatebebo/Community/"> contributions </a> to the discussion.
 
 **Game UX Master Guide**
