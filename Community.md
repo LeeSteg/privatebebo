@@ -5,6 +5,7 @@ title: Community
 subtitle: All for one, one for all...
 use-site-title: true
 css: "/css/ContactUs.css"
+categories: [ContributeMain]
 
 ---
 
