@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: Community
-subtitle: All for one, one for all...
+title: Contribute
+subtitle: Help us grow the Game UX community
 use-site-title: true
 css: "/css/ContactUs.css"
 categories: [ContributeMain]
