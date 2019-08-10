@@ -1,7 +1,7 @@
 ---
 
 layout: page
-use-site-title: true
+use-site-title: false
 
 ---
 
