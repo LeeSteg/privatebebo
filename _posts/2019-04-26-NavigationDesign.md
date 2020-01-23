@@ -2,6 +2,7 @@
 layout: post
 title: Navigation Design
 subtitle: UX starts with Navigation Design
+author: "Lee B Steg"
 tags: [Technical, Design]
 categories: [Technical]
 image: https://leesteg.github.io/privatebebo/img/thmb_navigation.png
