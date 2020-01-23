@@ -13,10 +13,9 @@ Art Direction is the use of art and design to create an emotional connection wit
 Art Direction adds a level of humanity and substance to the design, and it helps tell a story to the targeted market or community. 
 <br>
 <br>
-{: .box-warning}
 “Art direction is the why. It’s the concept and decisions that wrap itself around the entire product.” -
 <a href= "http://www.lifeislottery.com" target="_blank">Jarrod Riddle</a>, Senior Art Director, Big Spaceship
-
+{: .box-note}
 <br>
 
 ### Cognitive design: _“Does it look good?”_  
