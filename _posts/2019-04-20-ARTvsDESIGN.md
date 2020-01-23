@@ -14,7 +14,8 @@ Art Direction adds a level of humanity and substance to the design, and it helps
 <br>
 <br>
 
-{: .box-note}_“Art direction is the why. It’s the concept and decisions that wrap itself around the entire product.” -
+{: .box-note}
+_“Art direction is the why. It’s the concept and decisions that wrap itself around the entire product.” -
 <a href= "http://www.lifeislottery.com" target="_blank">Jarrod Riddle</a>, Senior Art Director, Big Spaceship_
 
 <br>
