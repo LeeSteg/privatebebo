@@ -12,7 +12,6 @@ share-img: https://leesteg.github.io/privatebebo/img/thmb_artvsdesign.png
 Art Direction is the use of art and design to create an emotional connection with the player. Art Direction comprises the overall concept and guidelines that the design must follow to ensure the game elicits an emotional response from the player.
 Art Direction adds a level of humanity and substance to the design, and it helps tell a story to the targeted market or community. 
 <br>
-<br>
 
 {: .box-note}
 _“Art direction is the why. It’s the concept and decisions that wrap itself around the entire product.” -
@@ -29,6 +28,7 @@ Cognitive Design focuses on the technical execution of topics through the use of
 - Does the typography use a hierarchy to help categorize information? 
 - Are the composition and layout balanced?
 <br>
-<br>
-> “Design is the how. It’s the foundation of all communication, the process and production of typography, color, scale, and placement.” -
-<a href= "http://www.lifeislottery.com" target="_blank">Jarrod Riddle</a>, Senior Art Director, Big Spaceship
+
+{: .box-note}
+_“Design is the how. It’s the foundation of all communication, the process and production of typography, color, scale, and placement.” -
+<a href= "http://www.lifeislottery.com" target="_blank">Jarrod Riddle</a>, Senior Art Director, Big Spaceship_
