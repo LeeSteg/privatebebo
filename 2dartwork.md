@@ -28,6 +28,9 @@ categories: [twodartworkMain]
 
    <p class="post-meta">
      Posted on {{ post.date | date: "%B %-d, %Y" }}
+     {% if post.author %}
+     <br/>{{ post.author }}
+     {% endif %}
    </p>
    
    <hr align="left" class="{{ post.categories.first | replace: " ", "" }}"/>
