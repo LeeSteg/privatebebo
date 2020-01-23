@@ -2,6 +2,7 @@
 layout: post
 title: Workspace
 subtitle: Creating a functional workspace
+author: Lee B Steg
 tags: [Technical]
 categories: [Technical]
 image: https://leesteg.github.io/privatebebo/img/icon_gameux_red.png
