@@ -81,10 +81,10 @@ Review the entire UI Map to ensure that the same buttons are used to perform the
 <br>
 
 ### Examples
-![Basic UI Map](/img/NavDesignExample01.jpg)  
+![Basic UI Map](/img/NavDesignExample02.jpg)  
 _Basic UI Map showing a menu flow_
 
-![Detailed UI Map](/img/NavDesignExample02.jpg)  
+![Detailed UI Map](/img/NavDesignExample01.jpg)  
 _Detailed UI Map with a legend_
 
 ![Templated UI Map](/img/NavDesignExample03.jpg)  
