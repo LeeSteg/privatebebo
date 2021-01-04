@@ -48,7 +48,7 @@ Although we can’t guarantee any specific ideas will be implemented, we’ll en
 
 
 <form action="https://formspree.io/f/gameux@microsoft.com" method="POST">
-    <p>Send us a quick message using the form below:</p>
+    <p>Send us a quick message using the from below:</p>
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
